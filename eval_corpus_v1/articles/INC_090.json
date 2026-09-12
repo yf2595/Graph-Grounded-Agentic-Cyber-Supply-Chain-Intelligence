@@ -1,0 +1,31 @@
+{
+  "article_id": "INC_090",
+  "incident_id": "INC_090",
+  "headline": "Floods Force Shutdown at Key NAL Automotive Production Site",
+  "body": "Heavy rains have led to significant flooding at a major North American Lighting plant, halting operations and causing extensive damage to both equipment and inventory. The facility, critical in manufacturing lighting parts for the automotive sector, has been temporarily closed to ensure worker safety and facilitate necessary clean-up efforts. Officials confirmed the disruption was purely weather-related and dismissed any cyber disruptions. This unexpected halt in production could impact delivery schedules if recovery efforts are delayed.",
+  "supplier_names": [
+    "North American Lighting, Inc."
+  ],
+  "supplier_node_ids": [
+    "ORG_C761FED4F65E"
+  ],
+  "is_cyber": false,
+  "in_supply_chain": true,
+  "relevant": false,
+  "case_stratum": "in_graph_non_cyber",
+  "impact_level": "severe",
+  "seed_id": "seed_noncyber_flood",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "NAL",
+    "North American Lighting"
+  ],
+  "canonical_supplier_names": [
+    "North American Lighting, Inc."
+  ],
+  "rewrite_style": "supply_chain_risk_note",
+  "name_strategy": "short_brand",
+  "style_notes": "The tone is formal and factual, focusing on logistical and operational impacts.",
+  "rewritten": true
+}

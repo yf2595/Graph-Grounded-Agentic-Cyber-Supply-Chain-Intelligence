@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_07__master__art_05",
+  "pair": 7,
+  "arm": "master",
+  "slot": 5,
+  "headline": "PLACEHOLDERCO Files Regulatory Report on Data Breach",
+  "body": "PLACEHOLDERCO has officially filed a regulatory report detailing the recent ransomware attack that compromised its internal data. The automotive components supplier confirmed that the breach, discovered months after it occurred, did not disrupt its operations. PLACEHOLDERCO has taken steps to notify those affected and has engaged cybersecurity experts to manage the incident. The regulatory filing outlines the company's ongoing efforts to enhance its data protection measures.",
+  "supplier_name": "PLACEHOLDERCO",
+  "supplier_node_id": null,
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

@@ -1,0 +1,30 @@
+{
+  "article_id": "INC_006",
+  "incident_id": "INC_006",
+  "headline": "Mitsuba Halts Manufacturing After Cyberattack Cripples Key Systems",
+  "body": "Mitsuba, the automotive parts maker, revealed it suffered a major ransomware attack disabling crucial plant operations. The cyber incident shut down production lines at several facilities, affecting the execution of manufacturing and logistics processes. Specialists from an external cybersecurity firm are working diligently to restore normal operations. The company has yet to provide an updated timeline for when work will resume.",
+  "supplier_names": [
+    "Mitsuba Corporation"
+  ],
+  "supplier_node_ids": [
+    "ORG_96A34F5DBF78"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "bottleneck_sole",
+  "impact_level": "severe",
+  "seed_id": "seed_lacroix_2023",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Mitsuba"
+  ],
+  "canonical_supplier_names": [
+    "Mitsuba Corporation"
+  ],
+  "rewrite_style": "short_ap_brief",
+  "name_strategy": "short_brand",
+  "style_notes": "Concise, factual update with short sentences for clarity.",
+  "rewritten": true
+}

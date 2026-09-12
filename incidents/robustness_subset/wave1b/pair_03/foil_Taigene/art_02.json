@@ -1,0 +1,14 @@
+{
+  "article_id": "wave1b__pair_03__foil_Taigene__art_02",
+  "pair": 3,
+  "arm": "foil_Taigene",
+  "slot": 2,
+  "headline": "Taigene Electric Machinery Co., Ltd. Faces Operational Challenges Post-Ransomware Attack",
+  "body": "Following a recent ransomware attack, Taigene Electric Machinery Co., Ltd. has experienced significant operational disruptions. The attack necessitated the isolation of servers, which temporarily halted production and affected order-processing capabilities. As a key supplier in the automotive components industry, Taigene Electric Machinery Co., Ltd. plays a crucial role in the supply chain. The company has confirmed that it is working with incident response teams to mitigate the impact and restore normal operations as swiftly as possible. The incident underscores the growing cybersecurity challenges faced by manufacturers globally. While Taigene has not provided details on the extent of the data breach, it is clear that the company is taking steps to enhance its cybersecurity measures in the wake of this attack.",
+  "supplier_name": "Taigene Electric Machinery Co., Ltd.",
+  "supplier_node_id": "ORG_E4069CC45AA6",
+  "construction_regime": "independent-generation",
+  "wave": "wave1b_silent_critical_20260704_164732",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

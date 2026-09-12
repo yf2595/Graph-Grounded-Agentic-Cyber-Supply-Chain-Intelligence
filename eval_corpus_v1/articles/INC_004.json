@@ -1,0 +1,34 @@
+{
+  "article_id": "INC_004",
+  "incident_id": "INC_004",
+  "headline": "Malware Incident Halts Production at Minebea AccessSolutions in Thailand",
+  "body": "A severe malware outbreak has disrupted operations at Minebea AccessSolutions factories in Thailand, formerly known as Honda Lock Thai. The infection forced an immediate halt to production activities across several facilities. Efforts are underway to restore affected systems, with expectations for a phased resumption in operations. At this time, no official ransom demands have been disclosed by the company.",
+  "supplier_names": [
+    "Minebea AccessSolutions Thai Ltd. (Formerly Honda Lock Thai Co., Ltd.)"
+  ],
+  "supplier_node_ids": [
+    "ORG_01D79C7B59D4"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "bottleneck_sole",
+  "impact_level": "severe",
+  "seed_id": "seed_hoya_2024",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Minebea AccessSolutions",
+    "Honda Lock Thai"
+  ],
+  "canonical_supplier_names": [
+    "Minebea AccessSolutions Thai Ltd. (Formerly Honda Lock Thai Co., Ltd.)"
+  ],
+  "rewrite_style": "japanese_english_wire",
+  "name_strategy": "initialism_or_acronym",
+  "style_notes": "Objective and factual with a structured reporting tone.",
+  "rewritten": true,
+  "group_id": "GRP_007",
+  "is_merge_variant": false,
+  "merge_seed_article_id": "INC_004"
+}

@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_15__foil_Carlex__art_04",
+  "pair": 15,
+  "arm": "foil_Carlex",
+  "slot": 4,
+  "headline": "Analysts Weigh In on Carlex Glass America, LLC's Cybersecurity Challenges",
+  "body": "Industry analysts are closely monitoring Carlex Glass America, LLC following a ransomware attack that disrupted its operations. The automotive components supplier is working to restore its systems after a partial shutdown and data theft. Analysts suggest that while the company is taking steps to address the breach, the incident highlights the growing cybersecurity risks faced by suppliers in the automotive sector.",
+  "supplier_name": "Carlex Glass America, LLC",
+  "supplier_node_id": "ORG_26EC32CA4687",
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

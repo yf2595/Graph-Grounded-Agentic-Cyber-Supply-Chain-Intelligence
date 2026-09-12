@@ -1,0 +1,14 @@
+{
+  "article_id": "wave1b__pair_04__foil_KYB__art_05",
+  "pair": 4,
+  "arm": "foil_KYB",
+  "slot": 5,
+  "headline": "Regulatory Bodies Notified of KYB Mexico S.A. de C.V. Data Breach",
+  "body": "In the wake of a ransomware attack, KYB Mexico S.A. de C.V. has informed relevant regulatory authorities about the breach. The company is working closely with these bodies to ensure compliance with data protection regulations. KYB Mexico S.A. de C.V., a key supplier in the automotive industry, has emphasized its commitment to transparency and regulatory adherence. The breach, which involved unauthorized access to internal data, has prompted the company to enhance its cybersecurity protocols. While the investigation is ongoing, the company has reassured stakeholders that no specific customer impact has been disclosed. The focus remains on restoring full security and preventing future incidents.",
+  "supplier_name": "KYB Mexico S.A. de C.V.",
+  "supplier_node_id": "ORG_002DDFF6EEBA",
+  "construction_regime": "independent-generation",
+  "wave": "wave1b_silent_critical_20260704_164732",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

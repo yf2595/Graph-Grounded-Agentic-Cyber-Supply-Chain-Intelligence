@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_05__master__art_02",
+  "pair": 5,
+  "arm": "master",
+  "slot": 2,
+  "headline": "Stolen Financial Records Leaked After PLACEHOLDERCO Cyber Attack",
+  "body": "In a troubling development following the recent ransomware attack on PLACEHOLDERCO, the attackers have leaked the company's stolen financial records. The automotive components supplier had previously disclosed that the cyber incident led to a partial operational shutdown and affected order fulfillment. PLACEHOLDERCO is collaborating with cybersecurity experts to mitigate the impact and restore systems to normalcy.",
+  "supplier_name": "PLACEHOLDERCO",
+  "supplier_node_id": null,
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

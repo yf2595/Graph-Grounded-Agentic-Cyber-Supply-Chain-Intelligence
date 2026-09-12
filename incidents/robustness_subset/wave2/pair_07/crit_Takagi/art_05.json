@@ -1,0 +1,14 @@
+{
+  "article_id": "wave2__pair_07__crit_Takagi__art_05",
+  "pair": 7,
+  "arm": "crit_Takagi",
+  "slot": 5,
+  "headline": "Regulatory Filing by Takagi Seiko Corporation Following Ransomware Incident",
+  "body": "Takagi Seiko Corporation has filed a regulatory notice following a ransomware attack that compromised internal data. This filing is part of the company's commitment to transparency and compliance with industry regulations. Takagi Seiko Corporation, a key supplier in the automotive industry, has been proactive in addressing the security breach. The company is working with cybersecurity experts to secure its systems and prevent future incidents. The regulatory filing underscores the company's dedication to maintaining high standards of data protection and operational integrity.",
+  "supplier_name": "Takagi Seiko Corporation",
+  "supplier_node_id": "ORG_17E0030DD2FA",
+  "construction_regime": "independent-generation",
+  "wave": "wave2_silent_critical_20260704_183621",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

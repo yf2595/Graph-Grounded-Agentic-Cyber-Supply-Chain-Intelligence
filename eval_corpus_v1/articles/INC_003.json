@@ -1,0 +1,31 @@
+{
+  "article_id": "INC_003",
+  "incident_id": "INC_003",
+  "headline": "Ransomware Incident Forces Saga Tekkohsho to Cease Production at Key Facilities",
+  "body": "Saga Tekkohsho Co., Ltd., a renowned player in automotive components, has temporarily halted operations after a ransomware breach encrypted critical plant systems. The cyberattack, targeting their execution and logistics frameworks, has led to production stoppages across several factories. Industry experts have been called in to resolve the disruption. While efforts are ongoing to restore system functionality, a timeline for resuming full operations remains uncertain.",
+  "supplier_names": [
+    "Saga Tekkohsho Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_F70CA1B3A14A"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "bottleneck_sole",
+  "impact_level": "severe",
+  "seed_id": "seed_abb_2023",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Saga Tekkohsho Co., Ltd.",
+    "Saga Tekkohsho"
+  ],
+  "canonical_supplier_names": [
+    "Saga Tekkohsho Co., Ltd."
+  ],
+  "rewrite_style": "local_business_journal",
+  "name_strategy": "mixed_first_mention_full_then_short",
+  "style_notes": "Concise and informative with a focus on local industrial impact.",
+  "rewritten": true
+}

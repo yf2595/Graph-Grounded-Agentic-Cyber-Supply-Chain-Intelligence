@@ -1,0 +1,30 @@
+{
+  "article_id": "INC_087",
+  "incident_id": "INC_087",
+  "headline": "Koito Plant Fire Halts Critical Auto Parts Production Amid Damage Assessment",
+  "body": "A significant fire erupted at a key Koito Manufacturing facility, wreaking havoc on its warehouse and assembly sections. The blaze forced a complete shutdown, as company officials grapple with an extensive damage assessment. Although cyber implications were quickly dismissed, the impact remains severe with indefinite production cessation. Local authorities are working closely with Koito's team to expedite recovery timelines, focusing on restoring lines crucial to automotive supply chains.",
+  "supplier_names": [
+    "Koito Manufacturing Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_78B702F5214B"
+  ],
+  "is_cyber": false,
+  "in_supply_chain": true,
+  "relevant": false,
+  "case_stratum": "in_graph_non_cyber",
+  "impact_level": "severe",
+  "seed_id": "seed_noncyber_fire",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Koito Manufacturing"
+  ],
+  "canonical_supplier_names": [
+    "Koito Manufacturing Co., Ltd."
+  ],
+  "rewrite_style": "investigative_feature_lede",
+  "name_strategy": "mixed_first_mention_full_then_short",
+  "style_notes": "A factual and investigative tone underscored the disruption's depth.",
+  "rewritten": true
+}

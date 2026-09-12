@@ -1,0 +1,31 @@
+{
+  "article_id": "INC_024",
+  "incident_id": "INC_024",
+  "headline": "Continental Shanghai Thwarts Email Attack, Minimizes Shipping Delays",
+  "body": "Continental Automotive Systems (Shanghai) Co., Ltd. recently contained a business email compromise incident. This minor cyber disruption affected order-entry systems and shipping notifications, but operations faced only brief delays. The Shanghai division emphasized that no core production systems were encrypted and functional flow remained stable. As the company adjusts protocols, it assures partners minimal impact on logistics timelines.",
+  "supplier_names": [
+    "Continental Automotive Systems (Shanghai) Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_C681A41BFC56"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "critical_part_sole",
+  "impact_level": "minor",
+  "seed_id": "seed_lacroix_2023",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Continental Automotive Systems (Shanghai) Co., Ltd.",
+    "Continental Shanghai"
+  ],
+  "canonical_supplier_names": [
+    "Continental Automotive Systems (Shanghai) Co., Ltd."
+  ],
+  "rewrite_style": "security_trade_blog",
+  "name_strategy": "mixed_first_mention_full_then_short",
+  "style_notes": "Utilized an informed, concise tone typical of cybersecurity-focused trade publications.",
+  "rewritten": true
+}

@@ -1,0 +1,14 @@
+{
+  "article_id": "wave1b__pair_07__foil_Nidec__art_04",
+  "pair": 7,
+  "arm": "foil_Nidec",
+  "slot": 4,
+  "headline": "Data Compromise at Nidec Mobility Corporation: No Customer Impact",
+  "body": "Nidec Mobility Corporation has confirmed a data compromise following a ransomware attack. While personal and sensitive internal information was accessed, the company has stated that there is no evidence of customer impact or downstream disruptions. Nidec Mobility Corporation is a significant entity in the automotive components industry, known for its innovative contributions to mobility technology. The company is working diligently to restore systems and has assured stakeholders of their commitment to maintaining operational integrity. The incident highlights the importance of robust cybersecurity measures in protecting sensitive information and ensuring business continuity in the face of cyber threats.",
+  "supplier_name": "Nidec Mobility Corporation",
+  "supplier_node_id": "ORG_406F1625FD76",
+  "construction_regime": "independent-generation",
+  "wave": "wave1b_silent_critical_20260704_164732",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

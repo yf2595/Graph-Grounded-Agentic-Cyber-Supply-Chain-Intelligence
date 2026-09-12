@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_15__master__art_05",
+  "pair": 15,
+  "arm": "master",
+  "slot": 5,
+  "headline": "PLACEHOLDERCO Files Report on Ransomware Incident",
+  "body": "PLACEHOLDERCO has filed a regulatory report detailing a recent ransomware attack that forced a partial shutdown of its operations. The automotive components supplier disclosed that the breach involved the theft of internal data, including financial records, which were later leaked by the attackers. PLACEHOLDERCO is actively engaged with incident responders to restore its systems and improve its cybersecurity measures.",
+  "supplier_name": "PLACEHOLDERCO",
+  "supplier_node_id": null,
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

@@ -1,0 +1,30 @@
+{
+  "article_id": "INC_097",
+  "incident_id": "INC_097",
+  "headline": "Blaze at TS Tech Facility Halts Output Amid Major Operational Disruption",
+  "body": "A devastating fire broke out at a critical production site of TS Tech, severely impacting their automotive parts manufacturing operations. The incident, not linked to any cyber threats, caused significant damage to warehouse and assembly sections, effectively halting all activity at the location as executives scramble to evaluate the extent of reconstruction required. Local fire services confirmed that containment efforts were prompt but extensive repairs will be necessary before resumption. All production timelines are currently suspended while recovery strategies are being formulated.",
+  "supplier_names": [
+    "TS Tech Americas, Inc."
+  ],
+  "supplier_node_ids": [
+    "ORG_445561E1BCE2"
+  ],
+  "is_cyber": false,
+  "in_supply_chain": true,
+  "relevant": false,
+  "case_stratum": "in_graph_non_cyber",
+  "impact_level": "severe",
+  "seed_id": "seed_noncyber_fire",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "TS Tech"
+  ],
+  "canonical_supplier_names": [
+    "TS Tech Americas, Inc."
+  ],
+  "rewrite_style": "investigative_feature_lede",
+  "name_strategy": "short_brand",
+  "style_notes": "A compelling investigative tone was used, enhancing urgency and impact.",
+  "rewritten": true
+}

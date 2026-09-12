@@ -1,0 +1,29 @@
+{
+  "article_id": "INC_085",
+  "incident_id": "INC_085",
+  "headline": "Valencia Cabin Electronics SL Confirms Data Breach Amid Ransomware Claims",
+  "body": "Valencia Cabin Electronics SL has acknowledged a cybersecurity breach following claims by a ransomware group alleging access to internal files. The company emphasized that although there were unauthorized system intrusions, the incident has not affected the operational capacity of their manufacturing facilities. All production lines remain active and customer deliveries are proceeding as scheduled. A spokesperson for VCE assured that security teams are diligently working to evaluate the situation and reinforce existing protocols to prevent future occurrences.",
+  "supplier_names": [
+    "Valencia Cabin Electronics SL"
+  ],
+  "supplier_node_ids": [],
+  "is_cyber": true,
+  "in_supply_chain": false,
+  "relevant": false,
+  "case_stratum": "off_graph_cyber",
+  "impact_level": "none",
+  "seed_id": "seed_synthetic_phish_minor",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Valencia Cabin Electronics SL",
+    "VCE"
+  ],
+  "canonical_supplier_names": [
+    "Valencia Cabin Electronics SL"
+  ],
+  "rewrite_style": "corporate_press_paraphrase",
+  "name_strategy": "full_legal",
+  "style_notes": "Formal corporate communication tone with emphasis on continuous operations.",
+  "rewritten": true
+}

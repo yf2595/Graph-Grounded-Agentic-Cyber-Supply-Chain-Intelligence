@@ -1,0 +1,33 @@
+{
+  "article_id": "INC_013",
+  "incident_id": "INC_013",
+  "headline": "Mitsubishi Electric Manages Minor Ransomware Attack, Limited Impact on Operations",
+  "body": "Mitsubishi Electric recently experienced a ransomware attack targeting their scheduling and office IT systems. Despite the breach, core production lines maintained operation through manual processes, significantly minimizing disruption. Shipping schedules are expected to face only minor delays, and affected customer facilities have been informed out of caution. The swift containment efforts underscore their robust cyber defenses.",
+  "supplier_names": [
+    "Mitsubishi Electric Corporation"
+  ],
+  "supplier_node_ids": [
+    "ORG_FD4B9E36BA90"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "bottleneck_sole",
+  "impact_level": "minor",
+  "seed_id": "seed_lacroix_2023",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Mitsubishi Electric"
+  ],
+  "canonical_supplier_names": [
+    "Mitsubishi Electric Corporation"
+  ],
+  "rewrite_style": "security_trade_blog",
+  "name_strategy": "short_brand",
+  "style_notes": "The voice is straightforward and pragmatic, common in security-focused trade blogs.",
+  "rewritten": true,
+  "group_id": "GRP_025",
+  "is_merge_variant": false,
+  "merge_seed_article_id": "INC_013"
+}

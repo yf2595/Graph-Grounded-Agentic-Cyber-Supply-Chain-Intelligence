@@ -1,0 +1,30 @@
+{
+  "article_id": "INC_001",
+  "incident_id": "INC_001",
+  "headline": "H-ONE Battles Cyberattack as Production Grinds to a Halt",
+  "body": "Automotive supplier H-ONE Co., Ltd. has suffered a ransomware attack crippling its manufacturing and logistics networks. As a result, key production facilities have been forced to shut down temporarily. The company has called in external cybersecurity teams to tackle the breach but has not provided an exact timeline on when operations might resume. The incident underscores significant vulnerabilities in the industry's supply chain infrastructure.",
+  "supplier_names": [
+    "H-ONE Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_CF64B3D0E3C1"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "bottleneck_sole",
+  "impact_level": "severe",
+  "seed_id": "seed_hoya_2024",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "H-ONE Co., Ltd."
+  ],
+  "canonical_supplier_names": [
+    "H-ONE Co., Ltd."
+  ],
+  "rewrite_style": "reuters_wire",
+  "name_strategy": "full_legal",
+  "style_notes": "The article adopts a factual, concise tone typical of wire service reporting.",
+  "rewritten": true
+}

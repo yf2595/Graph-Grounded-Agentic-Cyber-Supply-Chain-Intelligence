@@ -1,0 +1,31 @@
+{
+  "article_id": "INC_088",
+  "incident_id": "INC_088",
+  "headline": "Stanley Electric Announces Minor Recall Over Component Defect",
+  "body": "Stanley Electric Co., Ltd., also known as Stanley Electric, has initiated a recall due to a minor manufacturing defect found in some automotive parts. The company clarified that the issue affects only a specific batch and is purely a quality matter. Customers have been advised to set aside affected supplies while replacements are arranged. This recall is not linked to any cybersecurity concerns, and operations continue without major impact.",
+  "supplier_names": [
+    "Stanley Electric Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_6AFE3AE6FDFB"
+  ],
+  "is_cyber": false,
+  "in_supply_chain": true,
+  "relevant": false,
+  "case_stratum": "in_graph_non_cyber",
+  "impact_level": "minor",
+  "seed_id": "seed_noncyber_recall",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Stanley Electric Co., Ltd.",
+    "Stanley Electric"
+  ],
+  "canonical_supplier_names": [
+    "Stanley Electric Co., Ltd."
+  ],
+  "rewrite_style": "local_business_journal",
+  "name_strategy": "mixed_first_mention_full_then_short",
+  "style_notes": "The voice is straightforward with a business journalistic focus.",
+  "rewritten": true
+}

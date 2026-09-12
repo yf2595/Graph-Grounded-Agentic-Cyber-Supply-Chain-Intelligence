@@ -1,0 +1,14 @@
+{
+  "article_id": "wave2__pair_07__crit_Takagi__art_04",
+  "pair": 7,
+  "arm": "crit_Takagi",
+  "slot": 4,
+  "headline": "Takagi Seiko Corporation Ensures No Downstream Impact After Cyber Attack",
+  "body": "Takagi Seiko Corporation has confirmed that despite a recent ransomware attack, there has been no impact on its downstream partners. The attack compromised sensitive internal information, but the company has assured stakeholders that operations are being restored without affecting its clients. As a major supplier in the automotive components sector, Takagi Seiko Corporation plays a crucial role in the supply chain. The company has been transparent about the incident, emphasizing that no customer data was affected and that they are working closely with cybersecurity experts to enhance their defenses against future threats.",
+  "supplier_name": "Takagi Seiko Corporation",
+  "supplier_node_id": "ORG_17E0030DD2FA",
+  "construction_regime": "independent-generation",
+  "wave": "wave2_silent_critical_20260704_183621",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

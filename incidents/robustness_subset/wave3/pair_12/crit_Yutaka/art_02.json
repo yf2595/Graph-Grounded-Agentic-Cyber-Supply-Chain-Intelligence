@@ -1,0 +1,14 @@
+{
+  "article_id": "wave3__pair_12__crit_Yutaka__art_02",
+  "pair": 12,
+  "arm": "crit_Yutaka",
+  "slot": 2,
+  "headline": "Production Resumes at Yutaka Giken Co., Ltd. Following Ransomware Attack",
+  "body": "After a disruptive ransomware attack, Yutaka Giken Co., Ltd. has successfully resumed operations at its affected production facilities. The attack had forced the company to halt production temporarily, but systems have now been restored. Yutaka Giken Co., Ltd. is a prominent supplier in the automotive industry, known for its extensive network of production facilities. These facilities are crucial for maintaining the supply of automotive components to various manufacturers. The company has implemented enhanced security measures to prevent future incidents and is conducting a thorough investigation to understand the full scope of the attack. Despite the disruption, Yutaka Giken remains committed to fulfilling its supply chain obligations.",
+  "supplier_name": "Yutaka Giken Co., Ltd.",
+  "supplier_node_id": "ORG_2F00041EA71D",
+  "construction_regime": "independent-generation",
+  "wave": "wave3_silent_critical_20260705_085153",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

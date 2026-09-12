@@ -1,0 +1,30 @@
+{
+  "article_id": "INC_098",
+  "incident_id": "INC_098",
+  "headline": "Quality Recall Alert: Michelin India TamilNadu Tyres Responds to Manufacturing Defect",
+  "body": "Michelin India TamilNadu Tyres Pvt. Ltd. has announced a recall due to a production defect discovered in certain automotive parts. This recall is a precautionary step following routine quality checks and involves only one batch, affecting a limited number of shipments from the Tamil Nadu facility. The company emphasizes this is purely a quality assurance issue, with no connection to cybersecurity threats. Customers have been alerted to segregate the impacted products to prevent further distribution issues.",
+  "supplier_names": [
+    "Michelin India TamilNadu Tyres Pvt. Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_4E4ABAC02367"
+  ],
+  "is_cyber": false,
+  "in_supply_chain": true,
+  "relevant": false,
+  "case_stratum": "in_graph_non_cyber",
+  "impact_level": "minor",
+  "seed_id": "seed_noncyber_recall",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Michelin India TamilNadu Tyres Pvt. Ltd."
+  ],
+  "canonical_supplier_names": [
+    "Michelin India TamilNadu Tyres Pvt. Ltd."
+  ],
+  "rewrite_style": "newsletter_digest",
+  "name_strategy": "full_legal",
+  "style_notes": "Crisp informational tone resembling an industry update.",
+  "rewritten": true
+}

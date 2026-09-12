@@ -1,0 +1,38 @@
+{
+  "article_id": "INC_068",
+  "incident_id": "INC_068",
+  "headline": "Industrias Michelin's León Plant Mitigates Email Breach Causing Minor Logistics Slowdown",
+  "body": "The León Mx2 facility of Industrias Michelin, noted for its strategic role in the rubber sector, successfully managed a business email compromise incident. While the breach impacted order-entry and shipping alert systems, no core plant operations were encrypted, allowing for a swift recovery. Brief shipping delays were noted but resolution is underway. In light of this event, both Honda and Pacific Engineering Corporation (PEC) reported similar minor interruptions, suggesting an industry-wide vigilance. All companies assure stakeholders that logistical hiccups are temporary and under control.",
+  "supplier_names": [
+    "Industrias Michelin, S.A. De C.V. - León Mx2",
+    "Honda",
+    "Pacific Engineering Corporation"
+  ],
+  "supplier_node_ids": [
+    "ORG_01E34BB8A21B",
+    "ORG_C5DACAA18528",
+    "ORG_9DB5337C4DD2"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "multi_supplier",
+  "impact_level": "minor",
+  "seed_id": "seed_synthetic_phish_minor",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Industrias Michelin",
+    "Honda",
+    "Pacific Engineering Corporation (PEC)"
+  ],
+  "canonical_supplier_names": [
+    "Industrias Michelin, S.A. De C.V. - León Mx2",
+    "Honda",
+    "Pacific Engineering Corporation"
+  ],
+  "rewrite_style": "newsletter_digest",
+  "name_strategy": "former_name_parenthetical",
+  "style_notes": "The article employs a concise newsletter-style tone to inform industry insiders of recent cyber events.",
+  "rewritten": true
+}

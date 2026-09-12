@@ -1,0 +1,31 @@
+{
+  "article_id": "INC_008",
+  "incident_id": "INC_008",
+  "headline": "Thai Auto Supplier MAHLE Faces Production Freeze Following Cyber Attack",
+  "body": "In a critical development, MAHLE Behr Thermal Systems (Thailand) Co., Ltd. has been forced to halt activities at its Thai facility after a severe ransomware incident. The attack paralyzed key manufacturing and logistics systems, ceasing operations temporarily. In response, the company engaged external experts to swiftly manage recovery efforts. Despite these measures, no definite timeline for resuming full production has been provided. The former Keihin Thermal Technology (Thailand) plant now grapples with this unexpected disruption.",
+  "supplier_names": [
+    "MAHLE Behr Thermal Systems (Thailand) Co., Ltd. (Formerly Keihin Thermal Technology (Thailand) Co., Ltd.)"
+  ],
+  "supplier_node_ids": [
+    "ORG_08CFD4B879EF"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "bottleneck_sole",
+  "impact_level": "severe",
+  "seed_id": "seed_abb_2023",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "MAHLE Behr Thermal Systems (Thailand) Co., Ltd.",
+    "Keihin Thermal Technology (Thailand)"
+  ],
+  "canonical_supplier_names": [
+    "MAHLE Behr Thermal Systems (Thailand) Co., Ltd. (Formerly Keihin Thermal Technology (Thailand) Co., Ltd.)"
+  ],
+  "rewrite_style": "newsletter_digest",
+  "name_strategy": "full_legal",
+  "style_notes": "Concise and informative tone with a focus on urgency.",
+  "rewritten": true
+}

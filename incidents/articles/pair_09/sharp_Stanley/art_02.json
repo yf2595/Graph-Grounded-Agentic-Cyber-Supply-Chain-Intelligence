@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_09__sharp_Stanley__art_02",
+  "pair": 9,
+  "arm": "sharp_Stanley",
+  "slot": 2,
+  "headline": "Stanley Electric U.S. Co., Inc. Works to Recover After Cybersecurity Breach",
+  "body": "In the wake of a significant ransomware attack, Stanley Electric U.S. Co., Inc. is working diligently to recover its compromised systems. The automotive components supplier experienced a halt in operations due to the infiltration, which also affected internal engineering projects. Attackers exfiltrated sensitive internal data, prompting the company to enlist the help of incident responders. Efforts are underway to restore functionality and resume normal operations as quickly as possible, though project timelines remain uncertain.",
+  "supplier_name": "Stanley Electric U.S. Co., Inc.",
+  "supplier_node_id": "ORG_F4A45B0B61EA",
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_05__foil_Neaton__art_05",
+  "pair": 5,
+  "arm": "foil_Neaton",
+  "slot": 5,
+  "headline": "Neaton Auto Products Manufacturing Inc. Files Regulatory Report on Cyber Incident",
+  "body": "Neaton Auto Products Manufacturing Inc. has submitted a regulatory filing detailing the ransomware attack it recently suffered. The automotive components supplier reported a partial shutdown of operations and the theft of internal data, including financial records. The filing highlights the company's efforts to address the situation by working with incident response teams to restore its systems and ensure order fulfillment returns to normal levels.",
+  "supplier_name": "Neaton Auto Products Manufacturing Inc.",
+  "supplier_node_id": "ORG_0EF9A2B90422",
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

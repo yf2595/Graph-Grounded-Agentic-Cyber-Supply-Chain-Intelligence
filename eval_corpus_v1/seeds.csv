@@ -1,0 +1,21 @@
+seed_id,victim_organization,incident_year,incident_type,production_halt_confirmed,data_exfiltration_confirmed,default_impact,public_source_refs,template_family
+seed_varta_2024,VARTA AG,2024,Ransomware,True,False,severe,https://www.securityweek.com/cyberattack-disrupts-production-in-varta-battery-factories/,ransomware_halt
+seed_hoya_2024,Hoya Corporation,2024,Ransomware,True,False,severe,https://www.securityweek.com/lens-maker-hoya-scrambling-to-restore-systems-following-cyberattack/,ransomware_halt
+seed_nexperia_2024,Nexperia,2024,Ransomware (data theft),False,True,none,https://www.securityweek.com/ransomware-group-claims-theft-of-data-from-chipmaker-nexperia/,exfil_only
+seed_microchip_2024,Microchip Technology Inc.,2024,Ransomware (Play),True,True,severe,https://www.cnbc.com/2024/08/20/microchip-technology-says-certain-operations-disrupted-by-cyber-incident.html,ransomware_halt_exfil
+seed_abb_2023,ABB Ltd.,2023,Ransomware (Black Basta),True,True,severe,https://www.cybersecuritydive.com/news/abb-confirms-ransomware-data-theft/651531/,ransomware_halt_exfil
+seed_continental_2022,Continental AG,2022,Ransomware (LockBit),False,True,none,https://www.bleepingcomputer.com/news/security/lockbit-ransomware-claims-attack-on-continental-automotive-giant/,exfil_only
+seed_tsmc_2018,TSMC,2018,Malware (WannaCry variant),True,False,severe,https://www.securityweek.com/chip-giant-tsmc-says-wannacry-behind-production-halt/,malware_halt
+seed_nichirin_2022,Nichirin-Flex USA,2022,Ransomware,True,False,severe,https://www.securityweek.com/us-subsidiary-automotive-hose-maker-nichirin-hit-ransomware/,ransomware_halt
+seed_wabtec_2022,Wabtec Corporation,2022,Ransomware (LockBit),False,True,none,https://www.cybersecuritydive.com/news/estes-express-lines-cyberattack/695614/,exfil_only
+seed_maxlinear_2020,MaxLinear Inc.,2020,Ransomware (Maze),False,True,none,https://www.securityweek.com/,exfil_only
+seed_foxsemicon_2024,Foxsemicon Integrated Technology,2024,Ransomware (LockBit),False,True,minor,https://www.securityweek.com/,ransomware_minor
+seed_lacroix_2023,Lacroix Group,2023,Ransomware,True,False,severe,https://www.helpnetsecurity.com/,ransomware_halt
+seed_toyota_supplier_jtei_2022,Kojima Industries (Toyota supplier incident pattern),2022,Cyberattack / system outage,True,False,severe,Public reporting on Toyota supplier cyber outages (2022 pattern),ransomware_halt
+seed_synthetic_phish_minor,(synthetic),2024,Business email compromise (contained),False,False,minor,,ransomware_minor
+seed_synthetic_exfil_none,(synthetic),2025,Data breach claim (IT only),False,True,none,,exfil_only
+seed_noncyber_strike,(template),2024,Labor strike,True,False,severe,,noncyber_strike
+seed_noncyber_fire,(template),2023,Plant fire,True,False,severe,,noncyber_fire
+seed_noncyber_recall,(template),2024,Quality recall,False,False,minor,,noncyber_recall
+seed_noncyber_bankruptcy,(template),2025,Financial distress / restructuring,False,False,minor,,noncyber_bankruptcy
+seed_noncyber_flood,(template),2024,Flood / natural disaster,True,False,severe,,noncyber_flood

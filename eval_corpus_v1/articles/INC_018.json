@@ -1,0 +1,33 @@
+{
+  "article_id": "INC_018",
+  "incident_id": "INC_018",
+  "headline": "AGVSS Hit by Cyber Intrusion; Production Faces Severe Disruption and Data Breach Concerns",
+  "body": "AGVSS, a key vehicle safety component provider, has confirmed a significant ransomware attack targeting its IT infrastructure and industrial systems. The breach forced a temporary shutdown of several production lines at their Guangzhou facility. The company's cybersecurity team is working meticulously to recover operations, while business-critical documents may have been accessed by attackers. Efforts are underway to secure and restore affected systems as quickly as possible.",
+  "supplier_names": [
+    "Autoliv (Guangzhou) Vehicle Safety Systems Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_D5606B1DEB9E"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "critical_part_sole",
+  "impact_level": "severe",
+  "seed_id": "seed_abb_2023",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "AGVSS"
+  ],
+  "canonical_supplier_names": [
+    "Autoliv (Guangzhou) Vehicle Safety Systems Co., Ltd."
+  ],
+  "rewrite_style": "newsletter_digest",
+  "name_strategy": "initialism_or_acronym",
+  "style_notes": "The voice conveys urgency and seriousness with concise detail.",
+  "rewritten": true,
+  "group_id": "GRP_008",
+  "is_merge_variant": false,
+  "merge_seed_article_id": "INC_018"
+}

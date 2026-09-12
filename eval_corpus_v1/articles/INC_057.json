@@ -1,0 +1,30 @@
+{
+  "article_id": "INC_057",
+  "incident_id": "INC_057",
+  "headline": "Wuhan Sumiden Wiring Faces Minor Ransomware Attack, Minimizes Impact on Operations",
+  "body": "In a recent cybersecurity breach, Wuhan Sumiden Wiring Systems Co., Ltd. experienced a ransomware attack that hit their office and scheduling systems. Despite the cyber intrusion, crucial machining functions remained operational, relying on manual processes to avert significant disruption. Shipping activities are anticipated to experience only minimal delays. While customer facilities have been informed as a safeguard, the damage remains limited with ongoing shipments mostly unaffected.",
+  "supplier_names": [
+    "Wuhan Sumiden Wiring Systems Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_D5D454652020"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "low_reach",
+  "impact_level": "minor",
+  "seed_id": "seed_toyota_supplier_jtei_2022",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Wuhan Sumiden Wiring Systems Co., Ltd."
+  ],
+  "canonical_supplier_names": [
+    "Wuhan Sumiden Wiring Systems Co., Ltd."
+  ],
+  "rewrite_style": "investigative_feature_lede",
+  "name_strategy": "full_legal",
+  "style_notes": "The voice used is investigative and focuses on presenting facts with a hint of urgency.",
+  "rewritten": true
+}

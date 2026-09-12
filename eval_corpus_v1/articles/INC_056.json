@@ -1,0 +1,30 @@
+{
+  "article_id": "INC_056",
+  "incident_id": "INC_056",
+  "headline": "Motherson's Scheduling IT Hit by Ransomware, Shipping Faces Minor Delays",
+  "body": "A recent ransomware incident at Samvardhana Motherson Group has disrupted certain office and scheduling IT systems. The company, a notable player in the automotive supply chain, reported that core manufacturing operations continue, albeit with manual processes temporarily in place. While this had led to some limited shipping delays, the group assures that customer facilities are being kept informed as a precautionary measure. Despite the digital hiccup, significant production halts have been averted, underscoring the resilience of their broader operational framework.",
+  "supplier_names": [
+    "Samvardhana Motherson Group"
+  ],
+  "supplier_node_ids": [
+    "ORG_A377F6BA820D"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "low_reach",
+  "impact_level": "minor",
+  "seed_id": "seed_hoya_2024",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Samvardhana Motherson Group"
+  ],
+  "canonical_supplier_names": [
+    "Samvardhana Motherson Group"
+  ],
+  "rewrite_style": "short_ap_brief",
+  "name_strategy": "city_plant_unit_of_parent",
+  "style_notes": "The brief employs straightforward language typical of quick news updates.",
+  "rewritten": true
+}

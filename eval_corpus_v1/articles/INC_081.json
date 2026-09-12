@@ -1,0 +1,30 @@
+{
+  "article_id": "INC_081",
+  "incident_id": "INC_081",
+  "headline": "CHC Limits Impact of Email Breach; Minor Shipping Delays Noted",
+  "body": "Changzhou Horizon Connectors (CHC) disclosed a security breach involving its email systems, which affected order processing and delayed shipping alerts. The firm confirmed that no plant operations or encryption of critical infrastructure occurred. Authorities noted minor logistic setbacks, expecting prompt resolution to resume normal functions. Located in eastern China, CHC maintains that the issue was swiftly contained.",
+  "supplier_names": [
+    "Changzhou Horizon Connectors"
+  ],
+  "supplier_node_ids": [],
+  "is_cyber": true,
+  "in_supply_chain": false,
+  "relevant": false,
+  "case_stratum": "off_graph_cyber",
+  "impact_level": "minor",
+  "seed_id": "seed_toyota_supplier_jtei_2022",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "CHC",
+    "Changzhou Horizon Connectors (CHC)",
+    "Changzhou Horizon Connectors"
+  ],
+  "canonical_supplier_names": [
+    "Changzhou Horizon Connectors"
+  ],
+  "rewrite_style": "reuters_wire",
+  "name_strategy": "initialism_or_acronym",
+  "style_notes": "The passage employs direct and concise reporting typical of wire service writing.",
+  "rewritten": true
+}

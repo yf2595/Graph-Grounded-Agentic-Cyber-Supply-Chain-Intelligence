@@ -1,0 +1,31 @@
+{
+  "article_id": "INC_059",
+  "incident_id": "INC_059",
+  "headline": "Cyber Group Allegedly Breaches MAHLE Behr USA, Data Security in Focus",
+  "body": "In a recent development, a cyber group has reportedly infiltrated the internal networks of MAHLE Behr USA Inc., claiming to have extracted sensitive documents. The company, known for its automotive components, acknowledged the occurrence of a cybersecurity breach affecting corporate systems. However, MAHLE assured stakeholders that manufacturing operations remain unaffected and deliveries are proceeding as planned. Despite threats to data integrity, the firm emphasizes confidentiality as investigations continue.",
+  "supplier_names": [
+    "MAHLE Behr USA Inc."
+  ],
+  "supplier_node_ids": [
+    "ORG_D47A5655F5DF"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "low_reach",
+  "impact_level": "none",
+  "seed_id": "seed_wabtec_2022",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "MAHLE Behr USA Inc.",
+    "MAHLE"
+  ],
+  "canonical_supplier_names": [
+    "MAHLE Behr USA Inc."
+  ],
+  "rewrite_style": "japanese_english_wire",
+  "name_strategy": "mixed_first_mention_full_then_short",
+  "style_notes": "The voice is formal and concise, aligned with Japanese English wire service conventions.",
+  "rewritten": true
+}

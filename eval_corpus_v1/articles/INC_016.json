@@ -1,0 +1,34 @@
+{
+  "article_id": "INC_016",
+  "incident_id": "INC_016",
+  "headline": "Jingzhou's Joyson Safety Hit by Ransomware, Halts Production, Data Stolen",
+  "body": "Joyson Safety Systems' Jingzhou facility, previously known as Takata (Jingzhou), has been struck by a ransomware attack. The cyber intrusion has severely affected the plant's IT frameworks and halted industrial production. With operations disrupted, the company warns that vital business documents may have been compromised. Teams are working diligently to bring systems back online in a phased manner.",
+  "supplier_names": [
+    "Joyson Safety Systems (Jingzhou) Co., Ltd. (Formerly Takata (Jingzhou) Automotive Component Co., Ltd.)"
+  ],
+  "supplier_node_ids": [
+    "ORG_E49C481DF7D4"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "critical_part_sole",
+  "impact_level": "severe",
+  "seed_id": "seed_lacroix_2023",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Joyson Safety",
+    "Takata (Jingzhou)"
+  ],
+  "canonical_supplier_names": [
+    "Joyson Safety Systems (Jingzhou) Co., Ltd. (Formerly Takata (Jingzhou) Automotive Component Co., Ltd.)"
+  ],
+  "rewrite_style": "short_ap_brief",
+  "name_strategy": "ticker_or_market_shorthand",
+  "style_notes": "Concise and factual with a focus on the impact of the cyber incident.",
+  "rewritten": true,
+  "group_id": "GRP_002",
+  "is_merge_variant": false,
+  "merge_seed_article_id": "INC_016"
+}

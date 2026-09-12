@@ -1,0 +1,33 @@
+{
+  "article_id": "INC_128",
+  "incident_id": "INC_128",
+  "headline": "Cyber Attack Cripples Operations at Hangzhou Yokohama Tire, Data Compromised",
+  "body": "Tire manufacturer Hangzhou Yokohama was recently targeted in a debilitating ransomware attack. This incident knocked out vital IT and industrial control systems within their facility outside of Hangzhou, leading to a temporary cessation of some production lines. Experts are currently engaged in phased recovery efforts to restore normal operations. Additionally, there are credible reports suggesting the breach may have resulted in the extraction of confidential company data. Evaluations are ongoing to fully grasp and respond to the cyber attack's ramifications.",
+  "supplier_names": [
+    "Hangzhou Yokohama Tire Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_63D1C86B51F0"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "redundant_high_reach",
+  "impact_level": "severe",
+  "seed_id": "seed_hoya_2024",
+  "group_id": "GRP_024",
+  "is_merge_variant": true,
+  "merge_seed_article_id": "INC_033",
+  "surface_supplier_names": [
+    "Hangzhou Yokohama"
+  ],
+  "canonical_supplier_names": [
+    "Hangzhou Yokohama Tire Co., Ltd."
+  ],
+  "rewrite_style": "newsletter_digest",
+  "name_strategy": "merge_variant",
+  "style_notes": "Newsletter digest with concise summary of the impact and ongoing response efforts.",
+  "rewritten": true,
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced."
+}

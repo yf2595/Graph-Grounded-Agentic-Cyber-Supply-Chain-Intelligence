@@ -1,0 +1,30 @@
+{
+  "article_id": "INC_007",
+  "incident_id": "INC_007",
+  "headline": "Ransomware Attack Forces Bestex to Shut Down Key Thailand Plant Operations",
+  "body": "In a devastating cybersecurity breach, Bestex (Thailand) Co., Ltd. experienced a ransomware assault that encrypted crucial operational software at their manufacturing epicenter in Thailand. The attack has forced the indefinite suspension of production lines, leaving the automotive industry scrambling as they await resolutions. Cybersecurity experts from external firms have been summoned to mitigate the crisis and work towards restoring efficiency. The full scope of the disruption remains undisclosed, with no official word on when normal operations will resume.",
+  "supplier_names": [
+    "Bestex (Thailand) Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_6DBA879D101B"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "bottleneck_sole",
+  "impact_level": "severe",
+  "seed_id": "seed_varta_2024",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Bestex (Thailand) Co., Ltd."
+  ],
+  "canonical_supplier_names": [
+    "Bestex (Thailand) Co., Ltd."
+  ],
+  "rewrite_style": "investigative_feature_lede",
+  "name_strategy": "city_plant_unit_of_parent",
+  "style_notes": "The piece employs an investigative tone with a focus on revealing the impact and urgency of the situation.",
+  "rewritten": true
+}

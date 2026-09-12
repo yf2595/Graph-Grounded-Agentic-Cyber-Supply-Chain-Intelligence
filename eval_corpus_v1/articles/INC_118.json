@@ -1,0 +1,35 @@
+{
+  "article_id": "INC_118",
+  "incident_id": "INC_118",
+  "headline": "Ransomware Incident at HAT Ayutthaya Causes Slight Disruptions",
+  "body": "A recent cyberattack targeting the IT infrastructure of Honda Automobile (Thailand)'s Ayutthaya plant has led to minor operational challenges. Office and planning systems were affected by the ransomware, prompting a shift to manual protocols for essential machining operations. This swift response is expected to limit any potential delays in shipments, with customers already notified to mitigate any supply chain impacts.",
+  "supplier_names": [
+    "Honda Automobile (Thailand), Ayutthaya Plant"
+  ],
+  "supplier_node_ids": [
+    "ORG_D3DDAB128E48"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "critical_part_sole",
+  "impact_level": "minor",
+  "seed_id": "seed_toyota_supplier_jtei_2022",
+  "group_id": "GRP_014",
+  "is_merge_variant": true,
+  "merge_seed_article_id": "INC_023",
+  "surface_supplier_names": [
+    "HAT Ayutthaya",
+    "Honda Thailand Ayutthaya",
+    "Ayutthaya Plant"
+  ],
+  "canonical_supplier_names": [
+    "Honda Automobile (Thailand), Ayutthaya Plant"
+  ],
+  "rewrite_style": "reuters_wire",
+  "name_strategy": "merge_variant",
+  "style_notes": "The text is structured in a concise, factual manner typical of Reuters wire format, focusing on the incident's impact and mitigation measures.",
+  "rewritten": true,
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced."
+}

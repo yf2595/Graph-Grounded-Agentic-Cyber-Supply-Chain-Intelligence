@@ -1,0 +1,14 @@
+{
+  "article_id": "wave1b__pair_08__foil_Howa__art_01",
+  "pair": 8,
+  "arm": "foil_Howa",
+  "slot": 1,
+  "headline": "Howa (Thailand) Co., Ltd. Faces Ransomware Attack",
+  "body": "Howa (Thailand) Co., Ltd., a key supplier in the automotive sector, has recently been targeted by a ransomware attack. The incident, which occurred in 2024, involved a threat to publish stolen internal data unless a ransom was paid. This attack has raised concerns about the security measures in place to protect sensitive information. Howa (Thailand) Co., Ltd. is a significant player in the automotive manufacturing industry, providing essential components to various manufacturers. The company is known for its robust supply chain operations and has a reputation for quality and reliability in its products. In response to the attack, Howa (Thailand) Co., Ltd. has engaged cybersecurity experts to contain the breach and assess the extent of the data exfiltration. While the company is working to mitigate the impact, it has emphasized that no customer or downstream effects have been disclosed at this time.",
+  "supplier_name": "Howa (Thailand) Co., Ltd.",
+  "supplier_node_id": "ORG_D0C8627F2FCC",
+  "construction_regime": "independent-generation",
+  "wave": "wave1b_silent_critical_20260704_164732",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

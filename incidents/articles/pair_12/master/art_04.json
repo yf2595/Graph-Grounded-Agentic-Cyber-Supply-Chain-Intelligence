@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_12__master__art_04",
+  "pair": 12,
+  "arm": "master",
+  "slot": 4,
+  "headline": "Analysts Weigh In on PLACEHOLDERCO's Cybersecurity Incident",
+  "body": "Industry analysts are assessing the impact of the recent cybersecurity incident at PLACEHOLDERCO. The automotive components supplier faced a malware infection that led to the shutdown of several facilities. Analysts note that while the company estimates a modest single-digit revenue impact, the incident highlights the importance of robust cybersecurity measures. PLACEHOLDERCO's swift response and system restoration efforts are seen as positive steps toward minimizing long-term effects.",
+  "supplier_name": "PLACEHOLDERCO",
+  "supplier_node_id": null,
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

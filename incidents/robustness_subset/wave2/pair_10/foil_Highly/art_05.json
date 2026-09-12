@@ -1,0 +1,14 @@
+{
+  "article_id": "wave2__pair_10__foil_Highly__art_05",
+  "pair": 10,
+  "arm": "foil_Highly",
+  "slot": 5,
+  "headline": "Cybersecurity Breach at Highly Marelli Japan: A Closer Look",
+  "body": "Highly Marelli Japan Corporation recently experienced a cybersecurity breach resulting from a ransomware attack. The company confirmed that attackers gained unauthorized access and exfiltrated proprietary data. Despite the breach, production operations have not been affected. As a major supplier in the automotive sector, Highly Marelli Japan is integral to the manufacturing ecosystem. The company is actively investigating the incident with the assistance of cybersecurity professionals to bolster its defenses and prevent future breaches. This incident highlights the ongoing risks faced by organizations in the automotive supply chain and the critical importance of maintaining robust cybersecurity protocols to protect sensitive data and ensure operational resilience.",
+  "supplier_name": "Highly Marelli Japan Corporation",
+  "supplier_node_id": "ORG_20F72E03895A",
+  "construction_regime": "independent-generation",
+  "wave": "wave2_silent_critical_20260704_183621",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

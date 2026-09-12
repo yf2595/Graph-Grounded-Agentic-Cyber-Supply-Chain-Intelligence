@@ -1,0 +1,14 @@
+{
+  "article_id": "wave1b__pair_08__foil_Howa__art_02",
+  "pair": 8,
+  "arm": "foil_Howa",
+  "slot": 2,
+  "headline": "Ransomware Incident at Howa (Thailand) Co., Ltd. Under Control",
+  "body": "The recent ransomware attack on Howa (Thailand) Co., Ltd. has been contained, according to the latest reports. The company, a vital supplier in the automotive sector, experienced significant operational disruption due to the breach. However, swift action by cybersecurity teams has helped to control the situation and minimize further damage. Howa (Thailand) Co., Ltd. plays a crucial role in the automotive supply chain, known for its high-quality components. Despite the attack, the company has assured stakeholders that its commitment to maintaining supply chain integrity remains strong. Efforts are ongoing to fully understand the scope of the data exfiltration and ensure that all systems are secure. Howa (Thailand) Co., Ltd. continues to work closely with cybersecurity experts to bolster its defenses against future threats.",
+  "supplier_name": "Howa (Thailand) Co., Ltd.",
+  "supplier_node_id": "ORG_D0C8627F2FCC",
+  "construction_regime": "independent-generation",
+  "wave": "wave1b_silent_critical_20260704_164732",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

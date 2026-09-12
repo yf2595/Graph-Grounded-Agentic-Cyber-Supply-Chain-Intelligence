@@ -1,0 +1,34 @@
+{
+  "article_id": "INC_011",
+  "incident_id": "INC_011",
+  "headline": "Denso Navigates Ransomware Disruption with Minimal Production Impact",
+  "body": "In a recent cybersecurity incident, Denso Corp, a key auto parts supplier, faced a ransomware attack targeting their office and scheduling IT infrastructure. Despite this, essential machining operations remained largely unaffected, thanks to manual workarounds implemented by the company. Although some shipments might see slight delays, Denso reassures that these will be minor. Precautionary notifications have been sent to customer plants to maintain transparency.",
+  "supplier_names": [
+    "Denso Corporation"
+  ],
+  "supplier_node_ids": [
+    "ORG_2DD511546595"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "bottleneck_sole",
+  "impact_level": "minor",
+  "seed_id": "seed_toyota_supplier_jtei_2022",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Denso Corp",
+    "Denso"
+  ],
+  "canonical_supplier_names": [
+    "Denso Corporation"
+  ],
+  "rewrite_style": "reuters_wire",
+  "name_strategy": "initialism_or_acronym",
+  "style_notes": "The article adopts a concise and factual tone with clear emphasis on the minimal impact of the incident.",
+  "rewritten": true,
+  "group_id": "GRP_001",
+  "is_merge_variant": false,
+  "merge_seed_article_id": "INC_011"
+}

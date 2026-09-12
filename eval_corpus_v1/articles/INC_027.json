@@ -1,0 +1,31 @@
+{
+  "article_id": "INC_027",
+  "incident_id": "INC_027",
+  "headline": "Malware Sparks Operational Meltdown at Stanley Electric's U.S. Facilities",
+  "body": "A severe malware invasion has crippled operations at SE's U.S. sites, resulting in an abrupt production halt. Crucial manufacturing systems were infected, forcing Stanley to cease operations and commence a meticulous restoration of affected networks. The company anticipates a phased reboot of its assembly lines, although no external ransom demands have been disclosed. With supply chains already strained, the shutdown at Stanley's Ohio and Michigan plants could ripple through the automotive sector.",
+  "supplier_names": [
+    "Stanley Electric U.S. Co., Inc."
+  ],
+  "supplier_node_ids": [
+    "ORG_F4A45B0B61EA"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "redundant_high_reach",
+  "impact_level": "severe",
+  "seed_id": "seed_tsmc_2018",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "SE",
+    "Stanley"
+  ],
+  "canonical_supplier_names": [
+    "Stanley Electric U.S. Co., Inc."
+  ],
+  "rewrite_style": "investigative_feature_lede",
+  "name_strategy": "short_brand",
+  "style_notes": "The style is investigative and detailed with a focus on the cyber incident's impact.",
+  "rewritten": true
+}

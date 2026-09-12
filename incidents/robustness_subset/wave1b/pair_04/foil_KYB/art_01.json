@@ -1,0 +1,14 @@
+{
+  "article_id": "wave1b__pair_04__foil_KYB__art_01",
+  "pair": 4,
+  "arm": "foil_KYB",
+  "slot": 1,
+  "headline": "KYB Mexico S.A. de C.V. Confirms Ransomware Breach",
+  "body": "KYB Mexico S.A. de C.V., a prominent supplier in the automotive industry, has confirmed a significant ransomware attack on its systems. The breach resulted in the theft of approximately one terabyte of internal data. KYB Mexico S.A. de C.V. operates as a key supplier in the automotive sector, providing components that are crucial for various automotive manufacturers. The company is actively collaborating with external cybersecurity experts to assess the full scope of the breach. Authorities have been notified as part of the regulatory compliance process. The company has not reported any direct impact on its customers or downstream partners. The focus remains on securing its systems and preventing any further data loss.",
+  "supplier_name": "KYB Mexico S.A. de C.V.",
+  "supplier_node_id": "ORG_002DDFF6EEBA",
+  "construction_regime": "independent-generation",
+  "wave": "wave1b_silent_critical_20260704_164732",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

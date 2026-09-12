@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_10__master__art_04",
+  "pair": 10,
+  "arm": "master",
+  "slot": 4,
+  "headline": "Analysts Weigh In on PLACEHOLDERCO's Cybersecurity Incident",
+  "body": "Industry analysts are closely monitoring PLACEHOLDERCO's response to its recent cybersecurity breach. The automotive components supplier confirmed the theft of proprietary data but reported no disruption to production. Analysts emphasize the critical role of cybersecurity in protecting intellectual property and suggest that PLACEHOLDERCO's swift engagement with external experts is a positive step towards mitigating potential risks and reinforcing its defenses.",
+  "supplier_name": "PLACEHOLDERCO",
+  "supplier_node_id": null,
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

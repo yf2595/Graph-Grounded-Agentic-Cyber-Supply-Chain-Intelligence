@@ -1,0 +1,14 @@
+{
+  "article_id": "wave1b__pair_05__foil_Neaton__art_02",
+  "pair": 5,
+  "arm": "foil_Neaton",
+  "slot": 2,
+  "headline": "Ransomware Attack Disrupts Neaton Auto Products Manufacturing Inc.",
+  "body": "Neaton Auto Products Manufacturing Inc., a leading supplier in the automotive sector, is currently managing the aftermath of a ransomware attack. The incident has led to a partial shutdown of operations, affecting the company's production capabilities. With a strong presence in the automotive manufacturing industry, Neaton Auto Products Manufacturing Inc. is recognized for its high-quality components and its contribution to automotive innovation. The company is actively working with cybersecurity professionals to restore systems and ensure the continuity of its operations. The company has confirmed that while the attack has impacted its internal operations, there have been no reported effects on its customers or downstream partners. Neaton Auto Products Manufacturing Inc. remains committed to overcoming this challenge and reinforcing its cybersecurity measures.",
+  "supplier_name": "Neaton Auto Products Manufacturing Inc.",
+  "supplier_node_id": "ORG_0EF9A2B90422",
+  "construction_regime": "independent-generation",
+  "wave": "wave1b_silent_critical_20260704_164732",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

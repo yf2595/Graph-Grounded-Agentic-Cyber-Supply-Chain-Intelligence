@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_08__master__art_03",
+  "pair": 8,
+  "arm": "master",
+  "slot": 3,
+  "headline": "Inside PLACEHOLDERCO: A Resilient Supplier",
+  "body": "PLACEHOLDERCO, known for its robust automotive components, is currently navigating a cybersecurity incident involving a ransomware attack. Despite the breach, the company's production operations remain stable. PLACEHOLDERCO has taken swift action by engaging cybersecurity experts to assess the situation. The supplier's commitment to resilience and transparency is evident as it works to understand the extent of the data theft.",
+  "supplier_name": "PLACEHOLDERCO",
+  "supplier_node_id": null,
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

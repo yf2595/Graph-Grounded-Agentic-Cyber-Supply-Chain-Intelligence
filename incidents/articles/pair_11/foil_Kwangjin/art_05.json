@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_11__foil_Kwangjin__art_05",
+  "pair": 11,
+  "arm": "foil_Kwangjin",
+  "slot": 5,
+  "headline": "Kwangjin SLP Mexico S.A. de C.V Details Cyber Incident in Regulatory Filing",
+  "body": "In a recent regulatory filing, Kwangjin SLP Mexico S.A. de C.V provided further details about the ransomware attack that compromised its network. The automotive components supplier confirmed that the attackers had access to its systems for several weeks, exfiltrating a significant volume of data. Kwangjin SLP Mexico S.A. de C.V has engaged cybersecurity experts and involved authorities to investigate the breach and bolster its security measures. Despite the incident, the company assured that its operations remain unaffected.",
+  "supplier_name": "Kwangjin SLP Mexico S.A. de C.V",
+  "supplier_node_id": "ORG_8311D64DC94B",
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

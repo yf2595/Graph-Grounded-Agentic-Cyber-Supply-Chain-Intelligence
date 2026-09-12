@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_08__crit_Pacific__art_05",
+  "pair": 8,
+  "arm": "crit_Pacific",
+  "slot": 5,
+  "headline": "Pacific Engineering Corporation Files Cybersecurity Incident Report",
+  "body": "Pacific Engineering Corporation has officially filed a report regarding the recent ransomware attack in its regulatory disclosures. The automotive components supplier detailed that internal data was stolen, but assured that production operations have not been impacted. The company is working with incident responders to assess the scope of the data theft and is committed to transparency as it navigates this challenging situation.",
+  "supplier_name": "Pacific Engineering Corporation",
+  "supplier_node_id": "ORG_9DB5337C4DD2",
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

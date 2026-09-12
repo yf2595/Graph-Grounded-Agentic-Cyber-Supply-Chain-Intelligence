@@ -1,0 +1,30 @@
+{
+  "article_id": "INC_054",
+  "incident_id": "INC_054",
+  "headline": "Bosch's North Germany Plant Suffers Shut Down After Ransomware Attack",
+  "body": "Bosch (Robert Bosch GmbH), a key player in automotive parts manufacturing, is grappling with a severe ransomware assault that has paralyzed its operational systems. Reports indicate that crucial processes at the company's facilities in northern Germany have been forced to a standstill. In response, Bosch has engaged external cybersecurity experts to aid in recovery efforts. Details about when production might resume remain undisclosed.",
+  "supplier_names": [
+    "Bosch (Robert Bosch GmbH)"
+  ],
+  "supplier_node_ids": [
+    "ORG_9B1104F6617C"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "low_reach",
+  "impact_level": "severe",
+  "seed_id": "seed_toyota_supplier_jtei_2022",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Bosch (Robert Bosch GmbH)"
+  ],
+  "canonical_supplier_names": [
+    "Bosch (Robert Bosch GmbH)"
+  ],
+  "rewrite_style": "security_trade_blog",
+  "name_strategy": "former_name_parenthetical",
+  "style_notes": "The tone maintains an urgent, informative style typical of cybersecurity trade publications.",
+  "rewritten": true
+}

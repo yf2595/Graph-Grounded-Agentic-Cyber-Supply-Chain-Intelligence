@@ -1,0 +1,29 @@
+{
+  "article_id": "INC_075",
+  "incident_id": "INC_075",
+  "headline": "Email Compromise at Pune Auto Polymers Causes Minor Shipping Delays",
+  "body": "Pune Auto Polymers Pvt. Ltd., a key player in the automotive supply sector, recently managed to contain a business email compromise incident that momentarily affected its order-entry and shipping communication systems. The company clarified that there was no impact on the encryption of their manufacturing operations, ensuring production lines remained unaffected. Although some shipping schedules were briefly delayed, Pune Auto anticipates a swift return to normalcy with minimal disruption to logistics. The firm has implemented reinforced cybersecurity measures to prevent future occurrences.",
+  "supplier_names": [
+    "Pune Auto Polymers Pvt. Ltd."
+  ],
+  "supplier_node_ids": [],
+  "is_cyber": true,
+  "in_supply_chain": false,
+  "relevant": false,
+  "case_stratum": "off_graph_cyber",
+  "impact_level": "minor",
+  "seed_id": "seed_lacroix_2023",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Pune Auto Polymers Pvt. Ltd.",
+    "Pune Auto"
+  ],
+  "canonical_supplier_names": [
+    "Pune Auto Polymers Pvt. Ltd."
+  ],
+  "rewrite_style": "corporate_press_paraphrase",
+  "name_strategy": "mixed_first_mention_full_then_short",
+  "style_notes": "The voice is formal and informative, suitable for corporate press releases.",
+  "rewritten": true
+}

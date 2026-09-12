@@ -1,0 +1,29 @@
+{
+  "article_id": "INC_077",
+  "incident_id": "INC_077",
+  "headline": "Ransomware Crisis Shuts Down Queretaro Interior's Key Plant Operations",
+  "body": "Queretaro Interior Modules, a key player in the automotive components sector, has come to a standstill after a ransomware attack targeted its critical manufacturing and logistics systems. The company’s facilities in Mexico have been hit hard, forcing a halt in operations as they scramble to regain control. Cybersecurity experts have been called in to mitigate the damage, but no definitive timeline for when production will resume has been provided.",
+  "supplier_names": [
+    "Queretaro Interior Modules SA de CV"
+  ],
+  "supplier_node_ids": [],
+  "is_cyber": true,
+  "in_supply_chain": false,
+  "relevant": false,
+  "case_stratum": "off_graph_cyber",
+  "impact_level": "severe",
+  "seed_id": "seed_varta_2024",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Queretaro Interior Modules",
+    "Queretaro Interior"
+  ],
+  "canonical_supplier_names": [
+    "Queretaro Interior Modules SA de CV"
+  ],
+  "rewrite_style": "investigative_feature_lede",
+  "name_strategy": "city_plant_unit_of_parent",
+  "style_notes": "The article uses an investigative tone to emphasize immediacy and impact.",
+  "rewritten": true
+}

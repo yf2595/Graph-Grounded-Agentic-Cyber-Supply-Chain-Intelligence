@@ -1,0 +1,80 @@
+# WAITI final GPT-4.1 experiment config (temperature 0, non-reasoning).
+# Isolated from evaluation.yaml (gpt-5.4). Use with:
+#   python -m evaluation.runners.run_all --config evaluation/config/evaluation_gpt41.yaml \
+#     --run-id waiti_final_gpt41 --model gpt-4.1
+
+dataset:
+  corpus_dir: eval_corpus_v1
+  input_path: evaluation/data/inputs.jsonl
+  ground_truth_path: evaluation/data/ground_truth.jsonl
+  graph_dir: dataset
+
+risk_labels:
+  - VERY_LOW
+  - LOW
+  - MEDIUM
+  - HIGH
+  - VERY_HIGH
+
+methods:
+  - B0
+  - B1
+  - B2
+  - B3
+  - OURS
+  - A1
+  - A2
+  - A3
+  - A4
+
+llm:
+  model: gpt-4.1
+  temperature: 0.0
+  max_output_tokens: 2048
+  use_reasoning: false
+
+bootstrap:
+  enabled: true
+  unit: group_id
+  n_resamples: 10000
+  confidence_level: 0.95
+  seed: 42
+
+latency:
+  include_report_generation: false
+
+entity_resolution:
+  config_path: config/entity_resolution.yaml
+
+merge:
+  config_path: config/merge_rules.yaml
+
+parallel:
+  article_workers: 1
+  method_workers: 1
+  unsafe_parallel_merge: false
+
+pricing:
+  # OpenAI public list rates for GPT-4.1 (confirm before paper cost claims)
+  gpt-4.1:
+    input_per_1m: 2.00
+    output_per_1m: 8.00
+  default:
+    input_per_1m: 2.00
+    output_per_1m: 8.00
+
+ttd:
+  enabled: false
+
+risk:
+  unknown_penalty: 4
+
+outputs:
+  save_jsonl: true
+  save_csv: true
+  save_markdown: true
+
+paths:
+  risk_rules: config/risk_rules.yaml
+  cyber_rules: evaluation/config/cyber_rules.yaml
+  results_dir: results

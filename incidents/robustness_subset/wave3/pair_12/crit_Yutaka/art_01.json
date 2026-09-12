@@ -1,0 +1,14 @@
+{
+  "article_id": "wave3__pair_12__crit_Yutaka__art_01",
+  "pair": 12,
+  "arm": "crit_Yutaka",
+  "slot": 1,
+  "headline": "Yutaka Giken Co., Ltd. Faces Operational Disruption Due to Ransomware Attack",
+  "body": "Yutaka Giken Co., Ltd., a key supplier in the automotive industry, has been hit by a ransomware attack that led to significant operational disruptions. The attack resulted in the shutdown of several production facilities, impacting the company's ability to fulfill orders. Yutaka Giken Co., Ltd. is a renowned supplier in the automotive sector, providing critical components to various manufacturers. The company operates multiple facilities worldwide, which are integral to its supply chain operations. In response to the attack, Yutaka Giken has initiated recovery protocols and is working diligently to restore normal operations. While the full impact of the attack is still being assessed, the company has confirmed that data exfiltration occurred during the incident.",
+  "supplier_name": "Yutaka Giken Co., Ltd.",
+  "supplier_node_id": "ORG_2F00041EA71D",
+  "construction_regime": "independent-generation",
+  "wave": "wave3_silent_critical_20260705_085153",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

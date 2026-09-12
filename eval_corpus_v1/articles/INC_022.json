@@ -1,0 +1,30 @@
+{
+  "article_id": "INC_022",
+  "incident_id": "INC_022",
+  "headline": "Ransomware Attack Cripples Nidec Elesys Zhongshan: Production Suspended",
+  "body": "Nidec Elesys (Zhongshan) Corporation, a key supplier in the automotive sector, has been hit by a severe ransomware attack, causing an unprecedented halt in production. The attack targeted critical manufacturing execution and logistics systems, leaving operations paralyzed. Response teams have been mobilized and external cybersecurity experts are on the ground assessing the situation, though no clear timeline for resuming normal activities has been provided yet. As the company scrambles to mitigate the disruption, concerns over supply chain stability loom large.",
+  "supplier_names": [
+    "Nidec Elesys (Zhongshan) Corporation"
+  ],
+  "supplier_node_ids": [
+    "ORG_9CBD18BAB016"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "critical_part_sole",
+  "impact_level": "severe",
+  "seed_id": "seed_tsmc_2018",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Nidec Elesys (Zhongshan) Corporation"
+  ],
+  "canonical_supplier_names": [
+    "Nidec Elesys (Zhongshan) Corporation"
+  ],
+  "rewrite_style": "security_trade_blog",
+  "name_strategy": "full_legal",
+  "style_notes": "The voice is urgent and trade-focused, emphasizing cybersecurity and operational impact.",
+  "rewritten": true
+}

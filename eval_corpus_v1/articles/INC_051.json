@@ -1,0 +1,33 @@
+{
+  "article_id": "INC_051",
+  "incident_id": "INC_051",
+  "headline": "Cyber Attack Halts Operations at Magna International, Plant Closures Expected",
+  "body": "Several manufacturing plants of Magna International, a major automotive supplier, were shut down following a cyber attack that compromised factory networks. The company reported working diligently to restore systems and plans to restart production gradually. While no ransomware demand has been disclosed, the incident signifies a critical interruption in operations at its facilities. The shutdown could impact supply chains across the automotive sector, emphasizing the growing threat of cyber vulnerabilities in industrial settings.",
+  "supplier_names": [
+    "Magna International Inc."
+  ],
+  "supplier_node_ids": [
+    "ORG_438043E78D82"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "low_reach",
+  "impact_level": "severe",
+  "seed_id": "seed_abb_2023",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Magna International"
+  ],
+  "canonical_supplier_names": [
+    "Magna International Inc."
+  ],
+  "rewrite_style": "reuters_wire",
+  "name_strategy": "ticker_or_market_shorthand",
+  "style_notes": "Concise and factual with a focus on operational impact.",
+  "rewritten": true,
+  "group_id": "GRP_003",
+  "is_merge_variant": false,
+  "merge_seed_article_id": "INC_051"
+}

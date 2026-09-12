@@ -1,0 +1,29 @@
+{
+  "article_id": "INC_072",
+  "incident_id": "INC_072",
+  "headline": "GZL Stamping Contains Cyberattack; Minor Shipping Delays Reported",
+  "body": "Guangzhou Lianhai Stamping Co. (GZL) faced a business email compromise that briefly disrupted its order-entry and shipping systems. The incident, identified swiftly by IT staff, did not involve encryption of the production network. GZL anticipates only minor delays in logistics due to this incident, as critical operations remained unaffected. The event highlights the importance of vigilance in automotive supply chains without causing any major operational halts.",
+  "supplier_names": [
+    "Guangzhou Lianhai Stamping Co."
+  ],
+  "supplier_node_ids": [],
+  "is_cyber": true,
+  "in_supply_chain": false,
+  "relevant": false,
+  "case_stratum": "off_graph_cyber",
+  "impact_level": "minor",
+  "seed_id": "seed_foxsemicon_2024",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "GZL",
+    "Guangzhou Lianhai Stamping Co."
+  ],
+  "canonical_supplier_names": [
+    "Guangzhou Lianhai Stamping Co."
+  ],
+  "rewrite_style": "reuters_wire",
+  "name_strategy": "ticker_or_market_shorthand",
+  "style_notes": "Objective and concise, mimicking the tone of a brief Reuters news alert.",
+  "rewritten": true
+}

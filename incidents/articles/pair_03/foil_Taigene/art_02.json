@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_03__foil_Taigene__art_02",
+  "pair": 3,
+  "arm": "foil_Taigene",
+  "slot": 2,
+  "headline": "Taigene Electric Machinery Co., Ltd. Engages Experts Following Cyber Incident",
+  "body": "In the wake of a recent cyberattack, Taigene Electric Machinery Co., Ltd. has taken decisive steps to address the situation. The automotive components supplier confirmed that it is working with incident response teams to manage the aftermath of the attack. The company had to isolate its servers and temporarily suspend production and order-processing activities. A ransom demand was made by the attackers, but Taigene Electric Machinery Co., Ltd. is focusing on restoring its systems and ensuring business continuity.",
+  "supplier_name": "Taigene Electric Machinery Co., Ltd.",
+  "supplier_node_id": "ORG_E4069CC45AA6",
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

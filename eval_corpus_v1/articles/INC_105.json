@@ -1,0 +1,35 @@
+{
+  "article_id": "INC_105",
+  "incident_id": "INC_105",
+  "headline": "Ransomware Shuts Down Operations at Joyson Safety in Jingzhou",
+  "body": "Joyson Safety Systems' facility in Jingzhou, once branded as Takata (Jingzhou), has suffered a significant ransomware breach. This cyberattack has caused a major halt in the plant's production by compromising its IT infrastructure. The resulting operational standstill has prompted alerts that sensitive business data may have been exposed. Efforts are underway by the technical teams to restore normal operations gradually and securely.",
+  "supplier_names": [
+    "Joyson Safety Systems (Jingzhou) Co., Ltd. (Formerly Takata (Jingzhou) Automotive Component Co., Ltd.)"
+  ],
+  "supplier_node_ids": [
+    "ORG_E49C481DF7D4"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "critical_part_sole",
+  "impact_level": "severe",
+  "seed_id": "seed_lacroix_2023",
+  "group_id": "GRP_002",
+  "is_merge_variant": true,
+  "merge_seed_article_id": "INC_016",
+  "surface_supplier_names": [
+    "Joyson Safety Systems' Jingzhou facility",
+    "Takata (Jingzhou)",
+    "Joyson Safety"
+  ],
+  "canonical_supplier_names": [
+    "Joyson Safety Systems (Jingzhou) Co., Ltd. (Formerly Takata (Jingzhou) Automotive Component Co., Ltd.)"
+  ],
+  "rewrite_style": "reuters_wire",
+  "name_strategy": "merge_variant",
+  "style_notes": "A concise Reuter-style wire update focuses on the operational impact and ongoing recovery efforts post-cyberattack.",
+  "rewritten": true,
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced."
+}

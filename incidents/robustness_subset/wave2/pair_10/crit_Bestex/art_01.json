@@ -1,0 +1,14 @@
+{
+  "article_id": "wave2__pair_10__crit_Bestex__art_01",
+  "pair": 10,
+  "arm": "crit_Bestex",
+  "slot": 1,
+  "headline": "Bestex (Thailand) Co., Ltd. Faces Ransomware Attack",
+  "body": "Bestex (Thailand) Co., Ltd., a key player in the automotive manufacturing sector, has recently confirmed a ransomware attack. The company has acknowledged unauthorized access to its systems, resulting in the exfiltration of proprietary internal data. Despite the breach, Bestex reports that its production operations have not been disrupted. Bestex (Thailand) Co., Ltd. is known for its significant role in supplying automotive components. The company is currently working with external cybersecurity experts to investigate the incident thoroughly. Although the attackers claimed data theft, the company has not disclosed any impact on its customers or downstream partners. Bestex's swift response underscores its commitment to maintaining operational integrity and data security.",
+  "supplier_name": "Bestex (Thailand) Co., Ltd.",
+  "supplier_node_id": "ORG_6DBA879D101B",
+  "construction_regime": "independent-generation",
+  "wave": "wave2_silent_critical_20260704_183621",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

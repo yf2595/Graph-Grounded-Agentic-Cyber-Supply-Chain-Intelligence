@@ -1,0 +1,14 @@
+{
+  "article_id": "wave3__pair_12__crit_Yutaka__art_05",
+  "pair": 12,
+  "arm": "crit_Yutaka",
+  "slot": 5,
+  "headline": "Yutaka Giken Co., Ltd. Confirms No Downstream Impact from Cyber Attack",
+  "body": "Yutaka Giken Co., Ltd. has confirmed that the recent ransomware attack did not result in any downstream impact. Despite the operational disruptions, the company has ensured that its supply chain partners remain unaffected. Yutaka Giken Co., Ltd. is a key supplier in the automotive industry, known for its robust supply chain management. The company operates a network of production facilities that are integral to its operations. Following the incident, Yutaka Giken has taken steps to enhance its cybersecurity measures and prevent future attacks. The company remains dedicated to maintaining its supply chain integrity and continuing to serve its partners effectively.",
+  "supplier_name": "Yutaka Giken Co., Ltd.",
+  "supplier_node_id": "ORG_2F00041EA71D",
+  "construction_regime": "independent-generation",
+  "wave": "wave3_silent_critical_20260705_085153",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

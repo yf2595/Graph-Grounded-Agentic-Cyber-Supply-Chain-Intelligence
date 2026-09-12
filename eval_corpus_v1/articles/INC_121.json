@@ -1,0 +1,37 @@
+{
+  "article_id": "INC_121",
+  "incident_id": "INC_121",
+  "headline": "Ransomware Hits Denso and Lumax, Causing Major Disruptions",
+  "body": "A ransomware attack has severely impacted the operations of Denso Corporation, leading to a complete halt of production at several important facilities. The cyber assault specifically targeted their systems controlling manufacturing processes. This has led to significant operational disruption as technical teams strive for resolution. Lumax Industries Ltd. also reported problems within its supply chain activities linked to this cyber event. Both organizations are actively working with cybersecurity experts to restore normal operations, though no specific recovery timeline has been provided yet.",
+  "supplier_names": [
+    "Denso Corporation",
+    "Lumax Industries Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_2DD511546595",
+    "ORG_C8DC371D3D4B"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "multi_supplier",
+  "impact_level": "severe",
+  "seed_id": "seed_toyota_supplier_jtei_2022",
+  "group_id": "GRP_017",
+  "is_merge_variant": true,
+  "merge_seed_article_id": "INC_062",
+  "surface_supplier_names": [
+    "Denso",
+    "Lumax"
+  ],
+  "canonical_supplier_names": [
+    "Denso Corporation",
+    "Lumax Industries Ltd."
+  ],
+  "rewrite_style": "short_ap_brief",
+  "name_strategy": "merge_variant",
+  "style_notes": "This variant presents a concise report reminiscent of an AP brief, focusing on the core details of the cyber attack and its impact on operations.",
+  "rewritten": true,
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced."
+}

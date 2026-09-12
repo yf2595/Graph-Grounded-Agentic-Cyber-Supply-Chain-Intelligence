@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_08__crit_Pacific__art_02",
+  "pair": 8,
+  "arm": "crit_Pacific",
+  "slot": 2,
+  "headline": "Pacific Engineering Corporation Investigates Data Breach",
+  "body": "In a recent development, Pacific Engineering Corporation is actively investigating a cybersecurity breach that led to the theft of internal data. The automotive components supplier has hired incident response experts to determine the full scope of the data compromised. While the attackers have threatened to publish the stolen information, Pacific Engineering Corporation reassures that its production operations are continuing without disruption.",
+  "supplier_name": "Pacific Engineering Corporation",
+  "supplier_node_id": "ORG_9DB5337C4DD2",
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

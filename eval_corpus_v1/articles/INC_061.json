@@ -1,0 +1,34 @@
+{
+  "article_id": "INC_061",
+  "incident_id": "INC_061",
+  "headline": "Astemo, Ltd. Faces Production Halt Due to Ransomware; Stanley Electric U.S. Co., Inc. Also Affected",
+  "body": "In a critical cyberattack, Astemo, Ltd. (Formerly Hitachi Astemo, Ltd.), a major player in automotive parts, has been forced to halt production at some of its facilities. The company revealed that ransomware infiltrated their manufacturing execution and logistics systems, triggering a shutdown to protect operations while cybersecurity consultants work on containment and recovery. No timeline for resuming full operations has been cited yet. Meanwhile, reports indicate Stanley Electric U.S. Co., Inc., another key supplier, experienced related disruptions. External experts are currently assisting both firms in mitigating the impact of this incident.",
+  "supplier_names": [
+    "Astemo, Ltd. (Formerly Hitachi Astemo, Ltd. )",
+    "Stanley Electric U.S. Co., Inc."
+  ],
+  "supplier_node_ids": [
+    "ORG_A1A7984ADE5F",
+    "ORG_F4A45B0B61EA"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "multi_supplier",
+  "impact_level": "severe",
+  "seed_id": "seed_microchip_2024",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Astemo, Ltd.",
+    "Stanley Electric U.S. Co., Inc."
+  ],
+  "canonical_supplier_names": [
+    "Astemo, Ltd. (Formerly Hitachi Astemo, Ltd. )",
+    "Stanley Electric U.S. Co., Inc."
+  ],
+  "rewrite_style": "local_business_journal",
+  "name_strategy": "former_name_parenthetical",
+  "style_notes": "The article maintains a direct yet detailed style typical of local business journals.",
+  "rewritten": true
+}

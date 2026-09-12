@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_12__master__art_02",
+  "pair": 12,
+  "arm": "master",
+  "slot": 2,
+  "headline": "PLACEHOLDERCO Begins Recovery Post-Malware Shutdown",
+  "body": "Following a recent malware attack, PLACEHOLDERCO has initiated recovery efforts. The automotive components supplier experienced a widespread infection that led to the shutdown of multiple production sites. Systems have since been restored, and operations are gradually resuming. PLACEHOLDERCO estimates a modest single-digit-percentage impact on its revenue due to the incident. The company is collaborating with cybersecurity experts to prevent future breaches.",
+  "supplier_name": "PLACEHOLDERCO",
+  "supplier_node_id": null,
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

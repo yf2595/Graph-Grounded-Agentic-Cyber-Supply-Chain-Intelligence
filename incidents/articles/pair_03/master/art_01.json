@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_03__master__art_01",
+  "pair": 3,
+  "arm": "master",
+  "slot": 1,
+  "headline": "PLACEHOLDERCO Discloses Cyberattack, Halts Operations",
+  "body": "PLACEHOLDERCO, a leading automotive components supplier, has revealed a cyberattack that has forced the company to take immediate action. The attack led to the isolation of several servers and a temporary halt in production and order-processing systems across its facilities. The perpetrators have issued a ransom demand, prompting PLACEHOLDERCO to engage cybersecurity incident responders. The company is working diligently to restore affected systems and resume normal operations.",
+  "supplier_name": "PLACEHOLDERCO",
+  "supplier_node_id": null,
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

@@ -1,0 +1,30 @@
+{
+  "article_id": "INC_043",
+  "incident_id": "INC_043",
+  "headline": "F.C.C. Co., Ltd. Faces Ransomware Attack: Data Compromised, Production Interrupted",
+  "body": "Auto parts manufacturer F.C.C. Co., Ltd., known for its clutch systems, announced a significant ransomware attack impacting its operational networks. The breach halted production at certain plants and potentially leaked confidential corporate documents. Cybersecurity teams are diligently working to bring systems back online in phases, focusing first on critical infrastructure recovery. This interruption highlights ongoing vulnerabilities in the automotive supply chain's digital landscape.",
+  "supplier_names": [
+    "F.C.C. Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_9993F1E48400"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "moderate_reach",
+  "impact_level": "severe",
+  "seed_id": "seed_toyota_supplier_jtei_2022",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "F.C.C. Co., Ltd."
+  ],
+  "canonical_supplier_names": [
+    "F.C.C. Co., Ltd."
+  ],
+  "rewrite_style": "reuters_wire",
+  "name_strategy": "full_legal",
+  "style_notes": "The tone is factual and concise, typical of wire service reporting.",
+  "rewritten": true
+}

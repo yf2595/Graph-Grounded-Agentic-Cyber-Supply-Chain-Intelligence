@@ -1,0 +1,31 @@
+{
+  "article_id": "INC_038",
+  "incident_id": "INC_038",
+  "headline": "Xiamen Zhengxin Hit by Cyber Attack; Operations Unaffected",
+  "body": "XZ Rubber Industries experienced a security breach with hackers claiming they accessed sensitive company records. Despite the intrusion, XZ confirmed all plant operations across their facilities in China remain normal and customer shipments are on track. The cyber event, which targeted IT networks rather than production systems, sparked an internal investigation to secure data and prevent future incidents.",
+  "supplier_names": [
+    "Xiamen Zhengxin Rubber Industry Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_07A5E6557A1C"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "redundant_high_reach",
+  "impact_level": "none",
+  "seed_id": "seed_synthetic_phish_minor",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "XZ Rubber Industries",
+    "XZ"
+  ],
+  "canonical_supplier_names": [
+    "Xiamen Zhengxin Rubber Industry Co., Ltd."
+  ],
+  "rewrite_style": "newsletter_digest",
+  "name_strategy": "former_name_parenthetical",
+  "style_notes": "Informative and succinct with a journalistic tone.",
+  "rewritten": true
+}

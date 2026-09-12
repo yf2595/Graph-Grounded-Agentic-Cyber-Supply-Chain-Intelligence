@@ -1,0 +1,34 @@
+{
+  "article_id": "INC_030",
+  "incident_id": "INC_030",
+  "headline": "B'Stone Halts Production After Cyber Attack Shuts Down Key Systems at Facilities",
+  "body": "The global tire and component maker, Bridgestone Corporation, faced a substantial disruption after a ransomware attack crippled crucial manufacturing and logistics systems. Operations came to a halt at several facilities as technical teams and external cybersecurity experts worked round-the-clock to restore normalcy. Although no injuries were reported, the production shutdown has stalled shipments and affected downstream supply chains significantly. The company has yet to provide a precise timeline for when operations will resume.",
+  "supplier_names": [
+    "Bridgestone Corporation"
+  ],
+  "supplier_node_ids": [
+    "ORG_AE8E700BCD4F"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "redundant_high_reach",
+  "impact_level": "severe",
+  "seed_id": "seed_hoya_2024",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "B'Stone",
+    "Bridgestone Corporation"
+  ],
+  "canonical_supplier_names": [
+    "Bridgestone Corporation"
+  ],
+  "rewrite_style": "supply_chain_risk_note",
+  "name_strategy": "ticker_or_market_shorthand",
+  "style_notes": "The voice is factual and concise, focusing on direct impacts and steps taken.",
+  "rewritten": true,
+  "group_id": "GRP_006",
+  "is_merge_variant": false,
+  "merge_seed_article_id": "INC_030"
+}

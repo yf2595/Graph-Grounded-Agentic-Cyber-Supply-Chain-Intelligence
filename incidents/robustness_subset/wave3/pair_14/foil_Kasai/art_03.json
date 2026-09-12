@@ -1,0 +1,14 @@
+{
+  "article_id": "wave3__pair_14__foil_Kasai__art_03",
+  "pair": 14,
+  "arm": "foil_Kasai",
+  "slot": 3,
+  "headline": "Ransomware Attack Disrupts Operations at Kasai Teck See Co., Ltd.",
+  "body": "Kasai Teck See Co., Ltd., an automotive parts supplier, recently faced a ransomware attack that resulted in the shutdown of several production facilities. This disruption has temporarily halted operations at multiple sites. As a major player in the automotive supply chain, Kasai Teck See Co., Ltd. is integral to the production of various components used by automotive manufacturers globally. The company is known for its high-quality products and reliable service. In the wake of the attack, the company is working diligently to resume operations and ensure the security of its systems. The incident highlights the growing threat of cyberattacks in the industrial sector and the importance of robust cybersecurity measures.",
+  "supplier_name": "Kasai Teck See Co., Ltd.",
+  "supplier_node_id": "ORG_74C1A4D362A2",
+  "construction_regime": "independent-generation",
+  "wave": "wave3_silent_critical_20260705_085153",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

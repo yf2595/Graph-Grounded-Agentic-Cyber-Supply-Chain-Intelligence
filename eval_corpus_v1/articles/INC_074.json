@@ -1,0 +1,28 @@
+{
+  "article_id": "INC_074",
+  "incident_id": "INC_074",
+  "headline": "BTS GmbH Faces Production Standstill Amid Major Ransomware Breach",
+  "body": "Bavarian component maker BTS GmbH has temporarily suspended operations following a crippling ransomware incident. Affected areas include vital manufacturing execution systems and logistics networks, causing at least one plant to cease activity. External cyber experts have been enlisted to accelerate recovery efforts. As of now, no definitive timeline for resuming full production has been shared.",
+  "supplier_names": [
+    "Bavaria Trim Systems GmbH"
+  ],
+  "supplier_node_ids": [],
+  "is_cyber": true,
+  "in_supply_chain": false,
+  "relevant": false,
+  "case_stratum": "off_graph_cyber",
+  "impact_level": "severe",
+  "seed_id": "seed_toyota_supplier_jtei_2022",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "BTS GmbH"
+  ],
+  "canonical_supplier_names": [
+    "Bavaria Trim Systems GmbH"
+  ],
+  "rewrite_style": "security_trade_blog",
+  "name_strategy": "initialism_or_acronym",
+  "style_notes": "The voice is authoritative yet accessible, typical of industry-focused security briefings.",
+  "rewritten": true
+}

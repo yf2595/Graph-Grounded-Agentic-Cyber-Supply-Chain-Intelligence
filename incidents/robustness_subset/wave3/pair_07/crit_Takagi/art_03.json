@@ -1,0 +1,14 @@
+{
+  "article_id": "wave3__pair_07__crit_Takagi__art_03",
+  "pair": 7,
+  "arm": "crit_Takagi",
+  "slot": 3,
+  "headline": "Data Breach at Takagi Seiko Corporation: A Closer Look",
+  "body": "Takagi Seiko Corporation, a supplier in the automotive sector, recently experienced a ransomware attack that led to the theft of sensitive data. The breach was discovered months after the initial intrusion. Takagi Seiko Corporation is a key entity in the automotive supply chain, providing critical components to various manufacturers. The company has been proactive in addressing the breach by collaborating with cybersecurity experts to secure its systems and mitigate potential risks. While the attack did not disrupt operations, it highlights the persistent threat of cyberattacks on suppliers and the need for ongoing cybersecurity enhancements.",
+  "supplier_name": "Takagi Seiko Corporation",
+  "supplier_node_id": "ORG_17E0030DD2FA",
+  "construction_regime": "independent-generation",
+  "wave": "wave3_silent_critical_20260705_085153",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

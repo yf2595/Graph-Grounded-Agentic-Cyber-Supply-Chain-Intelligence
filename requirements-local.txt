@@ -1,0 +1,4 @@
+# Optional extras for local vLLM backends (Table 3).
+# Install in the same environment as requirements.txt after the GPU stack is available.
+# Paper local runs used vLLM 0.25.1 on one NVIDIA RTX 6000 Ada 48 GB GPU.
+vllm==0.25.1

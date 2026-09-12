@@ -1,0 +1,34 @@
+{
+  "article_id": "INC_119",
+  "incident_id": "INC_119",
+  "headline": "Cyber Attack Disrupts Operations at Minebea AccessSolutions",
+  "body": "A ransomware attack has heavily disrupted Minebea AccessSolutions' manufacturing and logistics networks, previously recognized as Honda Lock Mfg. Co., Ltd. The cyber incident forced an immediate stoppage of production across various sites, severely impacting their workflow. The company is collaborating with cybersecurity experts to navigate the breach and restore system functionality. However, there is currently no estimated timeline for a full return to normal operations.",
+  "supplier_names": [
+    "Minebea AccessSolutions Inc. (Formerly Honda Lock Mfg. Co., Ltd.)"
+  ],
+  "supplier_node_ids": [
+    "ORG_DC7B1887F28B"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "low_reach",
+  "impact_level": "severe",
+  "seed_id": "seed_nichirin_2022",
+  "group_id": "GRP_015",
+  "is_merge_variant": true,
+  "merge_seed_article_id": "INC_052",
+  "surface_supplier_names": [
+    "Minebea AccessSolutions",
+    "Honda Lock Mfg. Co., Ltd."
+  ],
+  "canonical_supplier_names": [
+    "Minebea AccessSolutions Inc. (Formerly Honda Lock Mfg. Co., Ltd.)"
+  ],
+  "rewrite_style": "security_trade_blog",
+  "name_strategy": "merge_variant",
+  "style_notes": "This rewrite presents the same event in a concise manner typical of security trade blogs, emphasizing operational disruption and response without altering original facts.",
+  "rewritten": true,
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced."
+}

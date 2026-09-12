@@ -1,0 +1,14 @@
+{
+  "article_id": "wave1b__pair_08__crit_Pacific__art_05",
+  "pair": 8,
+  "arm": "crit_Pacific",
+  "slot": 5,
+  "headline": "Pacific Engineering Corporation Confirms Data Breach",
+  "body": "Pacific Engineering Corporation has confirmed a data breach resulting from a ransomware attack. The company is taking steps to secure its network and prevent further unauthorized access. Known for its significant role in the automotive manufacturing sector, Pacific Engineering Corporation is addressing the breach with the help of cybersecurity professionals. The firm has assured stakeholders that no customer data has been compromised, and operations continue with minimal disruption.",
+  "supplier_name": "Pacific Engineering Corporation",
+  "supplier_node_id": "ORG_9DB5337C4DD2",
+  "construction_regime": "independent-generation",
+  "wave": "wave1b_silent_critical_20260704_164732",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

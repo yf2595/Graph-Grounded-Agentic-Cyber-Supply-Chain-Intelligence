@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_11__master__art_05",
+  "pair": 11,
+  "arm": "master",
+  "slot": 5,
+  "headline": "PLACEHOLDERCO Details Cyber Incident in Regulatory Filing",
+  "body": "In a recent regulatory filing, PLACEHOLDERCO provided further details about the ransomware attack that compromised its network. The automotive components supplier confirmed that the attackers had access to its systems for several weeks, exfiltrating a significant volume of data. PLACEHOLDERCO has engaged cybersecurity experts and involved authorities to investigate the breach and bolster its security measures. Despite the incident, the company assured that its operations remain unaffected.",
+  "supplier_name": "PLACEHOLDERCO",
+  "supplier_node_id": null,
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

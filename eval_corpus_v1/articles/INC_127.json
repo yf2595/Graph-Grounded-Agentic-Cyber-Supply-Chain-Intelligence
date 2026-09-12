@@ -1,0 +1,37 @@
+{
+  "article_id": "INC_127",
+  "incident_id": "INC_127",
+  "headline": "Ransomware Incident Shuts Down Hitachi Astemo's Dongguan Production Site",
+  "body": "A recent ransomware attack has led to a shutdown at Hitachi Astemo Automotive Powertrain Technologies’ facility in Dongguan, previously known as Dongguan Keihin Engine Management System. The cyber assault targeted crucial manufacturing and logistics systems, halting operations. Experts are currently collaborating with the company to restore functionality, though the timeline for resuming full operations is yet unclear. Concurrently, NGK Ceramics Suzhou Co., Ltd. is experiencing associated process disturbances.",
+  "supplier_names": [
+    "Hitachi Astemo Automotive Powertrain Technologies (Dongguan) Ltd. (Formerly Dongguan Keihin Engine Management System Co., Ltd.)",
+    "NGK Ceramics Suzhou Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_A910452660BE",
+    "ORG_0D8DAC210917"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "multi_supplier",
+  "impact_level": "severe",
+  "seed_id": "seed_microchip_2024",
+  "group_id": "GRP_023",
+  "is_merge_variant": true,
+  "merge_seed_article_id": "INC_067",
+  "surface_supplier_names": [
+    "Hitachi Astemo Automotive Powertrain Technologies (Dongguan) Ltd.",
+    "NGK Ceramics Suzhou Co., Ltd."
+  ],
+  "canonical_supplier_names": [
+    "Hitachi Astemo Automotive Powertrain Technologies (Dongguan) Ltd. (Formerly Dongguan Keihin Engine Management System Co., Ltd.)",
+    "NGK Ceramics Suzhou Co., Ltd."
+  ],
+  "rewrite_style": "newsletter_digest",
+  "name_strategy": "merge_variant",
+  "style_notes": "The newsletter_digest style aims for concise and informative updates, maintaining focus on key aspects without embellishment or extensive detail.",
+  "rewritten": true,
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced."
+}

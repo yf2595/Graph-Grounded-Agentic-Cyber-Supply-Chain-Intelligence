@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_05__crit_Nissin__art_05",
+  "pair": 5,
+  "arm": "crit_Nissin",
+  "slot": 5,
+  "headline": "Nissin Manufacturing Group Co., Ltd. (Formerly Nissin Manufacturing Co., Ltd.) Files Regulatory Report on Cyber Incident",
+  "body": "Nissin Manufacturing Group Co., Ltd. (Formerly Nissin Manufacturing Co., Ltd.) has submitted a regulatory filing detailing the ransomware attack it recently suffered. The automotive components supplier reported a partial shutdown of operations and the theft of internal data, including financial records. The filing highlights the company's efforts to address the situation by working with incident response teams to restore its systems and ensure order fulfillment returns to normal levels.",
+  "supplier_name": "Nissin Manufacturing Group Co., Ltd. (Formerly Nissin Manufacturing Co., Ltd.)",
+  "supplier_node_id": "ORG_67659D83499E",
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

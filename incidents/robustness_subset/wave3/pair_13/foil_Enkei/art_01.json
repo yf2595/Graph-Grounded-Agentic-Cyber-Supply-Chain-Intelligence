@@ -1,0 +1,14 @@
+{
+  "article_id": "wave3__pair_13__foil_Enkei__art_01",
+  "pair": 13,
+  "arm": "foil_Enkei",
+  "slot": 1,
+  "headline": "Ransomware Attack Disrupts Operations at Enkei Corporation",
+  "body": "Enkei Corporation, a supplier in the automotive industry, has recently been targeted by a ransomware attack. The incident has led to significant operational disruptions, forcing the company to shut down its production control systems and revert to manual processes. Enkei Corporation is addressing the aftermath of the cyber attack with the help of cybersecurity experts to mitigate the impact and secure its systems. The company has also issued warnings to its partners about potential fraudulent communications. Despite the disruption, no downstream effects on customers have been reported at this time.",
+  "supplier_name": "Enkei Corporation",
+  "supplier_node_id": "ORG_2D34A53963E5",
+  "construction_regime": "independent-generation",
+  "wave": "wave3_silent_critical_20260705_085153",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

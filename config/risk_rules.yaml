@@ -1,0 +1,66 @@
+# Deterministic OEM risk fusion rules (Agent 07)
+
+severity_scores:
+  VERY_LOW: 1
+  LOW: 2
+  MEDIUM: 3
+  HIGH: 4
+  VERY_HIGH: 5
+
+exposure_scores:
+  VERY_LOW: 1
+  LOW: 2
+  MEDIUM: 3
+  HIGH: 4
+  VERY_HIGH: 5
+
+# Keys: "<severity>|<exposure>" -> overall_risk
+fusion_matrix:
+  VERY_LOW|VERY_LOW: VERY_LOW
+  VERY_LOW|LOW: VERY_LOW
+  VERY_LOW|MEDIUM: LOW
+  VERY_LOW|HIGH: LOW
+  VERY_LOW|VERY_HIGH: LOW
+  LOW|VERY_LOW: LOW
+  LOW|LOW: LOW
+  LOW|MEDIUM: MEDIUM
+  LOW|HIGH: MEDIUM
+  LOW|VERY_HIGH: MEDIUM
+  MEDIUM|VERY_LOW: MEDIUM
+  MEDIUM|LOW: MEDIUM
+  MEDIUM|MEDIUM: MEDIUM
+  MEDIUM|HIGH: HIGH
+  MEDIUM|VERY_HIGH: HIGH
+  HIGH|VERY_LOW: MEDIUM
+  HIGH|LOW: MEDIUM
+  HIGH|MEDIUM: HIGH
+  HIGH|HIGH: VERY_HIGH
+  HIGH|VERY_HIGH: VERY_HIGH
+  VERY_HIGH|VERY_LOW: HIGH
+  VERY_HIGH|LOW: HIGH
+  VERY_HIGH|MEDIUM: VERY_HIGH
+  VERY_HIGH|HIGH: VERY_HIGH
+  VERY_HIGH|VERY_HIGH: VERY_HIGH
+
+# Exposure scoring from graph metrics (Agent 06)
+exposure_rules:
+  very_high_if:
+    sole_source_and_critical: true
+    guaranteed_reach_min: 50
+  high_if:
+    guaranteed_reach_min: 30
+    or_sole_source_critical_parts_min: 1
+  medium_if:
+    guaranteed_reach_min: 10
+  low_if:
+    guaranteed_reach_min: 1
+  # else VERY_LOW; redundant high total_reach with g=0 caps at LOW unless severe sole elsewhere
+
+escalate_if:
+  - sole_source_critical
+  - production_shutdown
+  - single_point_of_failure
+
+mitigate_if:
+  - high_redundancy
+  - no_operational_impact

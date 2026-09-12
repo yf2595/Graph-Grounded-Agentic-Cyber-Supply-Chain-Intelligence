@@ -1,0 +1,30 @@
+{
+  "article_id": "INC_017",
+  "incident_id": "INC_017",
+  "headline": "Cyberattack Cripples Dongfeng Honda Auto Plant, Disrupts Production Lines",
+  "body": "In an alarming cybersecurity breach, Dongfeng Honda Auto Parts Co., Ltd. confirmed that a recent ransomware attack has severely disrupted its operations. The attack targeted the company's complex manufacturing execution systems, paralyzing production lines and forcing a halt at its crucial plants. External cybersecurity experts have been brought in to tackle this sophisticated intrusion. While efforts are underway to restore normalcy, the firm has not provided a timeline for when operations might resume. The ripple effect of this shutdown is being watched closely across automotive supply chains.",
+  "supplier_names": [
+    "Dongfeng Honda Auto Parts Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_E6F74085FC8E"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "critical_part_sole",
+  "impact_level": "severe",
+  "seed_id": "seed_tsmc_2018",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Dongfeng Honda Auto Parts Co., Ltd."
+  ],
+  "canonical_supplier_names": [
+    "Dongfeng Honda Auto Parts Co., Ltd."
+  ],
+  "rewrite_style": "investigative_feature_lede",
+  "name_strategy": "mixed_first_mention_full_then_short",
+  "style_notes": "Engages readers with urgency by highlighting disruption severity.",
+  "rewritten": true
+}

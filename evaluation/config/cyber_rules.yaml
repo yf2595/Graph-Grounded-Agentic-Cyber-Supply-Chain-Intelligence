@@ -1,0 +1,68 @@
+positive_terms:
+  - ransomware
+  - cyberattack
+  - cyber attack
+  - malware
+  - intrusion
+  - unauthorized access
+  - network compromise
+  - data breach
+  - ddos
+  - denial of service
+  - it systems compromised
+  - ot compromise
+  - operational technology attack
+  - cyber incident
+  - security breach
+  - phishing
+  - business email compromise
+  - bec
+  - encrypted systems
+  - threat actor
+  - lockbit
+  - black basta
+  - data theft
+  - exfiltration
+  - wiper
+
+negative_context:
+  - cyber insurance market
+  - cybersecurity conference
+  - cybersecurity investment
+  - cyber cafe
+
+# entity extraction: capitalized org-like tokens / known patterns
+org_suffixes:
+  - Co., Ltd.
+  - Ltd.
+  - Inc.
+  - Corp.
+  - Corporation
+  - GmbH
+  - LLC
+  - PLC
+  - Group
+  - Company
+
+merge:
+  embedding_similarity_threshold: 0.82
+  require_supplier_overlap: true
+
+severity_keywords:
+  severe:
+    - halt
+    - shutdown
+    - shut down
+    - stopped production
+    - production stop
+    - plant closed
+  minor:
+    - limited
+    - brief delay
+    - contained
+    - slowdown
+  none:
+    - no production
+    - plants running
+    - operations continue
+    - no interruption

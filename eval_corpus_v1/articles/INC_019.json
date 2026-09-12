@@ -1,0 +1,31 @@
+{
+  "article_id": "INC_019",
+  "incident_id": "INC_019",
+  "headline": "CGA Grapples with Operations Standstill Following Major Ransomware Breach",
+  "body": "In a calamitous blow to its manufacturing capabilities, Changzhou Gohsyu Auto Parts Co. Ltd. (N00000000007145) faces an operational gridlock after a crippling ransomware attack targeted its critical plant systems. The intrusion has rendered the company's manufacturing execution and logistics framework inaccessible, leading to an abrupt cessation of production activities. Seeking external expertise, CGA has enlisted cybersecurity specialists to navigate this quagmire, yet a specific timeline for resuming normal operations remains elusive. With production lines stalled at facilities potentially across several key locations, the impact resonates through its supply chains.",
+  "supplier_names": [
+    "Changzhou Gohsyu Automobile Parts Co., Ltd.(CGA)"
+  ],
+  "supplier_node_ids": [
+    "ORG_4F7B4DF739A7"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "critical_part_sole",
+  "impact_level": "severe",
+  "seed_id": "seed_hoya_2024",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Changzhou Gohsyu Auto Parts Co. Ltd. (N00000000007145)",
+    "CGA"
+  ],
+  "canonical_supplier_names": [
+    "Changzhou Gohsyu Automobile Parts Co., Ltd.(CGA)"
+  ],
+  "rewrite_style": "investigative_feature_lede",
+  "name_strategy": "former_name_parenthetical",
+  "style_notes": "The voice conveys urgency and depth typical of investigative reporting.",
+  "rewritten": true
+}

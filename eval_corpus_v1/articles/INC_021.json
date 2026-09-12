@@ -1,0 +1,31 @@
+{
+  "article_id": "INC_021",
+  "incident_id": "INC_021",
+  "headline": "Cyberattack Halts Production at Bosch's Suzhou Plant Amid Data Breach Concerns",
+  "body": "Bosch's Suzhou automotive unit has confirmed that a ransomware assault has significantly disrupted operations. The attack targeted key IT and industrial control systems, leading to a partial production stoppage at their Suzhou facility. There is also concern over potential exfiltration of sensitive business documents during the breach. In response, Bosch is implementing a phased restoration of its systems while investigating the scope of data compromise.",
+  "supplier_names": [
+    "Bosch Automotive Products (Suzhou) Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_BC9ADB93AA25"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "critical_part_sole",
+  "impact_level": "severe",
+  "seed_id": "seed_nichirin_2022",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Bosch's Suzhou",
+    "Bosch"
+  ],
+  "canonical_supplier_names": [
+    "Bosch Automotive Products (Suzhou) Co., Ltd."
+  ],
+  "rewrite_style": "reuters_wire",
+  "name_strategy": "city_plant_unit_of_parent",
+  "style_notes": "The voice mirrors a concise newswire style typical of Reuters, providing a factual yet engaging account.",
+  "rewritten": true
+}

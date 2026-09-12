@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_01__crit_H-ONE__art_05",
+  "pair": 1,
+  "arm": "crit_H-ONE",
+  "slot": 5,
+  "headline": "H-ONE Co., Ltd. Details Cyber Attack in Regulatory Filing",
+  "body": "H-ONE Co., Ltd. has filed a regulatory disclosure outlining a recent ransomware attack that affected its IT systems. The automotive components supplier reported that the incident led to a temporary halt in some operations. H-ONE Co., Ltd. is actively working with external incident responders to restore affected systems and ensure business continuity. The filing did not mention any ransom demands, but highlighted the company's commitment to resolving the issue and strengthening its cybersecurity measures.",
+  "supplier_name": "H-ONE Co., Ltd.",
+  "supplier_node_id": "ORG_CF64B3D0E3C1",
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

@@ -1,0 +1,14 @@
+{
+  "article_id": "wave3__pair_02__crit_Foshan__art_01",
+  "pair": 2,
+  "arm": "crit_Foshan",
+  "slot": 1,
+  "headline": "Foshan Fengfu Auto Parts Co., Ltd. Faces Operational Challenges After Cyberattack",
+  "body": "Foshan Fengfu Auto Parts Co., Ltd., a key player in the automotive parts manufacturing sector, has recently experienced a significant cyber incident. The company confirmed that it was targeted by a ransomware attack, which forced the shutdown of its IT systems and led to a halt in production across several of its facilities. Foshan Fengfu Auto Parts Co., Ltd. is known for its role in supplying essential components to the automotive industry. The company operates multiple manufacturing plants and is recognized for its contributions to the automotive supply chain. In response to the attack, Foshan Fengfu Auto Parts Co., Ltd. has engaged cybersecurity experts to assist in restoring operations. The company is actively working to bring its systems back online and resume production. While the attack has caused operational disruptions, the company has not disclosed any downstream impacts or customer data breaches.",
+  "supplier_name": "Foshan Fengfu Auto Parts Co., Ltd.",
+  "supplier_node_id": "ORG_36C94316CE5A",
+  "construction_regime": "independent-generation",
+  "wave": "wave3_silent_critical_20260705_085153",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_02__sharp_Stanley__art_05",
+  "pair": 2,
+  "arm": "sharp_Stanley",
+  "slot": 5,
+  "headline": "Stanley Electric U.S. Co., Inc. Details Cyberattack in Regulatory Filing",
+  "body": "In a recent regulatory filing, Stanley Electric U.S. Co., Inc. disclosed details of a cyberattack that impacted its operations. The automotive components supplier reported that the incident forced a shutdown of its IT systems and production at multiple sites. Stanley Electric U.S. Co., Inc. has engaged incident responders and is conducting an ongoing investigation. The filing highlights the company's efforts to manage the situation and outlines its phased approach to restarting production.",
+  "supplier_name": "Stanley Electric U.S. Co., Inc.",
+  "supplier_node_id": "ORG_F4A45B0B61EA",
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

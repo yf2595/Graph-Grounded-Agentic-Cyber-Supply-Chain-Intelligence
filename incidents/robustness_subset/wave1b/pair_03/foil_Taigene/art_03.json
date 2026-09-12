@@ -1,0 +1,14 @@
+{
+  "article_id": "wave1b__pair_03__foil_Taigene__art_03",
+  "pair": 3,
+  "arm": "foil_Taigene",
+  "slot": 3,
+  "headline": "Understanding the Impact of Cyber Threats on Taigene Electric Machinery Co., Ltd.",
+  "body": "Taigene Electric Machinery Co., Ltd., a prominent supplier in the automotive components sector, has been targeted by a ransomware attack that has disrupted its operations. The attack highlights the vulnerabilities faced by manufacturers in the current digital landscape. Taigene is known for its extensive range of automotive components, serving various manufacturers worldwide. Despite the cyber incident, the company has not reported any downstream impact on its clients, maintaining a focus on resolving the internal disruptions caused by the attack. This incident serves as a reminder of the importance of robust cybersecurity measures in protecting critical infrastructure and supply chains from emerging threats. Taigene's response to the attack will be closely watched by industry peers as they seek to bolster their own defenses against similar threats.",
+  "supplier_name": "Taigene Electric Machinery Co., Ltd.",
+  "supplier_node_id": "ORG_E4069CC45AA6",
+  "construction_regime": "independent-generation",
+  "wave": "wave1b_silent_critical_20260704_164732",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

@@ -1,0 +1,14 @@
+{
+  "article_id": "wave1b__pair_08__crit_Pacific__art_04",
+  "pair": 8,
+  "arm": "crit_Pacific",
+  "slot": 4,
+  "headline": "No Downstream Impact Reported Following Pacific Engineering Ransomware Attack",
+  "body": "Pacific Engineering Corporation has confirmed that there are no downstream impacts following the recent ransomware attack. The company continues to work on securing its systems and ensuring data integrity. As a key supplier in the automotive industry, Pacific Engineering Corporation has taken all necessary precautions to prevent any disruption to its clients. The firm is collaborating with cybersecurity teams to investigate the breach and enhance its security measures. Despite the attack, operations are gradually returning to normal, with no reported effects on customers.",
+  "supplier_name": "Pacific Engineering Corporation",
+  "supplier_node_id": "ORG_9DB5337C4DD2",
+  "construction_regime": "independent-generation",
+  "wave": "wave1b_silent_critical_20260704_164732",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

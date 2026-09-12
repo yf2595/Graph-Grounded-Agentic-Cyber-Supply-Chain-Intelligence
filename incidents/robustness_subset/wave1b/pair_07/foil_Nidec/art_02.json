@@ -1,0 +1,14 @@
+{
+  "article_id": "wave1b__pair_07__foil_Nidec__art_02",
+  "pair": 7,
+  "arm": "foil_Nidec",
+  "slot": 2,
+  "headline": "Nidec Mobility Corporation's Response to Ransomware Incident",
+  "body": "Following a ransomware attack, Nidec Mobility Corporation has taken decisive steps to manage the situation. The company confirmed that production was temporarily halted but has since resumed as systems are being restored. Incident responders have been engaged to ensure a comprehensive recovery process. Nidec Mobility Corporation, known for its innovative automotive solutions, operates globally with a focus on enhancing mobility technologies. The recent cyber incident highlights the ongoing cyber threats faced by organizations in the automotive sector. The company has reassured stakeholders that no further disruptions are expected, and they are committed to strengthening their cybersecurity measures to prevent future incidents.",
+  "supplier_name": "Nidec Mobility Corporation",
+  "supplier_node_id": "ORG_406F1625FD76",
+  "construction_regime": "independent-generation",
+  "wave": "wave1b_silent_critical_20260704_164732",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

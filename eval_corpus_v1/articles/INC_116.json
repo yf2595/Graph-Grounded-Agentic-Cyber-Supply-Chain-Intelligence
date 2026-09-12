@@ -1,0 +1,33 @@
+{
+  "article_id": "INC_116",
+  "incident_id": "INC_116",
+  "headline": "Lumax Industries Malware Attack Shuts Down Major Production Operations",
+  "body": "Lumax Industries Ltd. experienced a severe cyber incident when malware breached its factory networks. This breach caused an abrupt halt to several key production lines, affecting the company's output significantly. Efforts are currently being directed toward system recovery and infrastructure rebuilding at vital manufacturing locations. Although the firm has not disclosed any ransom demands, the disruption remains extensive as teams strive for a systematic restoration of operations.",
+  "supplier_names": [
+    "Lumax Industries Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_C8DC371D3D4B"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "redundant_high_reach",
+  "impact_level": "severe",
+  "seed_id": "seed_nichirin_2022",
+  "group_id": "GRP_012",
+  "is_merge_variant": true,
+  "merge_seed_article_id": "INC_028",
+  "surface_supplier_names": [
+    "Lumax Industries Ltd."
+  ],
+  "canonical_supplier_names": [
+    "Lumax Industries Ltd."
+  ],
+  "rewrite_style": "local_business_journal",
+  "name_strategy": "merge_variant",
+  "style_notes": "Local business perspective focusing on significant operational impact and recovery efforts.",
+  "rewritten": true,
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced."
+}

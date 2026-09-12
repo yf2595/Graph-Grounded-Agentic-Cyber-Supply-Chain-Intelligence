@@ -1,0 +1,33 @@
+{
+  "article_id": "INC_005",
+  "incident_id": "INC_005",
+  "headline": "Malware Incident Halts Operations at Pacific Engineering Production Facilities",
+  "body": "A malware incident has led to the temporary suspension of several manufacturing processes at Pacific Engineering Corporation's facilities. The company is actively engaged in restoring affected systems and anticipates a phased recommencement of operations. While there has been speculation about a cyber extortion, no official statement regarding a ransom demand has been made. The firm is prioritizing cybersecurity measures to prevent future disruptions.",
+  "supplier_names": [
+    "Pacific Engineering Corporation"
+  ],
+  "supplier_node_ids": [
+    "ORG_9DB5337C4DD2"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "bottleneck_sole",
+  "impact_level": "severe",
+  "seed_id": "seed_hoya_2024",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Pacific Engineering Corporation"
+  ],
+  "canonical_supplier_names": [
+    "Pacific Engineering Corporation"
+  ],
+  "rewrite_style": "corporate_press_paraphrase",
+  "name_strategy": "former_name_parenthetical",
+  "style_notes": "The tone remains formal and concise, suitable for corporate communication.",
+  "rewritten": true,
+  "group_id": "GRP_019",
+  "is_merge_variant": false,
+  "merge_seed_article_id": "INC_005"
+}

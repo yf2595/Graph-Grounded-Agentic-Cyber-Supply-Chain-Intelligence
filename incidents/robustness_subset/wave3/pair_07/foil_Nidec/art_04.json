@@ -1,0 +1,14 @@
+{
+  "article_id": "wave3__pair_07__foil_Nidec__art_04",
+  "pair": 7,
+  "arm": "foil_Nidec",
+  "slot": 4,
+  "headline": "Nidec Mobility Corporation Faces Cybersecurity Challenges",
+  "body": "Nidec Mobility Corporation has recently faced cybersecurity challenges, including a ransomware attack that compromised sensitive data. Despite the breach, the company has maintained its operational integrity and continues to supply critical automotive components globally. Nidec is actively working with cybersecurity experts to enhance its defenses and prevent future incidents. The company remains committed to transparency and has informed all affected stakeholders.",
+  "supplier_name": "Nidec Mobility Corporation",
+  "supplier_node_id": "ORG_406F1625FD76",
+  "construction_regime": "independent-generation",
+  "wave": "wave3_silent_critical_20260705_085153",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

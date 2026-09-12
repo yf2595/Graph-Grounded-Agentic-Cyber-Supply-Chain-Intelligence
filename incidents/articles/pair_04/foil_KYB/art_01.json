@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_04__foil_KYB__art_01",
+  "pair": 4,
+  "arm": "foil_KYB",
+  "slot": 1,
+  "headline": "KYB Mexico S.A. de C.V. Confirms Data Breach, Internal Records Compromised",
+  "body": "KYB Mexico S.A. de C.V., a prominent automotive components supplier, has confirmed a data breach involving the theft of a significant volume of internal data. Attackers reportedly accessed quality-control and project records. Despite the breach, KYB Mexico S.A. de C.V. assured that its production operations remain unaffected. The company has engaged external cybersecurity experts to investigate the incident and has notified relevant authorities. Further details on the breach's impact are yet to be disclosed.",
+  "supplier_name": "KYB Mexico S.A. de C.V.",
+  "supplier_node_id": "ORG_002DDFF6EEBA",
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

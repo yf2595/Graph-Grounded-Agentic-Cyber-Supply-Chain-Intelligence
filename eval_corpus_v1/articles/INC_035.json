@@ -1,0 +1,30 @@
+{
+  "article_id": "INC_035",
+  "incident_id": "INC_035",
+  "headline": "Murakami Corp Manages Minimal Impact from Recent Ransomware Event",
+  "body": "Murakami Corp, known for its precision engineering solutions, revealed a recent ransomware attack targeting its office IT and scheduling software. Despite the disruption, machining operations continued efficiently by employing manual overrides. Resulting shipping lags are expected to be minor. In a proactive measure, partner facilities have been alerted.",
+  "supplier_names": [
+    "Murakami Corporation"
+  ],
+  "supplier_node_ids": [
+    "ORG_BCBD38B0A874"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "redundant_high_reach",
+  "impact_level": "minor",
+  "seed_id": "seed_toyota_supplier_jtei_2022",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Murakami Corp"
+  ],
+  "canonical_supplier_names": [
+    "Murakami Corporation"
+  ],
+  "rewrite_style": "corporate_press_paraphrase",
+  "name_strategy": "city_plant_unit_of_parent",
+  "style_notes": "Maintains a professional and reassuring tone suitable for corporate communication.",
+  "rewritten": true
+}

@@ -1,0 +1,14 @@
+{
+  "article_id": "wave2__pair_12__foil_Penstone__art_01",
+  "pair": 12,
+  "arm": "foil_Penstone",
+  "slot": 1,
+  "headline": "Ransomware Incident Hits Penstone Corporation",
+  "body": "Penstone Corporation (Formerly Ishizaki Honten Corporation), a notable supplier in the automotive sector, recently faced a significant ransomware attack. The incident led to the temporary shutdown of several production facilities, highlighting vulnerabilities in the company's cybersecurity measures. Penstone Corporation is recognized for its role in the automotive supply chain, providing essential components to various manufacturers. Despite the disruption, the company has managed to restore its systems, ensuring that operations resume with minimal delay. The attack underscores the increasing threats faced by suppliers in the industry, emphasizing the need for robust cybersecurity protocols. The company confirmed that while there was a temporary halt in production, no customer or downstream effects were reported. This incident serves as a reminder of the critical importance of maintaining up-to-date security measures to protect against such cyber threats.",
+  "supplier_name": "Penstone Corporation (Formerly Ishizaki Honten Corporation)",
+  "supplier_node_id": "ORG_322409BB1D14",
+  "construction_regime": "independent-generation",
+  "wave": "wave2_silent_critical_20260704_183621",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

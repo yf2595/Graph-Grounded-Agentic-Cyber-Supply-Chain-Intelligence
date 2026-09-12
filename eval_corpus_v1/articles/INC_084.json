@@ -1,0 +1,29 @@
+{
+  "article_id": "INC_084",
+  "incident_id": "INC_084",
+  "headline": "Nagoya Springs Contains BEC Incident, Ensures Minimal Supply Chain Impact",
+  "body": "Nagoya Springs, a key player in automotive parts manufacturing, has swiftly addressed a business email compromise, which temporarily disrupted administrative functions linked to order processing and shipment confirmations. Despite these challenges, the company reported that essential manufacturing systems in its Nagoya facility remained unaffected, ensuring only slight delays in deliveries. With rapid response measures in place, Nagoya has mitigated the impact on its supply chain and is confident that normal operations will resume shortly.",
+  "supplier_names": [
+    "Nagoya Auxiliary Springs Co."
+  ],
+  "supplier_node_ids": [],
+  "is_cyber": true,
+  "in_supply_chain": false,
+  "relevant": false,
+  "case_stratum": "off_graph_cyber",
+  "impact_level": "minor",
+  "seed_id": "seed_synthetic_phish_minor",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Nagoya Springs",
+    "Nagoya facility"
+  ],
+  "canonical_supplier_names": [
+    "Nagoya Auxiliary Springs Co."
+  ],
+  "rewrite_style": "security_trade_blog",
+  "name_strategy": "city_plant_unit_of_parent",
+  "style_notes": "The rewrite uses an informative yet slightly reassuring tone typical of trade security blogs.",
+  "rewritten": true
+}

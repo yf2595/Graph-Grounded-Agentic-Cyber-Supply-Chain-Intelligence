@@ -1,0 +1,33 @@
+{
+  "article_id": "INC_123",
+  "incident_id": "INC_123",
+  "headline": "Cyber Attack Forces Shutdown at Pacific Eng's Manufacturing Sites",
+  "body": "A cyber attack involving malware has forced a halt in various manufacturing operations at the sites operated by Pacific Eng Corp. The company is undertaking efforts to restore its compromised systems and expects to gradually resume manufacturing activities soon. Although there are rumors suggesting possible cyber extortion, no confirmation of ransom demands has been publicly issued. In response, the organization is focusing on enhancing its cybersecurity protocols to guard against future incidents.",
+  "supplier_names": [
+    "Pacific Engineering Corporation"
+  ],
+  "supplier_node_ids": [
+    "ORG_9DB5337C4DD2"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "bottleneck_sole",
+  "impact_level": "severe",
+  "seed_id": "seed_hoya_2024",
+  "group_id": "GRP_019",
+  "is_merge_variant": true,
+  "merge_seed_article_id": "INC_005",
+  "surface_supplier_names": [
+    "Pacific Eng Corp"
+  ],
+  "canonical_supplier_names": [
+    "Pacific Engineering Corporation"
+  ],
+  "rewrite_style": "reuters_wire",
+  "name_strategy": "merge_variant",
+  "style_notes": "The language reflects a straightforward and concise reporting style typical of wire services like Reuters, with an emphasis on immediate operational impacts and ongoing responses.",
+  "rewritten": true,
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced."
+}

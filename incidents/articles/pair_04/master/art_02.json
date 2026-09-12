@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_04__master__art_02",
+  "pair": 4,
+  "arm": "master",
+  "slot": 2,
+  "headline": "PLACEHOLDERCO Engages Experts Following Cybersecurity Incident",
+  "body": "In a recent update, PLACEHOLDERCO has announced the engagement of external cybersecurity experts following a data breach that compromised internal data. The stolen information includes quality-control and project records. PLACEHOLDERCO reassured stakeholders that production operations are continuing without disruption. Authorities have been notified as part of the company's response to the incident. The investigation is ongoing, with PLACEHOLDERCO committed to transparency throughout the process.",
+  "supplier_name": "PLACEHOLDERCO",
+  "supplier_node_id": null,
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

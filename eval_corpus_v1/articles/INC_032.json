@@ -1,0 +1,34 @@
+{
+  "article_id": "INC_032",
+  "incident_id": "INC_032",
+  "headline": "Production Stopped at SMR Noida Plant Following Major Ransomware Cyberattack",
+  "body": "SMR Automotive Systems India's Noida facility recently fell victim to a severe ransomware attack that crippled vital manufacturing and logistics systems. Forced to halt production lines, the company is now working with cybersecurity experts to address the situation. Efforts are underway to restore the encrypted data, although no estimated timeline for resuming full operations has been released. The disruption at this key automotive components supplier underscores significant vulnerabilities within industrial cybersecurity frameworks.",
+  "supplier_names": [
+    "SMR Automotive Systems India Limited - Noida"
+  ],
+  "supplier_node_ids": [
+    "ORG_3FADD2652AEB"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "redundant_high_reach",
+  "impact_level": "severe",
+  "seed_id": "seed_hoya_2024",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "SMR Automotive Systems India's Noida",
+    "SMR Noida"
+  ],
+  "canonical_supplier_names": [
+    "SMR Automotive Systems India Limited - Noida"
+  ],
+  "rewrite_style": "japanese_english_wire",
+  "name_strategy": "initialism_or_acronym",
+  "style_notes": "A concise and factual style was employed, typical of Japanese business reporting.",
+  "rewritten": true,
+  "group_id": "GRP_018",
+  "is_merge_variant": false,
+  "merge_seed_article_id": "INC_032"
+}

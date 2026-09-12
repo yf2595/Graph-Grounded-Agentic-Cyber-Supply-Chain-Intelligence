@@ -1,0 +1,31 @@
+{
+  "article_id": "INC_031",
+  "incident_id": "INC_031",
+  "headline": "Bridgestone Americas Hit by Ransomware, Causing Plant Closures and Data Theft",
+  "body": "Bridgestone Americas has confirmed a ransomware attack resulted in significant disruptions across its facilities. Several of the company's production plants were forced to temporarily halt operations due to compromised IT and industrial control systems. The incident, which also involved unauthorized access to sensitive business documents, has prompted a comprehensive response from Bridgestone's cybersecurity teams, who are working methodically to restore infrastructure. This incident marks a serious setback for the tire manufacturing giant as they navigate the complexities of modern cyber threats.",
+  "supplier_names": [
+    "Bridgestone Americas, Inc."
+  ],
+  "supplier_node_ids": [
+    "ORG_29015F468322"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "redundant_high_reach",
+  "impact_level": "severe",
+  "seed_id": "seed_abb_2023",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Bridgestone Americas",
+    "Bridgestone"
+  ],
+  "canonical_supplier_names": [
+    "Bridgestone Americas, Inc."
+  ],
+  "rewrite_style": "reuters_wire",
+  "name_strategy": "mixed_first_mention_full_then_short",
+  "style_notes": "The voice is direct and factual, resembling a wire service report.",
+  "rewritten": true
+}

@@ -1,0 +1,14 @@
+{
+  "article_id": "wave2__pair_06__foil_Xiamen__art_04",
+  "pair": 6,
+  "arm": "foil_Xiamen",
+  "slot": 4,
+  "headline": "Speculation Rises on Potential Impacts of Xiamen Zhengxin Cyberattack",
+  "body": "Industry analysts are speculating on the potential long-term impacts of the recent ransomware attack on Xiamen Zhengxin Rubber Industry Co., Ltd. While the company has reported no immediate downstream effects, the incident has raised concerns about possible vulnerabilities in its infrastructure. Xiamen Zhengxin, a key supplier in the automotive industry, is working to restore operations and secure its systems. Some experts suggest that similar attacks could pose risks to other suppliers if cybersecurity measures are not strengthened across the sector.",
+  "supplier_name": "Xiamen Zhengxin Rubber Industry Co., Ltd.",
+  "supplier_node_id": "ORG_07A5E6557A1C",
+  "construction_regime": "independent-generation",
+  "wave": "wave2_silent_critical_20260704_183621",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

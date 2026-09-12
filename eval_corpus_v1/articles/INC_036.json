@@ -1,0 +1,30 @@
+{
+  "article_id": "INC_036",
+  "incident_id": "INC_036",
+  "headline": "IEzRQs1gfvU2Rl2 Faces Minor Ransomware Attack, Operations Mostly Unaffected",
+  "body": "IEzRQs1gfvU2Rl2, based in León, recently experienced a ransomware incident targeting its administrative IT systems. While scheduling operations faced temporary disruptions, core manufacturing continued unaffected with manual procedures ensuring continuity. The incident led to only minor shipping delays and the company has proactively informed client manufacturing plants as a cautionary measure.",
+  "supplier_names": [
+    "Industrias Michelin, S.A. De C.V. - León Mx2"
+  ],
+  "supplier_node_ids": [
+    "ORG_01E34BB8A21B"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "redundant_high_reach",
+  "impact_level": "minor",
+  "seed_id": "seed_hoya_2024",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "IEzRQs1gfvU2Rl2"
+  ],
+  "canonical_supplier_names": [
+    "Industrias Michelin, S.A. De C.V. - León Mx2"
+  ],
+  "rewrite_style": "supply_chain_risk_note",
+  "name_strategy": "initialism_or_acronym",
+  "style_notes": "The voice is factual and concise, emphasizing the incident's limited impact.",
+  "rewritten": true
+}

@@ -1,0 +1,129 @@
+{"article_id": "INC_001", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "VERY_HIGH", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_CF64B3D0E3C1"]}
+{"article_id": "INC_002", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "HIGH", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_2E141FFC8B0E"]}
+{"article_id": "INC_003", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "HIGH", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_F70CA1B3A14A"]}
+{"article_id": "INC_004", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "HIGH", "gt_group_id": "GRP_007", "gt_supplier_node_ids": ["ORG_01D79C7B59D4"]}
+{"article_id": "INC_005", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "HIGH", "gt_group_id": "GRP_019", "gt_supplier_node_ids": ["ORG_9DB5337C4DD2"]}
+{"article_id": "INC_006", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "HIGH", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_96A34F5DBF78"]}
+{"article_id": "INC_007", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "HIGH", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_6DBA879D101B"]}
+{"article_id": "INC_008", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "HIGH", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_08CFD4B879EF"]}
+{"article_id": "INC_009", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "HIGH", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_2F00041EA71D"]}
+{"article_id": "INC_010", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "VERY_HIGH", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_A1A7984ADE5F"]}
+{"article_id": "INC_011", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "MEDIUM", "gt_group_id": "GRP_001", "gt_supplier_node_ids": ["ORG_2DD511546595"]}
+{"article_id": "INC_012", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "MEDIUM", "gt_group_id": "GRP_013", "gt_supplier_node_ids": ["ORG_36C94316CE5A"]}
+{"article_id": "INC_013", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "MEDIUM", "gt_group_id": "GRP_025", "gt_supplier_node_ids": ["ORG_FD4B9E36BA90"]}
+{"article_id": "INC_014", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "VERY_LOW", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_67659D83499E"]}
+{"article_id": "INC_015", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_59FC98620A22"]}
+{"article_id": "INC_016", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": "GRP_002", "gt_supplier_node_ids": ["ORG_E49C481DF7D4"]}
+{"article_id": "INC_017", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "MEDIUM", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_E6F74085FC8E"]}
+{"article_id": "INC_018", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": "GRP_008", "gt_supplier_node_ids": ["ORG_D5606B1DEB9E"]}
+{"article_id": "INC_019", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "MEDIUM", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_4F7B4DF739A7"]}
+{"article_id": "INC_020", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "MEDIUM", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_38D0A99A8E50"]}
+{"article_id": "INC_021", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_BC9ADB93AA25"]}
+{"article_id": "INC_022", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "MEDIUM", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_9CBD18BAB016"]}
+{"article_id": "INC_023", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": "GRP_014", "gt_supplier_node_ids": ["ORG_D3DDAB128E48"]}
+{"article_id": "INC_024", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_C681A41BFC56"]}
+{"article_id": "INC_025", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_F3E71C1AF5E3"]}
+{"article_id": "INC_026", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "VERY_LOW", "gt_group_id": "GRP_020", "gt_supplier_node_ids": ["ORG_F2607F989296"]}
+{"article_id": "INC_027", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_F4A45B0B61EA"]}
+{"article_id": "INC_028", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": "GRP_012", "gt_supplier_node_ids": ["ORG_C8DC371D3D4B"]}
+{"article_id": "INC_029", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_67DBC73C8394"]}
+{"article_id": "INC_030", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": "GRP_006", "gt_supplier_node_ids": ["ORG_AE8E700BCD4F"]}
+{"article_id": "INC_031", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_29015F468322"]}
+{"article_id": "INC_032", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": "GRP_018", "gt_supplier_node_ids": ["ORG_3FADD2652AEB"]}
+{"article_id": "INC_033", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": "GRP_024", "gt_supplier_node_ids": ["ORG_63D1C86B51F0"]}
+{"article_id": "INC_034", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_B13DEA01828A"]}
+{"article_id": "INC_035", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "VERY_LOW", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_BCBD38B0A874"]}
+{"article_id": "INC_036", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "VERY_LOW", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_01E34BB8A21B"]}
+{"article_id": "INC_037", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "VERY_LOW", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_05951CEBC2BB"]}
+{"article_id": "INC_038", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "VERY_LOW", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_07A5E6557A1C"]}
+{"article_id": "INC_039", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "MEDIUM", "gt_group_id": "GRP_016", "gt_supplier_node_ids": ["ORG_8B095D4F2D7D"]}
+{"article_id": "INC_040", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "MEDIUM", "gt_group_id": "GRP_022", "gt_supplier_node_ids": ["ORG_2B77380C22D9"]}
+{"article_id": "INC_041", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "MEDIUM", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_CA6130250C28"]}
+{"article_id": "INC_042", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "MEDIUM", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_07E9FF713FBA"]}
+{"article_id": "INC_043", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "MEDIUM", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_9993F1E48400"]}
+{"article_id": "INC_044", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "MEDIUM", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_C9B64AFB5FF6"]}
+{"article_id": "INC_045", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "MEDIUM", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_0D8DAC210917"]}
+{"article_id": "INC_046", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_A398EF2DF779"]}
+{"article_id": "INC_047", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_A0591C35434B"]}
+{"article_id": "INC_048", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_C5DACAA18528"]}
+{"article_id": "INC_049", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": "GRP_010", "gt_supplier_node_ids": ["ORG_BBCAC459CB85"]}
+{"article_id": "INC_050", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "VERY_LOW", "gt_group_id": "GRP_004", "gt_supplier_node_ids": ["ORG_8A37369349B7"]}
+{"article_id": "INC_051", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": "GRP_003", "gt_supplier_node_ids": ["ORG_438043E78D82"]}
+{"article_id": "INC_052", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": "GRP_015", "gt_supplier_node_ids": ["ORG_DC7B1887F28B"]}
+{"article_id": "INC_053", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": "GRP_009", "gt_supplier_node_ids": ["ORG_49EF57D73514"]}
+{"article_id": "INC_054", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_9B1104F6617C"]}
+{"article_id": "INC_055", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "VERY_LOW", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_F241B7FD5168"]}
+{"article_id": "INC_056", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "VERY_LOW", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_A377F6BA820D"]}
+{"article_id": "INC_057", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "VERY_LOW", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_D5D454652020"]}
+{"article_id": "INC_058", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "VERY_LOW", "gt_group_id": "GRP_021", "gt_supplier_node_ids": ["ORG_D0C3774E9DA1"]}
+{"article_id": "INC_059", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "VERY_LOW", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_D47A5655F5DF"]}
+{"article_id": "INC_060", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "VERY_LOW", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_6D5DC01FCBE0"]}
+{"article_id": "INC_061", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "VERY_HIGH", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_A1A7984ADE5F", "ORG_F4A45B0B61EA"]}
+{"article_id": "INC_062", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "VERY_HIGH", "gt_group_id": "GRP_017", "gt_supplier_node_ids": ["ORG_2DD511546595", "ORG_C8DC371D3D4B"]}
+{"article_id": "INC_063", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "VERY_HIGH", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_36C94316CE5A", "ORG_67DBC73C8394"]}
+{"article_id": "INC_064", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "VERY_HIGH", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_CF64B3D0E3C1", "ORG_AE8E700BCD4F"]}
+{"article_id": "INC_065", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "VERY_HIGH", "gt_group_id": "GRP_005", "gt_supplier_node_ids": ["ORG_67659D83499E", "ORG_9993F1E48400"]}
+{"article_id": "INC_066", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "VERY_HIGH", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_0B830CA59251", "ORG_C9B64AFB5FF6"]}
+{"article_id": "INC_067", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "VERY_HIGH", "gt_group_id": "GRP_023", "gt_supplier_node_ids": ["ORG_A910452660BE", "ORG_0D8DAC210917"]}
+{"article_id": "INC_068", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "MEDIUM", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_01E34BB8A21B", "ORG_C5DACAA18528", "ORG_9DB5337C4DD2"]}
+{"article_id": "INC_069", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "MEDIUM", "gt_group_id": null, "gt_supplier_node_ids": ["ORG_05951CEBC2BB", "ORG_BBCAC459CB85", "ORG_771DD0751F53"]}
+{"article_id": "INC_070", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "VERY_LOW", "gt_group_id": "GRP_011", "gt_supplier_node_ids": ["ORG_07A5E6557A1C", "ORG_8A37369349B7", "ORG_96A34F5DBF78"]}
+{"article_id": "INC_071", "gt_is_cyber": true, "gt_is_related": false, "gt_is_actionable": false, "gt_risk": null, "gt_group_id": null, "gt_supplier_node_ids": []}
+{"article_id": "INC_072", "gt_is_cyber": true, "gt_is_related": false, "gt_is_actionable": false, "gt_risk": null, "gt_group_id": null, "gt_supplier_node_ids": []}
+{"article_id": "INC_073", "gt_is_cyber": true, "gt_is_related": false, "gt_is_actionable": false, "gt_risk": null, "gt_group_id": null, "gt_supplier_node_ids": []}
+{"article_id": "INC_074", "gt_is_cyber": true, "gt_is_related": false, "gt_is_actionable": false, "gt_risk": null, "gt_group_id": null, "gt_supplier_node_ids": []}
+{"article_id": "INC_075", "gt_is_cyber": true, "gt_is_related": false, "gt_is_actionable": false, "gt_risk": null, "gt_group_id": null, "gt_supplier_node_ids": []}
+{"article_id": "INC_076", "gt_is_cyber": true, "gt_is_related": false, "gt_is_actionable": false, "gt_risk": null, "gt_group_id": null, "gt_supplier_node_ids": []}
+{"article_id": "INC_077", "gt_is_cyber": true, "gt_is_related": false, "gt_is_actionable": false, "gt_risk": null, "gt_group_id": null, "gt_supplier_node_ids": []}
+{"article_id": "INC_078", "gt_is_cyber": true, "gt_is_related": false, "gt_is_actionable": false, "gt_risk": null, "gt_group_id": null, "gt_supplier_node_ids": []}
+{"article_id": "INC_079", "gt_is_cyber": true, "gt_is_related": false, "gt_is_actionable": false, "gt_risk": null, "gt_group_id": null, "gt_supplier_node_ids": []}
+{"article_id": "INC_080", "gt_is_cyber": true, "gt_is_related": false, "gt_is_actionable": false, "gt_risk": null, "gt_group_id": null, "gt_supplier_node_ids": []}
+{"article_id": "INC_081", "gt_is_cyber": true, "gt_is_related": false, "gt_is_actionable": false, "gt_risk": null, "gt_group_id": null, "gt_supplier_node_ids": []}
+{"article_id": "INC_082", "gt_is_cyber": true, "gt_is_related": false, "gt_is_actionable": false, "gt_risk": null, "gt_group_id": null, "gt_supplier_node_ids": []}
+{"article_id": "INC_083", "gt_is_cyber": true, "gt_is_related": false, "gt_is_actionable": false, "gt_risk": null, "gt_group_id": null, "gt_supplier_node_ids": []}
+{"article_id": "INC_084", "gt_is_cyber": true, "gt_is_related": false, "gt_is_actionable": false, "gt_risk": null, "gt_group_id": null, "gt_supplier_node_ids": []}
+{"article_id": "INC_085", "gt_is_cyber": true, "gt_is_related": false, "gt_is_actionable": false, "gt_risk": null, "gt_group_id": null, "gt_supplier_node_ids": []}
+{"article_id": "INC_086", "gt_is_cyber": false, "gt_is_related": true, "gt_is_actionable": false, "gt_risk": null, "gt_group_id": null, "gt_supplier_node_ids": ["ORG_3760986ABAF4"]}
+{"article_id": "INC_087", "gt_is_cyber": false, "gt_is_related": true, "gt_is_actionable": false, "gt_risk": null, "gt_group_id": null, "gt_supplier_node_ids": ["ORG_78B702F5214B"]}
+{"article_id": "INC_088", "gt_is_cyber": false, "gt_is_related": true, "gt_is_actionable": false, "gt_risk": null, "gt_group_id": null, "gt_supplier_node_ids": ["ORG_6AFE3AE6FDFB"]}
+{"article_id": "INC_089", "gt_is_cyber": false, "gt_is_related": true, "gt_is_actionable": false, "gt_risk": null, "gt_group_id": null, "gt_supplier_node_ids": ["ORG_C342417611D9"]}
+{"article_id": "INC_090", "gt_is_cyber": false, "gt_is_related": true, "gt_is_actionable": false, "gt_risk": null, "gt_group_id": null, "gt_supplier_node_ids": ["ORG_C761FED4F65E"]}
+{"article_id": "INC_091", "gt_is_cyber": false, "gt_is_related": true, "gt_is_actionable": false, "gt_risk": null, "gt_group_id": null, "gt_supplier_node_ids": ["ORG_0757CC6F1AC3"]}
+{"article_id": "INC_092", "gt_is_cyber": false, "gt_is_related": true, "gt_is_actionable": false, "gt_risk": null, "gt_group_id": null, "gt_supplier_node_ids": ["ORG_30C99469C347"]}
+{"article_id": "INC_093", "gt_is_cyber": false, "gt_is_related": true, "gt_is_actionable": false, "gt_risk": null, "gt_group_id": null, "gt_supplier_node_ids": ["ORG_5581E96E0DEB"]}
+{"article_id": "INC_094", "gt_is_cyber": false, "gt_is_related": true, "gt_is_actionable": false, "gt_risk": null, "gt_group_id": null, "gt_supplier_node_ids": ["ORG_2964A139C147"]}
+{"article_id": "INC_095", "gt_is_cyber": false, "gt_is_related": true, "gt_is_actionable": false, "gt_risk": null, "gt_group_id": null, "gt_supplier_node_ids": ["ORG_2A0AA3651039"]}
+{"article_id": "INC_096", "gt_is_cyber": false, "gt_is_related": true, "gt_is_actionable": false, "gt_risk": null, "gt_group_id": null, "gt_supplier_node_ids": ["ORG_34CB81AA24E6"]}
+{"article_id": "INC_097", "gt_is_cyber": false, "gt_is_related": true, "gt_is_actionable": false, "gt_risk": null, "gt_group_id": null, "gt_supplier_node_ids": ["ORG_445561E1BCE2"]}
+{"article_id": "INC_098", "gt_is_cyber": false, "gt_is_related": true, "gt_is_actionable": false, "gt_risk": null, "gt_group_id": null, "gt_supplier_node_ids": ["ORG_4E4ABAC02367"]}
+{"article_id": "INC_099", "gt_is_cyber": false, "gt_is_related": true, "gt_is_actionable": false, "gt_risk": null, "gt_group_id": null, "gt_supplier_node_ids": ["ORG_50D761028B07"]}
+{"article_id": "INC_100", "gt_is_cyber": false, "gt_is_related": true, "gt_is_actionable": false, "gt_risk": null, "gt_group_id": null, "gt_supplier_node_ids": ["ORG_57D048AE828C"]}
+{"article_id": "INC_101", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "MEDIUM", "gt_group_id": "GRP_001", "gt_supplier_node_ids": ["ORG_2DD511546595"]}
+{"article_id": "INC_102", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "MEDIUM", "gt_group_id": "GRP_001", "gt_supplier_node_ids": ["ORG_2DD511546595"]}
+{"article_id": "INC_103", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "MEDIUM", "gt_group_id": "GRP_001", "gt_supplier_node_ids": ["ORG_2DD511546595"]}
+{"article_id": "INC_104", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": "GRP_002", "gt_supplier_node_ids": ["ORG_E49C481DF7D4"]}
+{"article_id": "INC_105", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": "GRP_002", "gt_supplier_node_ids": ["ORG_E49C481DF7D4"]}
+{"article_id": "INC_106", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": "GRP_003", "gt_supplier_node_ids": ["ORG_438043E78D82"]}
+{"article_id": "INC_107", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": "GRP_003", "gt_supplier_node_ids": ["ORG_438043E78D82"]}
+{"article_id": "INC_108", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "VERY_LOW", "gt_group_id": "GRP_004", "gt_supplier_node_ids": ["ORG_8A37369349B7"]}
+{"article_id": "INC_109", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "VERY_HIGH", "gt_group_id": "GRP_005", "gt_supplier_node_ids": ["ORG_67659D83499E", "ORG_9993F1E48400"]}
+{"article_id": "INC_110", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": "GRP_006", "gt_supplier_node_ids": ["ORG_AE8E700BCD4F"]}
+{"article_id": "INC_111", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "HIGH", "gt_group_id": "GRP_007", "gt_supplier_node_ids": ["ORG_01D79C7B59D4"]}
+{"article_id": "INC_112", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": "GRP_008", "gt_supplier_node_ids": ["ORG_D5606B1DEB9E"]}
+{"article_id": "INC_113", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": "GRP_009", "gt_supplier_node_ids": ["ORG_49EF57D73514"]}
+{"article_id": "INC_114", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": "GRP_010", "gt_supplier_node_ids": ["ORG_BBCAC459CB85"]}
+{"article_id": "INC_115", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "VERY_LOW", "gt_group_id": "GRP_011", "gt_supplier_node_ids": ["ORG_07A5E6557A1C", "ORG_8A37369349B7", "ORG_96A34F5DBF78"]}
+{"article_id": "INC_116", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": "GRP_012", "gt_supplier_node_ids": ["ORG_C8DC371D3D4B"]}
+{"article_id": "INC_117", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "MEDIUM", "gt_group_id": "GRP_013", "gt_supplier_node_ids": ["ORG_36C94316CE5A"]}
+{"article_id": "INC_118", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": "GRP_014", "gt_supplier_node_ids": ["ORG_D3DDAB128E48"]}
+{"article_id": "INC_119", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": "GRP_015", "gt_supplier_node_ids": ["ORG_DC7B1887F28B"]}
+{"article_id": "INC_120", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "MEDIUM", "gt_group_id": "GRP_016", "gt_supplier_node_ids": ["ORG_8B095D4F2D7D"]}
+{"article_id": "INC_121", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "VERY_HIGH", "gt_group_id": "GRP_017", "gt_supplier_node_ids": ["ORG_2DD511546595", "ORG_C8DC371D3D4B"]}
+{"article_id": "INC_122", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": "GRP_018", "gt_supplier_node_ids": ["ORG_3FADD2652AEB"]}
+{"article_id": "INC_123", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "HIGH", "gt_group_id": "GRP_019", "gt_supplier_node_ids": ["ORG_9DB5337C4DD2"]}
+{"article_id": "INC_124", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "VERY_LOW", "gt_group_id": "GRP_020", "gt_supplier_node_ids": ["ORG_F2607F989296"]}
+{"article_id": "INC_125", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "VERY_LOW", "gt_group_id": "GRP_021", "gt_supplier_node_ids": ["ORG_D0C3774E9DA1"]}
+{"article_id": "INC_126", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "MEDIUM", "gt_group_id": "GRP_022", "gt_supplier_node_ids": ["ORG_2B77380C22D9"]}
+{"article_id": "INC_127", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "VERY_HIGH", "gt_group_id": "GRP_023", "gt_supplier_node_ids": ["ORG_A910452660BE", "ORG_0D8DAC210917"]}
+{"article_id": "INC_128", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "LOW", "gt_group_id": "GRP_024", "gt_supplier_node_ids": ["ORG_63D1C86B51F0"]}
+{"article_id": "INC_129", "gt_is_cyber": true, "gt_is_related": true, "gt_is_actionable": true, "gt_risk": "MEDIUM", "gt_group_id": "GRP_025", "gt_supplier_node_ids": ["ORG_FD4B9E36BA90"]}

@@ -1,0 +1,34 @@
+{
+  "article_id": "INC_111",
+  "incident_id": "INC_111",
+  "headline": "Malware Attack Shuts Down Operations at Thai AccessSolutions Plant",
+  "body": "The operations of Minebea AccessSolutions, located in Thailand and previously known as Honda Lock Thai, have been severely impacted by a malware attack. This cyber incident has brought production lines to a standstill across multiple sites. Restoration efforts are actively being pursued, with a step-by-step recovery plan being put into action. As of now, no demands for ransom have been reported publicly by the company.",
+  "supplier_names": [
+    "Minebea AccessSolutions Thai Ltd. (Formerly Honda Lock Thai Co., Ltd.)"
+  ],
+  "supplier_node_ids": [
+    "ORG_01D79C7B59D4"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "bottleneck_sole",
+  "impact_level": "severe",
+  "seed_id": "seed_hoya_2024",
+  "group_id": "GRP_007",
+  "is_merge_variant": true,
+  "merge_seed_article_id": "INC_004",
+  "surface_supplier_names": [
+    "Minebea AccessSolutions",
+    "Honda Lock Thai"
+  ],
+  "canonical_supplier_names": [
+    "Minebea AccessSolutions Thai Ltd. (Formerly Honda Lock Thai Co., Ltd.)"
+  ],
+  "rewrite_style": "reuters_wire",
+  "name_strategy": "merge_variant",
+  "style_notes": "This variant mimics the Reuters wire style with concise sentences and factual reporting, focusing on stating the event's impact and current actions.",
+  "rewritten": true,
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced."
+}

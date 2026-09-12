@@ -1,0 +1,14 @@
+{
+  "article_id": "wave1b__pair_08__crit_Pacific__art_02",
+  "pair": 8,
+  "arm": "crit_Pacific",
+  "slot": 2,
+  "headline": "Pacific Engineering Corporation Engages Cybersecurity Experts After Ransomware Attack",
+  "body": "Following a significant ransomware attack, Pacific Engineering Corporation has swiftly engaged cybersecurity experts to mitigate the breach. The incident has disrupted the company's operations, but efforts are underway to restore normalcy. Pacific Engineering Corporation, a prominent supplier in the automotive manufacturing industry, has been proactive in its response to the cyber threat. The company has not disclosed any downstream effects, maintaining that the situation is under control. The focus remains on securing the compromised systems and preventing further data exfiltration.",
+  "supplier_name": "Pacific Engineering Corporation",
+  "supplier_node_id": "ORG_9DB5337C4DD2",
+  "construction_regime": "independent-generation",
+  "wave": "wave1b_silent_critical_20260704_164732",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

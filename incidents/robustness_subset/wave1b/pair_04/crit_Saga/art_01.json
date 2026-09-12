@@ -1,0 +1,14 @@
+{
+  "article_id": "wave1b__pair_04__crit_Saga__art_01",
+  "pair": 4,
+  "arm": "crit_Saga",
+  "slot": 1,
+  "headline": "Saga Tekkohsho Co., Ltd. Confirms Ransomware Attack",
+  "body": "Saga Tekkohsho Co., Ltd., a key player in the automotive manufacturing sector, has confirmed a ransomware attack that compromised its internal systems. The incident, which occurred in 2024, involved the theft of approximately a terabyte of sensitive data, including quality-control records and client folders. The company is actively investigating the breach with the assistance of external cybersecurity experts. Saga Tekkohsho Co., Ltd. has also notified relevant authorities as part of its response strategy.",
+  "supplier_name": "Saga Tekkohsho Co., Ltd.",
+  "supplier_node_id": "ORG_F70CA1B3A14A",
+  "construction_regime": "independent-generation",
+  "wave": "wave1b_silent_critical_20260704_164732",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

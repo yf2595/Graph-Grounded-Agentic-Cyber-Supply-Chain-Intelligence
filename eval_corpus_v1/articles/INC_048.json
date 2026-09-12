@@ -1,0 +1,30 @@
+{
+  "article_id": "INC_048",
+  "incident_id": "INC_048",
+  "headline": "HND Quells Ransomware Attack, Minimal Production Impact Reported",
+  "body": "HND has successfully contained a ransomware attack that impacted its administrative and scheduling systems. While core manufacturing operations at key facilities were unaffected, manual procedures ensured continuity. Customers have been alerted to possible minor delays in shipments as a safety measure. Overall disruption is anticipated to be minimal and well-managed.",
+  "supplier_names": [
+    "Honda"
+  ],
+  "supplier_node_ids": [
+    "ORG_C5DACAA18528"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "moderate_reach",
+  "impact_level": "minor",
+  "seed_id": "seed_synthetic_phish_minor",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "HND"
+  ],
+  "canonical_supplier_names": [
+    "Honda"
+  ],
+  "rewrite_style": "newsletter_digest",
+  "name_strategy": "short_brand",
+  "style_notes": "A concise, reassuring tone emphasizes quick resolution and maintained production flow.",
+  "rewritten": true
+}

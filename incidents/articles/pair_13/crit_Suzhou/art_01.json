@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_13__crit_Suzhou__art_01",
+  "pair": 13,
+  "arm": "crit_Suzhou",
+  "slot": 1,
+  "headline": "Suzhou Nichirin Automobile Parts Co., Ltd. Hit by Ransomware, Shuts Down Production Systems",
+  "body": "Suzhou Nichirin Automobile Parts Co., Ltd., a prominent automotive components supplier, announced today that it has been targeted by a ransomware attack. The cyber incident forced the company to shut down its production control systems, prompting a shift to manual operations. While other units remain unaffected, Suzhou Nichirin Automobile Parts Co., Ltd. has warned its contacts about potential fraudulent messages. The company has engaged cybersecurity experts to handle the situation and is working diligently to restore normal operations.",
+  "supplier_name": "Suzhou Nichirin Automobile Parts Co., Ltd.",
+  "supplier_node_id": "ORG_0B755124417E",
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

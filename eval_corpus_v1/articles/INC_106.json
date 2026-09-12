@@ -1,0 +1,34 @@
+{
+  "article_id": "INC_106",
+  "incident_id": "INC_106",
+  "headline": "Magna International Shuts Down Plants Due to Cybersecurity Breach",
+  "body": "Magna International, a leading automotive parts manufacturer, has temporarily closed several of its production facilities following a cybersecurity breach that infiltrated its network systems. Efforts are underway to restore operations gradually. While there has been no report of a ransom demand, the company confirmed significant operational disruption. This incident highlights potential vulnerabilities in industrial cybersecurity and may cause ripple effects in the automotive supply chain.",
+  "supplier_names": [
+    "Magna International Inc."
+  ],
+  "supplier_node_ids": [
+    "ORG_438043E78D82"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "low_reach",
+  "impact_level": "severe",
+  "seed_id": "seed_abb_2023",
+  "group_id": "GRP_003",
+  "is_merge_variant": true,
+  "merge_seed_article_id": "INC_051",
+  "surface_supplier_names": [
+    "Magna International",
+    "Magna"
+  ],
+  "canonical_supplier_names": [
+    "Magna International Inc."
+  ],
+  "rewrite_style": "reuters_wire",
+  "name_strategy": "merge_variant",
+  "style_notes": "This version adopts a neutral, factual tone, typical of Reuters wire reports, focusing on operational impact and cyber threats without speculative language.",
+  "rewritten": true,
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced."
+}

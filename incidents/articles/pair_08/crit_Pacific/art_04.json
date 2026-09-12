@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_08__crit_Pacific__art_04",
+  "pair": 8,
+  "arm": "crit_Pacific",
+  "slot": 4,
+  "headline": "Analysts Weigh In on Pacific Engineering Corporation's Cyber Incident",
+  "body": "Industry analysts are closely monitoring Pacific Engineering Corporation's response to a recent ransomware attack. The automotive components supplier's swift engagement of incident responders is seen as a proactive move. Analysts suggest that while the immediate impact on production is minimal, the long-term implications of the data theft will depend on the company's ability to manage and mitigate the breach's effects.",
+  "supplier_name": "Pacific Engineering Corporation",
+  "supplier_node_id": "ORG_9DB5337C4DD2",
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

@@ -1,0 +1,31 @@
+{
+  "article_id": "INC_092",
+  "incident_id": "INC_092",
+  "headline": "Fire Erupts at ZF's Electronics Plant, Pausing Critical Parts Production",
+  "body": "A blaze broke out at a key production hub of ZF Active Safety, formerly known as TRW Automotive. The fire caused significant damage to both the warehouse and assembly zones of the facility, prompting a complete suspension of manufacturing activities. While authorities confirm no cyber links to the incident, the shutdown affects several crucial automotive components. ZF is now evaluating repair strategies and expects delays in part supply chains.",
+  "supplier_names": [
+    "ZF Active Safety And Electronics US LLC (Formerly TRW Automotive)"
+  ],
+  "supplier_node_ids": [
+    "ORG_30C99469C347"
+  ],
+  "is_cyber": false,
+  "in_supply_chain": true,
+  "relevant": false,
+  "case_stratum": "in_graph_non_cyber",
+  "impact_level": "severe",
+  "seed_id": "seed_noncyber_fire",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "ZF Active Safety",
+    "TRW Automotive"
+  ],
+  "canonical_supplier_names": [
+    "ZF Active Safety And Electronics US LLC (Formerly TRW Automotive)"
+  ],
+  "rewrite_style": "automotive_trade",
+  "name_strategy": "city_plant_unit_of_parent",
+  "style_notes": "This uses a factual and urgent tone typical for trade publications.",
+  "rewritten": true
+}

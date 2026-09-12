@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_04__crit_Saga__art_02",
+  "pair": 4,
+  "arm": "crit_Saga",
+  "slot": 2,
+  "headline": "Saga Tekkohsho Co., Ltd. Engages Experts Following Cybersecurity Incident",
+  "body": "In a recent update, Saga Tekkohsho Co., Ltd. has announced the engagement of external cybersecurity experts following a data breach that compromised internal data. The stolen information includes quality-control and project records. Saga Tekkohsho Co., Ltd. reassured stakeholders that production operations are continuing without disruption. Authorities have been notified as part of the company's response to the incident. The investigation is ongoing, with Saga Tekkohsho Co., Ltd. committed to transparency throughout the process.",
+  "supplier_name": "Saga Tekkohsho Co., Ltd.",
+  "supplier_node_id": "ORG_F70CA1B3A14A",
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

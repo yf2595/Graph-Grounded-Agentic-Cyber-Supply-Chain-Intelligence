@@ -1,0 +1,30 @@
+{
+  "article_id": "INC_095",
+  "incident_id": "INC_095",
+  "headline": "Operations Disrupted by Floods at Sumitomo Rubber Thai Plant",
+  "body": "Sumitomo Rubber (Thailand) Co., Ltd. faced operational shutdown due to severe flooding at its manufacturing facility, impacting both equipment and stock. Safety measures necessitated a halt in production to manage cleanup efforts. The company has confirmed that this stoppage is due to natural weather conditions without any elements of cyber threats involved.",
+  "supplier_names": [
+    "Sumitomo Rubber (Thailand) Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_2A0AA3651039"
+  ],
+  "is_cyber": false,
+  "in_supply_chain": true,
+  "relevant": false,
+  "case_stratum": "in_graph_non_cyber",
+  "impact_level": "severe",
+  "seed_id": "seed_noncyber_flood",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Sumitomo Rubber (Thailand) Co., Ltd."
+  ],
+  "canonical_supplier_names": [
+    "Sumitomo Rubber (Thailand) Co., Ltd."
+  ],
+  "rewrite_style": "corporate_press_paraphrase",
+  "name_strategy": "former_name_parenthetical",
+  "style_notes": "The voice maintains a formal corporate tone, emphasizing factual reporting.",
+  "rewritten": true
+}

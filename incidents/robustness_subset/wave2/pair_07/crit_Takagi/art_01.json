@@ -1,0 +1,14 @@
+{
+  "article_id": "wave2__pair_07__crit_Takagi__art_01",
+  "pair": 7,
+  "arm": "crit_Takagi",
+  "slot": 1,
+  "headline": "Takagi Seiko Corporation Suffers Ransomware Attack",
+  "body": "Takagi Seiko Corporation, a notable supplier in the automotive manufacturing sector, has disclosed a ransomware attack that has significantly impacted its operations. The attack led to the compromise of personal and sensitive internal information. The intrusion was discovered several months after the attackers initially gained access to the company's network. Takagi Seiko Corporation is a key player in the automotive components industry, providing essential parts to various manufacturers. Despite the breach, the company has assured that it is actively working with incident responders to address the situation. They have notified affected individuals and are in the process of restoring their systems to full functionality. The company has confirmed that production was temporarily halted due to the attack, but no customer or downstream impact has been disclosed.",
+  "supplier_name": "Takagi Seiko Corporation",
+  "supplier_node_id": "ORG_17E0030DD2FA",
+  "construction_regime": "independent-generation",
+  "wave": "wave2_silent_critical_20260704_183621",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

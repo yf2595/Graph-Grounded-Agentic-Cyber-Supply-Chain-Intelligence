@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_06__crit_Hitachi__art_05",
+  "pair": 6,
+  "arm": "crit_Hitachi",
+  "slot": 5,
+  "headline": "Hitachi Astemo Automotive Powertrain Technologies (Dongguan) Ltd. (Formerly Dongguan Keihin Engine Management System Co., Ltd.) Reports Cyberattack in Regulatory Filing",
+  "body": "Hitachi Astemo Automotive Powertrain Technologies (Dongguan) Ltd. (Formerly Dongguan Keihin Engine Management System Co., Ltd.) has officially reported a cybersecurity incident in its latest regulatory filing. The automotive components supplier detailed the attack that led to the temporary closure of several factories across multiple countries. The filing outlines the company's ongoing efforts to investigate and recover from the breach, emphasizing its commitment to restoring operations efficiently.",
+  "supplier_name": "Hitachi Astemo Automotive Powertrain Technologies (Dongguan) Ltd. (Formerly Dongguan Keihin Engine Management System Co., Ltd.)",
+  "supplier_node_id": "ORG_A910452660BE",
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

@@ -1,0 +1,14 @@
+{
+  "article_id": "wave3__pair_12__crit_Yutaka__art_03",
+  "pair": 12,
+  "arm": "crit_Yutaka",
+  "slot": 3,
+  "headline": "Yutaka Giken Co., Ltd. Evaluates Cybersecurity Measures Post-Attack",
+  "body": "Yutaka Giken Co., Ltd. is currently evaluating its cybersecurity measures following a recent ransomware attack that caused significant operational disruptions. The attack led to the temporary shutdown of several production facilities, affecting the company's output. As a key player in the automotive supply chain, Yutaka Giken Co., Ltd. operates a wide range of production facilities that are essential for its business operations. The company is known for its reliability and quality in supplying automotive components. In light of the incident, Yutaka Giken is reviewing its cybersecurity measures to enhance protection against future threats. The company remains focused on ensuring continuity in its supply chain operations.",
+  "supplier_name": "Yutaka Giken Co., Ltd.",
+  "supplier_node_id": "ORG_2F00041EA71D",
+  "construction_regime": "independent-generation",
+  "wave": "wave3_silent_critical_20260705_085153",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

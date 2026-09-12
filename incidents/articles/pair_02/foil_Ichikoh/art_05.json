@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_02__foil_Ichikoh__art_05",
+  "pair": 2,
+  "arm": "foil_Ichikoh",
+  "slot": 5,
+  "headline": "Ichikoh Industries, Ltd. Details Cyberattack in Regulatory Filing",
+  "body": "In a recent regulatory filing, Ichikoh Industries, Ltd. disclosed details of a cyberattack that impacted its operations. The automotive components supplier reported that the incident forced a shutdown of its IT systems and production at multiple sites. Ichikoh Industries, Ltd. has engaged incident responders and is conducting an ongoing investigation. The filing highlights the company's efforts to manage the situation and outlines its phased approach to restarting production.",
+  "supplier_name": "Ichikoh Industries, Ltd.",
+  "supplier_node_id": "ORG_776A68B696CE",
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

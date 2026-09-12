@@ -1,0 +1,16 @@
+{
+  "corpus": "eval_corpus_v1",
+  "version": "1.1",
+  "n_reports": 129,
+  "n_actionable": 99,
+  "n_non_actionable": 30,
+  "n_off_graph_cyber": 15,
+  "n_in_graph_non_cyber": 15,
+  "n_base": 100,
+  "n_merge_variants": 29,
+  "merge_groups": 25,
+  "positive_merge_pairs": 34,
+  "gold_actionability_rule": "actionable = is_cyber AND in_supply_chain",
+  "oem_graph": "licensed OEM graph in dataset/ (not redistributed)",
+  "article_dir": "articles/"
+}

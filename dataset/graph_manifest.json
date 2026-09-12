@@ -1,0 +1,22 @@
+{
+  "graph_profile": "oem_product_rooted",
+  "redistribution": "The licensed evaluation graph is not redistributed. Place nodes.csv, edges.csv, and aliases.csv in this directory. See dataset/README.md and examples/graph/.",
+  "expected_evaluation_graph": {
+    "nodes": 4661,
+    "edges": 26035,
+    "aliases": 8886,
+    "node_counts": {
+      "organization": 965,
+      "vehicle_variant": 976,
+      "product": 2454,
+      "component_category": 266
+    },
+    "edge_counts": {
+      "supplies_product": 4092,
+      "product_in_category": 2461,
+      "product_used_in_variant": 18506,
+      "variant_built_by_oem": 976
+    }
+  },
+  "required_files": ["nodes.csv", "edges.csv", "aliases.csv"]
+}

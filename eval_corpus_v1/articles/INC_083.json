@@ -1,0 +1,29 @@
+{
+  "article_id": "INC_083",
+  "incident_id": "INC_083",
+  "headline": "Ransomware Breach Halts Operations at Silesia Rubber's Manufacturing Facilities",
+  "body": "Silesia Rubber Compounds, a key player in the automotive supply chain, has been forced to suspend production at its plants due to a ransomware breach. The attack targeted systems crucial for manufacturing and logistics, leaving operations at a standstill. The company has enlisted cybersecurity experts to manage the breach, but no clarity on when normal operations will resume has been provided. Production lines remain idle as efforts continue.",
+  "supplier_names": [
+    "Silesia Rubber Compounds Sp. z o.o."
+  ],
+  "supplier_node_ids": [],
+  "is_cyber": true,
+  "in_supply_chain": false,
+  "relevant": false,
+  "case_stratum": "off_graph_cyber",
+  "impact_level": "severe",
+  "seed_id": "seed_tsmc_2018",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Silesia Rubber Compounds",
+    "Silesia Rubber"
+  ],
+  "canonical_supplier_names": [
+    "Silesia Rubber Compounds Sp. z o.o."
+  ],
+  "rewrite_style": "local_business_journal",
+  "name_strategy": "short_brand",
+  "style_notes": "The writing maintains a professional yet localized business focus.",
+  "rewritten": true
+}

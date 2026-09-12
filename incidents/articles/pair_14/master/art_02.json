@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_14__master__art_02",
+  "pair": 14,
+  "arm": "master",
+  "slot": 2,
+  "headline": "PLACEHOLDERCO Begins Recovery After Cyberattack",
+  "body": "In the wake of a significant cyberattack, PLACEHOLDERCO is taking steps to recover from the disruption that led to the closure of several factories. The automotive components supplier has initiated a phased investigation and is gradually restarting operations. Incident responders have been brought in to assist with the recovery process. While the company has not disclosed the full impact, efforts are underway to secure and restore the affected infrastructure.",
+  "supplier_name": "PLACEHOLDERCO",
+  "supplier_node_id": null,
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

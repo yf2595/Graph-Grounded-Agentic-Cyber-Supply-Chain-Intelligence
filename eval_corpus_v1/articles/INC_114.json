@@ -1,0 +1,35 @@
+{
+  "article_id": "INC_114",
+  "incident_id": "INC_114",
+  "headline": "Limited Impact from Ransomware Attack on Denso US Unit's IT Systems",
+  "body": "Denso's U.S. subsidiary, a prominent player in the automotive supply sector, faced a ransomware incident affecting its IT systems responsible for administration and scheduling. However, production remained largely unaffected as critical manufacturing lines continued operating manually. This ensured that the output levels stayed stable, although there were minor delays in product shipments. The company has proactively engaged with client sites to address any potential concerns related to this cyber event.",
+  "supplier_names": [
+    "Denso International America, Inc."
+  ],
+  "supplier_node_ids": [
+    "ORG_BBCAC459CB85"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "moderate_reach",
+  "impact_level": "minor",
+  "seed_id": "seed_foxsemicon_2024",
+  "group_id": "GRP_010",
+  "is_merge_variant": true,
+  "merge_seed_article_id": "INC_049",
+  "surface_supplier_names": [
+    "Denso",
+    "Denso US",
+    "Denso International America"
+  ],
+  "canonical_supplier_names": [
+    "Denso International America, Inc."
+  ],
+  "rewrite_style": "reuters_wire",
+  "name_strategy": "merge_variant",
+  "style_notes": "Objective, concise language typical of news wires; emphasizes operational continuity and limited impact.",
+  "rewritten": true,
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced."
+}

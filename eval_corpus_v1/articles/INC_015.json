@@ -1,0 +1,30 @@
+{
+  "article_id": "INC_015",
+  "incident_id": "INC_015",
+  "headline": "Hitachi Astemo Halts Zhongshan Production Due to Ransomware Attack on Systems",
+  "body": "Following a disruptive ransomware attack, Hitachi Astemo Chassis Systems (Zhongshan) Ltd. has suspended production at its facilities. The assault encrypted crucial execution and logistics systems, bringing operations to a standstill. In response, external cybersecurity experts have been called in to mitigate the situation. While efforts are underway to restore normal activities, the company has yet to provide an estimated timeline for resuming full operations.",
+  "supplier_names": [
+    "Hitachi Astemo Chassis Systems (Zhongshan) Ltd. (Formerly Zhongshan Nissin Industry Co., Ltd.)"
+  ],
+  "supplier_node_ids": [
+    "ORG_59FC98620A22"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "critical_part_sole",
+  "impact_level": "severe",
+  "seed_id": "seed_varta_2024",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Hitachi Astemo Chassis Systems (Zhongshan) Ltd."
+  ],
+  "canonical_supplier_names": [
+    "Hitachi Astemo Chassis Systems (Zhongshan) Ltd. (Formerly Zhongshan Nissin Industry Co., Ltd.)"
+  ],
+  "rewrite_style": "corporate_press_paraphrase",
+  "name_strategy": "full_legal",
+  "style_notes": "The article uses a formal and informative tone typical of corporate press releases.",
+  "rewritten": true
+}

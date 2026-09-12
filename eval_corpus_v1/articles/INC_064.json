@@ -1,0 +1,34 @@
+{
+  "article_id": "INC_064",
+  "incident_id": "INC_064",
+  "headline": "H-ONE Co., Ltd. Cyber Attack Grinds Auto Parts Plant to a Halt, Bridgestone Feels the Pinch",
+  "body": "In a significant cybersecurity breach, H-ONE Co., Ltd. faced a debilitating ransomware strike, crippling its manufacturing and logistics systems. The unforeseen attack forced the automotive parts manufacturer to suspend operations at several plants as restoration efforts are underway. With external cybersecurity experts brought in to assist, the timeline for resuming full production remains uncertain. The ripple effects of this cyber incident extended to Bridgestone Corporation, which reported related disturbances across its supply chain. Efforts to mitigate the impact are ongoing, but both companies are navigating uncharted waters in restoring normalcy.",
+  "supplier_names": [
+    "H-ONE Co., Ltd.",
+    "Bridgestone Corporation"
+  ],
+  "supplier_node_ids": [
+    "ORG_CF64B3D0E3C1",
+    "ORG_AE8E700BCD4F"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "multi_supplier",
+  "impact_level": "severe",
+  "seed_id": "seed_varta_2024",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "H-ONE Co., Ltd.",
+    "Bridgestone Corporation"
+  ],
+  "canonical_supplier_names": [
+    "H-ONE Co., Ltd.",
+    "Bridgestone Corporation"
+  ],
+  "rewrite_style": "security_trade_blog",
+  "name_strategy": "full_legal",
+  "style_notes": "Concise and urgent, mimicking the tone of security trade publications.",
+  "rewritten": true
+}

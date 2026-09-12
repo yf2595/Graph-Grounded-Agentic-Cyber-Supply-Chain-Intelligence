@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_10__foil_Highly__art_05",
+  "pair": 10,
+  "arm": "foil_Highly",
+  "slot": 5,
+  "headline": "Highly Marelli Japan Corporation Files Report on Ransomware Incident",
+  "body": "Highly Marelli Japan Corporation has officially filed a report detailing the ransomware attack that led to the theft of proprietary internal data. The automotive components supplier confirmed unauthorized access but noted that its production operations were not impacted. Highly Marelli Japan Corporation is working with external cybersecurity experts to conduct a thorough investigation. This filing is part of the company's commitment to transparency and compliance with regulatory requirements.",
+  "supplier_name": "Highly Marelli Japan Corporation",
+  "supplier_node_id": "ORG_20F72E03895A",
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

@@ -1,0 +1,14 @@
+{
+  "article_id": "wave1b__pair_05__crit_Nissin__art_01",
+  "pair": 5,
+  "arm": "crit_Nissin",
+  "slot": 1,
+  "headline": "Nissin Manufacturing Group Faces Ransomware Disruption",
+  "body": "Nissin Manufacturing Group Co., Ltd., a prominent supplier in the automotive industry, has been hit by a ransomware attack. The incident has led to a partial shutdown of operations, leaving production running below normal capacity. The company is actively engaging with incident responders to restore systems and mitigate the impact. Nissin Manufacturing Group is a key player in the automotive components sector, providing essential parts to various manufacturers. Despite the current disruption, the company has assured stakeholders that efforts are underway to resolve the issue as swiftly as possible. The attack underscores the growing threat of cyber incidents in the manufacturing sector, emphasizing the need for robust cybersecurity measures. The attack has resulted in data theft, including financial records, which has raised concerns about the potential implications for the company's operations and reputation. However, Nissin Manufacturing Group is committed to transparency and is working closely with authorities to address the situation.",
+  "supplier_name": "Nissin Manufacturing Group Co., Ltd. (Formerly Nissin Manufacturing Co., Ltd.)",
+  "supplier_node_id": "ORG_67659D83499E",
+  "construction_regime": "independent-generation",
+  "wave": "wave1b_silent_critical_20260704_164732",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

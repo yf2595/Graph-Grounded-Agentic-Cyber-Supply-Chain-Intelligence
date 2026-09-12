@@ -1,0 +1,14 @@
+{
+  "article_id": "wave3__pair_07__foil_Nidec__art_02",
+  "pair": 7,
+  "arm": "foil_Nidec",
+  "slot": 2,
+  "headline": "Operational Continuity Maintained at Nidec Mobility Despite Cyber Attack",
+  "body": "In a recent cybersecurity incident, Nidec Mobility Corporation experienced a ransomware attack that led to the theft of sensitive internal data. The breach, discovered months after it occurred, did not disrupt the company's operations. Nidec confirmed that it has taken steps to address the security lapse and has engaged with cybersecurity specialists to prevent future incidents. Nidec Mobility Corporation is a prominent supplier in the automotive industry, known for its reliable delivery of essential components. The company has assured stakeholders that despite the breach, its production and supply chain activities remain unaffected. This proactive approach underscores Nidec's commitment to maintaining operational stability and security.",
+  "supplier_name": "Nidec Mobility Corporation",
+  "supplier_node_id": "ORG_406F1625FD76",
+  "construction_regime": "independent-generation",
+  "wave": "wave3_silent_critical_20260705_085153",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

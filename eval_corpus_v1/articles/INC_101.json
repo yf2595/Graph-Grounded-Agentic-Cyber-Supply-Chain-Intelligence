@@ -1,0 +1,34 @@
+{
+  "article_id": "INC_101",
+  "incident_id": "INC_101",
+  "headline": "Denso Corporation Manages Ransomware Incident with Minimal Disruption to Operations",
+  "body": "Denso Corporation, a leading automotive parts supplier, encountered a ransomware attack that hit its administrative and scheduling IT systems. Nonetheless, critical machinery functions were largely unaffected as the company swiftly applied manual workarounds. While there could be slight hiccups in some delivery schedules, Denso assures customers these will be minimal. To ensure openness, customer plants have been informed about the situation.",
+  "supplier_names": [
+    "Denso Corporation"
+  ],
+  "supplier_node_ids": [
+    "ORG_2DD511546595"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "bottleneck_sole",
+  "impact_level": "minor",
+  "seed_id": "seed_toyota_supplier_jtei_2022",
+  "group_id": "GRP_001",
+  "is_merge_variant": true,
+  "merge_seed_article_id": "INC_011",
+  "surface_supplier_names": [
+    "Denso Corp",
+    "Denso"
+  ],
+  "canonical_supplier_names": [
+    "Denso Corporation"
+  ],
+  "rewrite_style": "automotive_trade",
+  "name_strategy": "merge_variant",
+  "style_notes": "This rewrite maintains the factual integrity of the original while using terms and structure common in automotive trade publications. It emphasizes operational continuity and delivery reliability, key concerns for industry stakeholders.",
+  "rewritten": true,
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced."
+}

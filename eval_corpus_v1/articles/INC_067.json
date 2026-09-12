@@ -1,0 +1,37 @@
+{
+  "article_id": "INC_067",
+  "incident_id": "INC_067",
+  "headline": "Ransomware Attack Grinds Operations to a Halt at Hitachi Astemo's Dongguan Facility",
+  "body": "In a significant cyber breach, Hitachi Astemo Automotive Powertrain Technologies (Dongguan) Ltd. has been forced to shut down production at its Dongguan site. The plant, formerly known as Dongguan Keihin Engine Management System Co., Ltd., was hit by ransomware that locked key manufacturing and logistics systems. While the company collaborates with cybersecurity experts for recovery, it remains unclear when full operations will resume. Meanwhile, NGK Ceramics Suzhou Co., Ltd. is also dealing with related disruptions in its processes.",
+  "supplier_names": [
+    "Hitachi Astemo Automotive Powertrain Technologies (Dongguan) Ltd. (Formerly Dongguan Keihin Engine Management System Co., Ltd.)",
+    "NGK Ceramics Suzhou Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_A910452660BE",
+    "ORG_0D8DAC210917"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "multi_supplier",
+  "impact_level": "severe",
+  "seed_id": "seed_microchip_2024",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Hitachi Astemo Automotive Powertrain Technologies (Dongguan) Ltd.",
+    "NGK Ceramics Suzhou Co., Ltd."
+  ],
+  "canonical_supplier_names": [
+    "Hitachi Astemo Automotive Powertrain Technologies (Dongguan) Ltd. (Formerly Dongguan Keihin Engine Management System Co., Ltd.)",
+    "NGK Ceramics Suzhou Co., Ltd."
+  ],
+  "rewrite_style": "investigative_feature_lede",
+  "name_strategy": "mixed_first_mention_full_then_short",
+  "style_notes": "The piece employs an investigative tone with varied sentence structures to enhance engagement.",
+  "rewritten": true,
+  "group_id": "GRP_023",
+  "is_merge_variant": false,
+  "merge_seed_article_id": "INC_067"
+}

@@ -1,0 +1,30 @@
+{
+  "article_id": "INC_055",
+  "incident_id": "INC_055",
+  "headline": "PGW Addresses Email Breach, Expects Minor Shipping Delays",
+  "body": "PGW, a key player in automotive glass production, revealed a business email compromise incident that affected their order-entry systems. While the issue temporarily impacted the promptness of shipping notifications, all plant operations remain unaffected by encryption threats. PGW anticipates only brief delays in logistics and assures clients of minimal disruption in supply chains. The firm is working to reinforce their cybersecurity measures to prevent future incidents.",
+  "supplier_names": [
+    "Pittsburgh Glass Works, LLC."
+  ],
+  "supplier_node_ids": [
+    "ORG_F241B7FD5168"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "low_reach",
+  "impact_level": "minor",
+  "seed_id": "seed_nichirin_2022",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "PGW"
+  ],
+  "canonical_supplier_names": [
+    "Pittsburgh Glass Works, LLC."
+  ],
+  "rewrite_style": "reuters_wire",
+  "name_strategy": "short_brand",
+  "style_notes": "The writing employs a concise and factual tone typical of newswire services.",
+  "rewritten": true
+}

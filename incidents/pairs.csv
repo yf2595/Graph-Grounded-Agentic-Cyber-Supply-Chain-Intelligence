@@ -1,0 +1,16 @@
+pair,class,seed_id,crit_supplier,foil_supplier,delta_exposure,sharp_arm_present,master_sha256
+1,discrimination,pilot_synthetic,"H-ONE Co., Ltd.",Enkei Corporation,2,false,8294beb1cc9335391d97520a0c7502b38308893d613d6bba7efc38c6778cdc38
+2,discrimination,legacy_inc_002,"Foshan Fengfu Auto Parts Co., Ltd.","Ichikoh Industries, Ltd.",13,true,fd715110af2afccd8169f1e22ccc130d91abd7f20354dc04e49fbbb7e66a559f
+3,discrimination,legacy_inc_003,HI-LEX Corporation,"Taigene Electric Machinery Co., Ltd.",1,false,424bb7fe93d87557587ce66c98164d6c111f9de1c16051c7541ea1605b1fbb1f
+4,control,legacy_inc_004,"Saga Tekkohsho Co., Ltd.",KYB Mexico S.A. de C.V.,1,false,b8ad50c80c97b79656a2e492e9472a026a90de7088a96220d23f9bc3eb572ab4
+5,discrimination,legacy_inc_005,"Nissin Manufacturing Group Co., Ltd. (Formerly Nissin Manufacturing Co., Ltd.)",Neaton Auto Products Manufacturing Inc.,0,true,0ce4506b53bdf803c0e6ebeff0e2362a2bdc0fcb9de65a74e7ad429e320a820c
+6,discrimination,legacy_inc_011,"Hitachi Astemo Automotive Powertrain Technologies (Dongguan) Ltd. (Formerly Dongguan Keihin Engine Management System Co., Ltd.)","Xiamen Zhengxin Rubber Industry Co., Ltd.",0,false,918aeb02f74f8f9af51c11c03d22da14a9608993adef0aeb45e28be5c2da7589
+7,control,legacy_inc_013,Takagi Seiko Corporation,Nidec Mobility Corporation,0,false,26aa2babed98c8097eb5010e7fe3bd986b74b9af5bce2a917725bbed241730e1
+8,control,legacy_inc_014,Pacific Engineering Corporation,"Howa (Thailand) Co., Ltd.",0,false,58558122ea42a4ca3b5447ecad116dda59bf1b7120dc05359c442277cbfa4dd9
+9,discrimination,legacy_inc_031,"Keeper Co., Ltd.","NSK Steering Systems Co., Ltd.",1,true,87223937c95f92cbebb328a77a8df56dfa949258924a942982e15dd9ab8be107
+10,control,legacy_inc_036,"Bestex (Thailand) Co., Ltd.",Highly Marelli Japan Corporation,0,false,d7dbbf60311e07e5136076f45102194f79d4787d3354bc8765909281e05c3945
+11,control,legacy_inc_047,"MAHLE Behr Thermal Systems (Thailand) Co., Ltd. (Formerly Keihin Thermal Technology (Thailand) Co., Ltd.)",Kwangjin SLP Mexico S.A. de C.V,0,false,392f4e848b38d38ca3d9f28e0af112c4c0b1bb9a0b993d7d875cb7d7e58c457e
+12,discrimination,legacy_inc_048,"Yutaka Giken Co., Ltd.",Penstone Corporation (Formerly Ishizaki Honten Corporation),7,true,a5bfbf19f65cb8150479f67b2da3bb776bc3e4b07a30442eebafad488cbbc01f
+13,twin,legacy_inc_022,"Suzhou Nichirin Automobile Parts Co., Ltd.",Enkei Corporation,2,false,f393379a5112fd0509d42bef0e736c2c28070b18d4ba189bafafc2b39f6b2e18
+14,discrimination,legacy_inc_011,"H-ONE Parts (Thailand) Co., Ltd.","Kasai Teck See Co., Ltd.",0,false,20f1ed29f8be3c765dfd7762ae135898c116470653cdedcb1a992e4ba341c6f9
+15,discrimination,legacy_inc_005,"Tanaka Seimitsu Kogyo Co., Ltd.","Carlex Glass America, LLC",10,false,172fa0132094217708d981af7d27d57666b96364e1b125678069defcb985a078

@@ -1,0 +1,13 @@
+merge:
+  # Candidate retrieval
+  max_candidates: 8
+  # Also retrieve events by text similarity even without supplier overlap
+  enable_embedding_candidates: true
+  embedding_min_for_candidate: 0.82
+  # Guardrails after LLM decision
+  # If similarity to chosen event is below this, force CREATE_NEW
+  embedding_veto_merge_below: 0.78
+  # Text-only merges (no supplier overlap) require higher similarity
+  embedding_text_only_merge_min: 0.90
+  # If best candidate similarity is below this and there is no supplier overlap, skip LLM
+  embedding_skip_llm_below: 0.72

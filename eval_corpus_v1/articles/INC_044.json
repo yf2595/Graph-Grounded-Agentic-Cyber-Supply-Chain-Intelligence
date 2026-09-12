@@ -1,0 +1,30 @@
+{
+  "article_id": "INC_044",
+  "incident_id": "INC_044",
+  "headline": "Yorozu's Manufacturing Operations Paralyzed by Pervasive Malware Attack",
+  "body": "In an unexpected cybersecurity breach, Yorozu's factory network was compromised by a severe malware incident, resulting in a complete halt to production operations. The attack forced the shutdown of multiple plants as technicians work round-the-clock to cleanse and restore affected systems. While the firm anticipates a gradual return to full functionality, exact timelines for rebooting its manufacturing fleet are still uncertain. Despite the disruption, Yorozu has not publicly disclosed any involvement of ransomware demands. The incident underscores growing cybersecurity vulnerabilities within essential industrial networks.",
+  "supplier_names": [
+    "Yorozu Corp."
+  ],
+  "supplier_node_ids": [
+    "ORG_C9B64AFB5FF6"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "moderate_reach",
+  "impact_level": "severe",
+  "seed_id": "seed_tsmc_2018",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Yorozu"
+  ],
+  "canonical_supplier_names": [
+    "Yorozu Corp."
+  ],
+  "rewrite_style": "security_trade_blog",
+  "name_strategy": "ticker_or_market_shorthand",
+  "style_notes": "Utilizes an urgent and analytical tone with clear emphasis on operational impact.",
+  "rewritten": true
+}

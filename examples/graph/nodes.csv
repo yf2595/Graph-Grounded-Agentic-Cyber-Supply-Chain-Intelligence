@@ -1,0 +1,10 @@
+node_id,node_name,node_kind
+ORG_NORTHFORGE,NorthForge Components Ltd.,organization
+ORG_RIDGEWAY,Ridgeway Plastics Inc.,organization
+ORG_DUALCAST,DualCast Interiors GmbH,organization
+PRODUCT_BRAKE_MOD,Brake control module,product
+PRODUCT_DOOR_TRIM,Door trim panel,product
+CATEGORY_BRAKE,ABS / ESC,component_category
+CATEGORY_TRIM,Interior Trim,component_category
+VARIANT_SEDAN,Aether Sedan 2024,vehicle_variant
+VARIANT_WAGON,Aether Wagon 2024,vehicle_variant

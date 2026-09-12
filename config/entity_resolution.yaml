@@ -1,0 +1,7 @@
+entity_resolution:
+  fuzzy_top_k: 5
+  fuzzy_min_score: 90
+  fuzzy_auto_accept_score: 96
+  fuzzy_min_margin: 5
+  # LLM disambiguation only when 2..fuzzy_top_k candidates remain
+  enable_llm_disambiguation: true

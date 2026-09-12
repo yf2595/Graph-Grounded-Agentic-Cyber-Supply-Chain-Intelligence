@@ -1,0 +1,14 @@
+{
+  "article_id": "wave2__pair_07__crit_Takagi__art_02",
+  "pair": 7,
+  "arm": "crit_Takagi",
+  "slot": 2,
+  "headline": "Operational Update: Takagi Seiko Corporation's System Restoration Post-Ransomware Attack",
+  "body": "Following a significant ransomware attack, Takagi Seiko Corporation has been diligently working to restore its systems. The attack, which led to a temporary production halt, has been a major focus for the company's IT and security teams as they work to bring operations back to normal. Takagi Seiko Corporation, a prominent supplier in the automotive industry, has been at the forefront of providing critical components to various manufacturers. The company is currently in the process of system restoration, ensuring that all security measures are enhanced to prevent future incidents. While the disruption was significant, the company has not reported any downstream impact on their clients.",
+  "supplier_name": "Takagi Seiko Corporation",
+  "supplier_node_id": "ORG_17E0030DD2FA",
+  "construction_regime": "independent-generation",
+  "wave": "wave2_silent_critical_20260704_183621",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

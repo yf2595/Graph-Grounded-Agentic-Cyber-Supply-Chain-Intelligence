@@ -1,0 +1,30 @@
+{
+  "article_id": "INC_082",
+  "incident_id": "INC_082",
+  "headline": "Detroit Legacy Experiences Cyber Incident; Operations Unhindered",
+  "body": "Detroit Legacy Stampings Inc. recently faced a cybersecurity breach as a ransomware group took responsibility for stealing internal files. While the company has acknowledged the incident, it assured that its core manufacturing operations remain unaffected, with no disruption to ongoing production schedules. Customer deliveries continue uninterrupted, alleviating concerns over supply-chain impacts. The attack targeted corporate systems rather than factory floors, allowing facilities to maintain normal throughput. Detroit Legacy took immediate steps to secure its network and is working with external experts to assess any potential data exposure.",
+  "supplier_names": [
+    "Detroit Legacy Stampings Inc."
+  ],
+  "supplier_node_ids": [],
+  "is_cyber": true,
+  "in_supply_chain": false,
+  "relevant": false,
+  "case_stratum": "off_graph_cyber",
+  "impact_level": "none",
+  "seed_id": "seed_foxsemicon_2024",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Detroit Legacy",
+    "the company",
+    "Detroit Legacy"
+  ],
+  "canonical_supplier_names": [
+    "Detroit Legacy Stampings Inc."
+  ],
+  "rewrite_style": "local_business_journal",
+  "name_strategy": "short_brand",
+  "style_notes": "The voice is reliable and calm, reflecting local business reporting norms.",
+  "rewritten": true
+}

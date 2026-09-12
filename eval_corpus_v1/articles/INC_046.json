@@ -1,0 +1,31 @@
+{
+  "article_id": "INC_046",
+  "incident_id": "INC_046",
+  "headline": "NPC Contained Email Breach, Shipping Slightly Hit",
+  "body": "NPC faced a business email compromise that briefly disrupted its order-entry system and shipping notifications. While the cyber incident led to minor delays in logistics, key systems remain unaffected, ensuring secure plant operations. Despite the setback, Nihon Plast anticipates only transient impacts on its supply chain processes. Prompt internal response ensured continued production without significant interruption at their facilities.",
+  "supplier_names": [
+    "Nihon Plast Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_A398EF2DF779"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "moderate_reach",
+  "impact_level": "minor",
+  "seed_id": "seed_nichirin_2022",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "NPC",
+    "Nihon Plast"
+  ],
+  "canonical_supplier_names": [
+    "Nihon Plast Co., Ltd."
+  ],
+  "rewrite_style": "security_trade_blog",
+  "name_strategy": "initialism_or_acronym",
+  "style_notes": "The article uses an informative yet concise tone typical of trade security blogs.",
+  "rewritten": true
+}

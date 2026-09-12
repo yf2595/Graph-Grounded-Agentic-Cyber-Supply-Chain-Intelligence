@@ -1,0 +1,14 @@
+{
+  "article_id": "wave3__pair_07__foil_Nidec__art_03",
+  "pair": 7,
+  "arm": "foil_Nidec",
+  "slot": 3,
+  "headline": "Ransomware Attack on Nidec Mobility: Data Compromised",
+  "body": "Nidec Mobility Corporation, a significant entity in the automotive components market, has reported a ransomware attack resulting in data theft. The intrusion, which went unnoticed for several months, involved the exfiltration of sensitive internal data. Despite this, Nidec has confirmed that its operations have not been disrupted. The corporation is a major supplier of automotive components, contributing to the global automotive supply chain. Nidec has responded to the incident by notifying affected parties and implementing enhanced cybersecurity measures to safeguard its systems against future threats.",
+  "supplier_name": "Nidec Mobility Corporation",
+  "supplier_node_id": "ORG_406F1625FD76",
+  "construction_regime": "independent-generation",
+  "wave": "wave3_silent_critical_20260705_085153",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

@@ -1,0 +1,31 @@
+{
+  "article_id": "INC_091",
+  "incident_id": "INC_091",
+  "headline": "Strike at ZF Plant Shuts Down Component Deliveries, Stoking Supply Chain Worries",
+  "body": "Operations at the ZF Friedrichshafen plant in Germany came to a standstill as workers walked off the job, leaving automotive component shipments in limbo. The labor strike has forced a complete halt to production, heightening supply chain concerns for automotive manufacturers relying on these critical parts. Talks between management and the union are ongoing, with no immediate resolution in sight. The company has alerted clients about potential short-term disruptions.",
+  "supplier_names": [
+    "ZF Friedrichshafen AG"
+  ],
+  "supplier_node_ids": [
+    "ORG_0757CC6F1AC3"
+  ],
+  "is_cyber": false,
+  "in_supply_chain": true,
+  "relevant": false,
+  "case_stratum": "in_graph_non_cyber",
+  "impact_level": "severe",
+  "seed_id": "seed_noncyber_strike",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "ZF Friedrichshafen",
+    "ZF"
+  ],
+  "canonical_supplier_names": [
+    "ZF Friedrichshafen AG"
+  ],
+  "rewrite_style": "reuters_wire",
+  "name_strategy": "city_plant_unit_of_parent",
+  "style_notes": "Concise and factual, focusing on the impact of the strike.",
+  "rewritten": true
+}

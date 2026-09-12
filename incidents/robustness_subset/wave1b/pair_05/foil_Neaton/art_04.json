@@ -1,0 +1,14 @@
+{
+  "article_id": "wave1b__pair_05__foil_Neaton__art_04",
+  "pair": 5,
+  "arm": "foil_Neaton",
+  "slot": 4,
+  "headline": "Data Breach at Neaton Auto Products Manufacturing Inc.",
+  "body": "Neaton Auto Products Manufacturing Inc. has confirmed a data breach following a ransomware attack. The breach resulted in the unauthorized access and potential theft of sensitive data, including financial records. Neaton Auto Products Manufacturing Inc. is a significant player in the automotive manufacturing sector, known for its dedication to quality and innovation. The company is taking swift action to secure its data and prevent future incidents, working closely with cybersecurity professionals to enhance its security protocols. While the breach has raised concerns, Neaton Auto Products Manufacturing Inc. assures that there have been no downstream effects on its partners or customers. The company remains focused on resolving the issue and maintaining the trust of its stakeholders.",
+  "supplier_name": "Neaton Auto Products Manufacturing Inc.",
+  "supplier_node_id": "ORG_0EF9A2B90422",
+  "construction_regime": "independent-generation",
+  "wave": "wave1b_silent_critical_20260704_164732",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

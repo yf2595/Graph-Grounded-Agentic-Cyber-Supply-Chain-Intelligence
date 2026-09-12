@@ -1,0 +1,34 @@
+{
+  "article_id": "INC_103",
+  "incident_id": "INC_103",
+  "headline": "Ransomware Incident Causes Brief Disruption at Denso",
+  "body": "Denso Corporation, prominent in the automotive supply chain, experienced a ransomware incident that targeted their office and scheduling systems. This cyber event caused limited disturbances, as crucial machining operations continued without significant issues due to effective manual adjustments by staff. Although there may be minor delays in some deliveries, Denso has communicated with client facilities to ensure transparency and minimal concern. The company emphasizes that these delays are expected to be minimal.",
+  "supplier_names": [
+    "Denso Corporation"
+  ],
+  "supplier_node_ids": [
+    "ORG_2DD511546595"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "bottleneck_sole",
+  "impact_level": "minor",
+  "seed_id": "seed_toyota_supplier_jtei_2022",
+  "group_id": "GRP_001",
+  "is_merge_variant": true,
+  "merge_seed_article_id": "INC_011",
+  "surface_supplier_names": [
+    "Denso Corporation",
+    "Denso Corp"
+  ],
+  "canonical_supplier_names": [
+    "Denso Corporation"
+  ],
+  "rewrite_style": "local_business_journal",
+  "name_strategy": "merge_variant",
+  "style_notes": "The article maintains a focus on the local industry's reassurance of continuity despite a cyber interruption.",
+  "rewritten": true,
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced."
+}

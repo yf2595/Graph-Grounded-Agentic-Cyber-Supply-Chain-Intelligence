@@ -1,0 +1,14 @@
+{
+  "article_id": "wave3__pair_03__foil_Taigene__art_04",
+  "pair": 3,
+  "arm": "foil_Taigene",
+  "slot": 4,
+  "headline": "Cybersecurity Measures Underway at Taigene Electric Machinery Co., Ltd.",
+  "body": "Following a recent ransomware attack, Taigene Electric Machinery Co., Ltd. has implemented robust cybersecurity measures to safeguard its operations. The attack led to a temporary halt in production, prompting the company to enhance its security protocols. Taigene Electric Machinery Co., Ltd. is a significant supplier in the automotive industry, known for its commitment to quality and reliability. The company is focused on strengthening its cybersecurity defenses to prevent future incidents. The incident response team at Taigene is working closely with cybersecurity experts to secure its systems and ensure the continuity of its operations. The company remains dedicated to maintaining its role as a trusted supplier in the automotive sector.",
+  "supplier_name": "Taigene Electric Machinery Co., Ltd.",
+  "supplier_node_id": "ORG_E4069CC45AA6",
+  "construction_regime": "independent-generation",
+  "wave": "wave3_silent_critical_20260705_085153",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

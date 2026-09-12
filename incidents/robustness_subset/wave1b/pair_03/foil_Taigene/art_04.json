@@ -1,0 +1,14 @@
+{
+  "article_id": "wave1b__pair_03__foil_Taigene__art_04",
+  "pair": 3,
+  "arm": "foil_Taigene",
+  "slot": 4,
+  "headline": "Ransomware Attackers Demand Ransom from Taigene Electric Machinery Co., Ltd.",
+  "body": "In a recent cyber incident, Taigene Electric Machinery Co., Ltd. has been targeted by ransomware attackers who are demanding a significant ransom. The attack has led to the isolation of servers and temporary production disruptions. Taigene Electric Machinery Co., Ltd. is a key player in the automotive components industry, known for its robust manufacturing capabilities. The company is currently working with cybersecurity experts to address the breach and restore its systems. While the attackers claim to have stolen internal data, Taigene has not confirmed any data loss publicly. The situation is under investigation, and the company is taking steps to enhance its cybersecurity posture to prevent future incidents.",
+  "supplier_name": "Taigene Electric Machinery Co., Ltd.",
+  "supplier_node_id": "ORG_E4069CC45AA6",
+  "construction_regime": "independent-generation",
+  "wave": "wave1b_silent_critical_20260704_164732",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

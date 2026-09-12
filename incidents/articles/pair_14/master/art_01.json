@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_14__master__art_01",
+  "pair": 14,
+  "arm": "master",
+  "slot": 1,
+  "headline": "Cyberattack Forces PLACEHOLDERCO to Shut Down Multiple Factories",
+  "body": "PLACEHOLDERCO, a leading automotive components supplier, has been hit by a cyberattack that forced the closure of several factories across multiple countries. The attack encrypted parts of the company's infrastructure, bringing production to a standstill at various sites. PLACEHOLDERCO has engaged incident response teams to address the situation. The company is working diligently to assess the extent of the damage and restore operations as soon as possible.",
+  "supplier_name": "PLACEHOLDERCO",
+  "supplier_node_id": null,
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

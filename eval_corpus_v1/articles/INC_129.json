@@ -1,0 +1,33 @@
+{
+  "article_id": "INC_129",
+  "incident_id": "INC_129",
+  "headline": "MELCO Confronts Ransomware Incident with Minimal Operational Impact",
+  "body": "A recent ransomware incident affected MELCO's internal scheduling and office IT systems. Despite this, essential production continued uninterrupted by switching to manual operation methods, resulting in only slight disturbances. Minor shipping delays are anticipated, and relevant customer sites have been preemptively informed as a precaution. The company’s rapid response highlights the strength of its cybersecurity measures.",
+  "supplier_names": [
+    "Mitsubishi Electric Corporation"
+  ],
+  "supplier_node_ids": [
+    "ORG_FD4B9E36BA90"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "bottleneck_sole",
+  "impact_level": "minor",
+  "seed_id": "seed_lacroix_2023",
+  "group_id": "GRP_025",
+  "is_merge_variant": true,
+  "merge_seed_article_id": "INC_013",
+  "surface_supplier_names": [
+    "MELCO"
+  ],
+  "canonical_supplier_names": [
+    "Mitsubishi Electric Corporation"
+  ],
+  "rewrite_style": "short_ap_brief",
+  "name_strategy": "merge_variant",
+  "style_notes": "The article maintains a brief and factual tone typical for AP-style reporting while changing the structure and wording to offer diversity in presentation.",
+  "rewritten": true,
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced."
+}

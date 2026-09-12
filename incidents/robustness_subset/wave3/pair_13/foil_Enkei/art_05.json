@@ -1,0 +1,14 @@
+{
+  "article_id": "wave3__pair_13__foil_Enkei__art_05",
+  "pair": 13,
+  "arm": "foil_Enkei",
+  "slot": 5,
+  "headline": "Enkei Corporation Initiates Response to Cyber Incident",
+  "body": "Following a reported cyber incident, Enkei Corporation has begun response efforts to address the situation. The company is conducting a thorough review of its systems with the assistance of external advisors. While the full scope of the incident is still being determined, Enkei Corporation is committed to restoring normal operations and ensuring the security of its infrastructure. Updates will be provided as more information becomes available.",
+  "supplier_name": "Enkei Corporation",
+  "supplier_node_id": "ORG_2D34A53963E5",
+  "construction_regime": "independent-generation",
+  "wave": "wave3_silent_critical_20260705_085153",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

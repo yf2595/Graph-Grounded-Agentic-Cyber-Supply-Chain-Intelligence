@@ -1,0 +1,33 @@
+{
+  "article_id": "INC_033",
+  "incident_id": "INC_033",
+  "headline": "Ransomware Attack Hits Hangzhou Yokohama Tire Co., Halts Production and Steals Data",
+  "body": "Hangzhou Yokohama Tire, a key player in the tire manufacturing industry, has been struck by a crippling ransomware attack. The cyber intrusion severely disrupted IT operations and industrial control systems at their plant near Hangzhou. Some production lines were forced to shut down temporarily while specialists work to restore functionalities in phases. Reports indicate that sensitive business documents may have been exfiltrated during the breach. Efforts are underway to assess and mitigate the full impact.",
+  "supplier_names": [
+    "Hangzhou Yokohama Tire Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_63D1C86B51F0"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "redundant_high_reach",
+  "impact_level": "severe",
+  "seed_id": "seed_hoya_2024",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Hangzhou Yokohama Tire"
+  ],
+  "canonical_supplier_names": [
+    "Hangzhou Yokohama Tire Co., Ltd."
+  ],
+  "rewrite_style": "local_business_journal",
+  "name_strategy": "former_name_parenthetical",
+  "style_notes": "A straightforward business tone emphasizing impact and recovery efforts.",
+  "rewritten": true,
+  "group_id": "GRP_024",
+  "is_merge_variant": false,
+  "merge_seed_article_id": "INC_033"
+}

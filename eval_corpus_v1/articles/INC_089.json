@@ -1,0 +1,30 @@
+{
+  "article_id": "INC_089",
+  "incident_id": "INC_089",
+  "headline": "Thai Stanley Eyes Restructuring to Tackle Input Cost Challenges",
+  "body": "Thai Stanley, known in the industry as a key player in automotive lighting, has initiated court-supervised restructuring efforts. Facing mounting pressures from increased input costs, the company plans to maintain operations on select production lines through agreements with creditors. There have been no indications of internal or external cyber threats influencing this decision. The firm remains optimistic about navigating the current financial landscape while continuing to support its partners.",
+  "supplier_names": [
+    "Thai Stanley Electric PCL"
+  ],
+  "supplier_node_ids": [
+    "ORG_C342417611D9"
+  ],
+  "is_cyber": false,
+  "in_supply_chain": true,
+  "relevant": false,
+  "case_stratum": "in_graph_non_cyber",
+  "impact_level": "minor",
+  "seed_id": "seed_noncyber_bankruptcy",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Thai Stanley"
+  ],
+  "canonical_supplier_names": [
+    "Thai Stanley Electric PCL"
+  ],
+  "rewrite_style": "japanese_english_wire",
+  "name_strategy": "short_brand",
+  "style_notes": "The voice is formal and succinct, typical of Japanese-English news wires.",
+  "rewritten": true
+}

@@ -1,0 +1,30 @@
+{
+  "article_id": "INC_093",
+  "incident_id": "INC_093",
+  "headline": "TS TECH Recalls Faulty Auto Parts Due to Minor Manufacturing Mishap",
+  "body": "Renowned for its adherence to quality, TS TECH Co., Ltd. announced a recall related to a minor defect discovered in a specific lot of automotive components. Although the issue is not widespread, affected customers have been promptly informed, instructed to segregate the questionable items. The glitch has resulted in temporary administrative and logistics tweaks but hasn't significantly disrupted production lines. The company reassures that this is a manufacturing oversight with absolutely no ties to any cybersecurity concerns.",
+  "supplier_names": [
+    "TS TECH Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_5581E96E0DEB"
+  ],
+  "is_cyber": false,
+  "in_supply_chain": true,
+  "relevant": false,
+  "case_stratum": "in_graph_non_cyber",
+  "impact_level": "minor",
+  "seed_id": "seed_noncyber_recall",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "TS TECH"
+  ],
+  "canonical_supplier_names": [
+    "TS TECH Co., Ltd."
+  ],
+  "rewrite_style": "newsletter_digest",
+  "name_strategy": "ticker_or_market_shorthand",
+  "style_notes": "A concise, informative style typical of an industry newsletter.",
+  "rewritten": true
+}

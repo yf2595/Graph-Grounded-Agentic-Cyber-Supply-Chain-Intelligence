@@ -1,0 +1,14 @@
+{
+  "article_id": "wave1b__pair_08__crit_Pacific__art_03",
+  "pair": 8,
+  "arm": "crit_Pacific",
+  "slot": 3,
+  "headline": "Ransomware Group Targets Automotive Supplier Pacific Engineering",
+  "body": "A ransomware group has targeted Pacific Engineering Corporation, demanding a ransom to prevent the release of stolen internal data. The attack has highlighted vulnerabilities in the automotive parts manufacturing sector. Pacific Engineering Corporation plays a crucial role in the automotive supply chain, providing components to numerous manufacturers. The company is currently focused on assessing the breach's impact and securing its systems. While the attack has caused some operational disruptions, there is no evidence of any impact on its clients or partners.",
+  "supplier_name": "Pacific Engineering Corporation",
+  "supplier_node_id": "ORG_9DB5337C4DD2",
+  "construction_regime": "independent-generation",
+  "wave": "wave1b_silent_critical_20260704_164732",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

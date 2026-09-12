@@ -1,0 +1,14 @@
+{
+  "article_id": "wave1b__pair_04__foil_KYB__art_03",
+  "pair": 4,
+  "arm": "foil_KYB",
+  "slot": 3,
+  "headline": "Ransomware Attack Targets KYB Mexico S.A. de C.V.",
+  "body": "KYB Mexico S.A. de C.V. has been targeted in a ransomware attack, resulting in the unauthorized access and theft of internal data. The incident highlights the growing threat of cyberattacks on critical suppliers within the automotive industry. As a key player in the automotive components sector, KYB Mexico S.A. de C.V. is integral to the supply chain, providing essential parts to various manufacturers. The company is currently collaborating with cybersecurity experts to determine the full extent of the breach and to implement enhanced security measures. The breach has not affected the company's ability to deliver products, and operations continue as usual while the investigation is underway.",
+  "supplier_name": "KYB Mexico S.A. de C.V.",
+  "supplier_node_id": "ORG_002DDFF6EEBA",
+  "construction_regime": "independent-generation",
+  "wave": "wave1b_silent_critical_20260704_164732",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

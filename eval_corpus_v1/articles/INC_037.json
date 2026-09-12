@@ -1,0 +1,31 @@
+{
+  "article_id": "INC_037",
+  "incident_id": "INC_037",
+  "headline": "Entity JK Tyre Contains Email Breach; Shipping Faces Minor Delays",
+  "body": "In an unexpected twist, India's prominent tire manufacturer, JK Tyre, navigated a business email breach that momentarily disrupted their order-entry and logistics systems. While operational flow experienced a hiccup, the problem was swiftly contained, avoiding severe disruptions like system encryption or widespread plant shutdowns. Customers might notice slight shipping lags, but the company reassures that all logistical kinks are being ironed out efficiently. No data appear compromised in this cyber episode.",
+  "supplier_names": [
+    "JK Tyre & Industries Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_05951CEBC2BB"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "redundant_high_reach",
+  "impact_level": "minor",
+  "seed_id": "seed_nichirin_2022",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "JK Tyre",
+    "India's prominent tire manufacturer"
+  ],
+  "canonical_supplier_names": [
+    "JK Tyre & Industries Ltd."
+  ],
+  "rewrite_style": "investigative_feature_lede",
+  "name_strategy": "ticker_or_market_shorthand",
+  "style_notes": "The voice conveys a subtle urgency with a calm, factual investigation tone.",
+  "rewritten": true
+}

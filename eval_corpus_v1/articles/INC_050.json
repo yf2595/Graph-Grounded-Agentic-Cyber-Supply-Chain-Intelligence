@@ -1,0 +1,33 @@
+{
+  "article_id": "INC_050",
+  "incident_id": "INC_050",
+  "headline": "Thai Steel Cable's IT Systems Face Ransomware Attack; Operations Unaffected",
+  "body": "In a recent cyber incident, Thai Steel Cable Public Co., Ltd. acknowledged an attack on its IT infrastructure by ransomware perpetrators who claim to have accessed sensitive files. Despite this breach, the company's manufacturing facilities are fully operational, and deliveries to customers remain uninterrupted. While investigations continue, the firm reaffirms its commitment to maintaining the integrity of its production processes.",
+  "supplier_names": [
+    "Thai Steel Cable Public Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_8A37369349B7"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "moderate_reach",
+  "impact_level": "none",
+  "seed_id": "seed_nexperia_2024",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Thai Steel Cable Public Co., Ltd."
+  ],
+  "canonical_supplier_names": [
+    "Thai Steel Cable Public Co., Ltd."
+  ],
+  "rewrite_style": "supply_chain_risk_note",
+  "name_strategy": "full_legal",
+  "style_notes": "The article maintains a factual and concise tone appropriate for industry professionals.",
+  "rewritten": true,
+  "group_id": "GRP_004",
+  "is_merge_variant": false,
+  "merge_seed_article_id": "INC_050"
+}

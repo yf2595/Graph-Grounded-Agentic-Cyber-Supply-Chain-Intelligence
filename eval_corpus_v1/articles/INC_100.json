@@ -1,0 +1,30 @@
+{
+  "article_id": "INC_100",
+  "incident_id": "INC_100",
+  "headline": "Severe Weather Forces Sumitomo Rubber's Changshu Unit Into Temporary Shutdown",
+  "body": "Torrential rains led to significant flooding at the Sumitomo Rubber (Changshu) factory, compelling a halt in operations to ensure personnel safety and to permit necessary maintenance work. The unexpected deluge caused substantial harm to both equipment and stockpiles within the premises. While the disruption was marked as severe due to the cease in production, company officials attributed the stop solely to adverse weather conditions, specifically ruling out any cyber-related causes. Efforts are underway to resume full functionality of this key manufacturing site.",
+  "supplier_names": [
+    "Sumitomo Rubber (Changshu) Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_57D048AE828C"
+  ],
+  "is_cyber": false,
+  "in_supply_chain": true,
+  "relevant": false,
+  "case_stratum": "in_graph_non_cyber",
+  "impact_level": "severe",
+  "seed_id": "seed_noncyber_flood",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Sumitomo Rubber's Changshu Unit"
+  ],
+  "canonical_supplier_names": [
+    "Sumitomo Rubber (Changshu) Co., Ltd."
+  ],
+  "rewrite_style": "supply_chain_risk_note",
+  "name_strategy": "ticker_or_market_shorthand",
+  "style_notes": "The tone maintains a professional and factual approach, providing clarity on impacts with focused detail.",
+  "rewritten": true
+}

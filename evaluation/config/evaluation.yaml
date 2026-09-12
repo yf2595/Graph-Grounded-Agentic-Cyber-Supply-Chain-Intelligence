@@ -1,0 +1,76 @@
+dataset:
+  corpus_dir: eval_corpus_v1
+  input_path: evaluation/data/inputs.jsonl
+  ground_truth_path: evaluation/data/ground_truth.jsonl
+  graph_dir: dataset
+
+risk_labels:
+  - VERY_LOW
+  - LOW
+  - MEDIUM
+  - HIGH
+  - VERY_HIGH
+
+methods:
+  - B0
+  - B1
+  - B2
+  - B3
+  - OURS
+  - A1
+  - A2
+  - A3
+  - A4
+
+llm:
+  model: gpt-5.4
+  temperature: 0.0
+  max_output_tokens: 2048
+
+bootstrap:
+  enabled: true
+  unit: group_id
+  n_resamples: 10000
+  confidence_level: 0.95
+  seed: 42
+
+latency:
+  include_report_generation: false
+
+entity_resolution:
+  config_path: config/entity_resolution.yaml
+
+merge:
+  config_path: config/merge_rules.yaml
+
+parallel:
+  # Article workers within a method. Merge-capable methods stay sequential unless
+  # unsafe_parallel_merge is true (merge metrics then become order-dependent).
+  article_workers: 4
+  # Run multiple methods concurrently (each method has its own repo/state).
+  method_workers: 1
+  unsafe_parallel_merge: false
+
+pricing:
+  gpt-5.4:
+    input_per_1m: 2.50
+    output_per_1m: 15.00
+  default:
+    input_per_1m: 2.50
+    output_per_1m: 15.00
+
+ttd:
+  enabled: false
+
+risk:
+  unknown_penalty: 4
+
+outputs:
+  save_jsonl: true
+  save_csv: true
+  save_markdown: true
+
+paths:
+  risk_rules: config/risk_rules.yaml
+  cyber_rules: evaluation/config/cyber_rules.yaml
+  results_dir: results

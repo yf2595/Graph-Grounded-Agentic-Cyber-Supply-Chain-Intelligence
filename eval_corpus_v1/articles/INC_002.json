@@ -1,0 +1,31 @@
+{
+  "article_id": "INC_002",
+  "incident_id": "INC_002",
+  "headline": "Ransomware Attack Forces HI-LEX to Suspend Operations at Key Manufacturing Sites",
+  "body": "Automotive parts provider HI-LEX Corp has halted activity at several major manufacturing facilities following a severe ransomware attack that compromised vital IT systems. The intrusion disrupted their execution and supply chain logistics, forcing production lines to cease temporarily. Experts in cybersecurity have been deployed to tackle the breach, but a timeline for resuming normal operations remains unclear. HI-LEX is working closely with external consultants to safeguard its infrastructure and mitigate further risks.",
+  "supplier_names": [
+    "HI-LEX Corporation"
+  ],
+  "supplier_node_ids": [
+    "ORG_2E141FFC8B0E"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "bottleneck_sole",
+  "impact_level": "severe",
+  "seed_id": "seed_tsmc_2018",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "HI-LEX Corp",
+    "HI-LEX"
+  ],
+  "canonical_supplier_names": [
+    "HI-LEX Corporation"
+  ],
+  "rewrite_style": "automotive_trade",
+  "name_strategy": "ticker_or_market_shorthand",
+  "style_notes": "A direct and factual tone typical of trade publications.",
+  "rewritten": true
+}

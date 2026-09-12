@@ -1,0 +1,31 @@
+{
+  "article_id": "INC_094",
+  "incident_id": "INC_094",
+  "headline": "MRF Ltd. Takes Restructuring Step Amid Financial Strain from Rising Costs",
+  "body": "Facing financial strain from escalating input costs, MRF Ltd. has initiated court-supervised restructuring to stabilize operations. While dealing with cash-flow pressures, the company aims to maintain production on select lines through creditor agreements. This measured approach avoids significant disruptions, ensuring only minor slowdowns in administrative IT functions and brief shipping delays. Notably, there are no indications of a cyberattack affecting the supply chain.",
+  "supplier_names": [
+    "MRF Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_2964A139C147"
+  ],
+  "is_cyber": false,
+  "in_supply_chain": true,
+  "relevant": false,
+  "case_stratum": "in_graph_non_cyber",
+  "impact_level": "minor",
+  "seed_id": "seed_noncyber_bankruptcy",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "MRF Ltd.",
+    "MRF"
+  ],
+  "canonical_supplier_names": [
+    "MRF Ltd."
+  ],
+  "rewrite_style": "security_trade_blog",
+  "name_strategy": "mixed_first_mention_full_then_short",
+  "style_notes": "Professional tone with a focus on factual clarity and subtle financial context.",
+  "rewritten": true
+}

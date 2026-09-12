@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_04__crit_Saga__art_01",
+  "pair": 4,
+  "arm": "crit_Saga",
+  "slot": 1,
+  "headline": "Saga Tekkohsho Co., Ltd. Confirms Data Breach, Internal Records Compromised",
+  "body": "Saga Tekkohsho Co., Ltd., a prominent automotive components supplier, has confirmed a data breach involving the theft of a significant volume of internal data. Attackers reportedly accessed quality-control and project records. Despite the breach, Saga Tekkohsho Co., Ltd. assured that its production operations remain unaffected. The company has engaged external cybersecurity experts to investigate the incident and has notified relevant authorities. Further details on the breach's impact are yet to be disclosed.",
+  "supplier_name": "Saga Tekkohsho Co., Ltd.",
+  "supplier_node_id": "ORG_F70CA1B3A14A",
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

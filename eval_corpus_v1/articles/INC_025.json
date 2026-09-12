@@ -1,0 +1,30 @@
+{
+  "article_id": "INC_025",
+  "incident_id": "INC_025",
+  "headline": "HZ Automotive Wire Contains Email Breach, Manages Minor Shipping Delays",
+  "body": "HZ Automotive Wire managed an email security breach that briefly disrupted their order communication system. While the intrusion affected order processing and shipment alerts, no critical manufacturing systems experienced encryption. The firm anticipates only minor delays in logistics and assures that plant operations remain largely unaffected.",
+  "supplier_names": [
+    "Huizhou Zhurun Automotive Wire Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_F3E71C1AF5E3"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "critical_part_sole",
+  "impact_level": "minor",
+  "seed_id": "seed_foxsemicon_2024",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "HZ Automotive Wire"
+  ],
+  "canonical_supplier_names": [
+    "Huizhou Zhurun Automotive Wire Co., Ltd."
+  ],
+  "rewrite_style": "corporate_press_paraphrase",
+  "name_strategy": "initialism_or_acronym",
+  "style_notes": "The rewrite adopts a formal tone typical of corporate press releases.",
+  "rewritten": true
+}

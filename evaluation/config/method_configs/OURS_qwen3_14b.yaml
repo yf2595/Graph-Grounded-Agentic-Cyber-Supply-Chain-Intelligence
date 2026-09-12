@@ -1,0 +1,7 @@
+# Local OURS — Qwen3-14B (method_id OURS_QWEN3_14B)
+model: qwen3-14b
+temperature: 0.0
+reasoning_effort: low
+base_url: http://127.0.0.1:8000/v1
+api_key: EMPTY
+include_report: false

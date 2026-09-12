@@ -1,0 +1,14 @@
+{
+  "article_id": "wave3__pair_13__foil_Enkei__art_03",
+  "pair": 13,
+  "arm": "foil_Enkei",
+  "slot": 3,
+  "headline": "Cybersecurity Incident at Enkei Corporation Highlights Industry Risks",
+  "body": "Enkei Corporation, a supplier in the automotive industry, has been hit by a ransomware attack, disrupting its production control systems. This incident highlights the growing cybersecurity risks faced by industrial sectors reliant on automated systems. Enkei Corporation is currently working with cybersecurity experts to address the breach and restore normal operations. The attack has forced Enkei to switch to manual processes temporarily, but the company is confident in its ability to manage the situation without affecting its customers. This incident serves as a reminder of the importance of robust cybersecurity measures in safeguarding critical infrastructure.",
+  "supplier_name": "Enkei Corporation",
+  "supplier_node_id": "ORG_2D34A53963E5",
+  "construction_regime": "independent-generation",
+  "wave": "wave3_silent_critical_20260705_085153",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

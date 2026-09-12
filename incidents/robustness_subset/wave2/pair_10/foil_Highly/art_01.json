@@ -1,0 +1,14 @@
+{
+  "article_id": "wave2__pair_10__foil_Highly__art_01",
+  "pair": 10,
+  "arm": "foil_Highly",
+  "slot": 1,
+  "headline": "Highly Marelli Japan Corporation Confirms Ransomware Attack",
+  "body": "Highly Marelli Japan Corporation, a key player in the automotive components sector, has confirmed a ransomware attack on its systems. The company disclosed that attackers claimed to have stolen proprietary internal data. While the breach involved unauthorized access and data exfiltration, there was no reported disruption to production operations. Highly Marelli Japan Corporation is a significant supplier in the automotive industry, providing essential components to various manufacturers. Despite the confirmed data theft, the company reassured stakeholders that its production lines remain unaffected. The incident highlights the ongoing cybersecurity challenges faced by the automotive supply chain. In response to the attack, Highly Marelli Japan Corporation is collaborating with external cybersecurity experts to investigate the breach thoroughly. The company is committed to enhancing its security measures to prevent future incidents and protect its valuable data assets.",
+  "supplier_name": "Highly Marelli Japan Corporation",
+  "supplier_node_id": "ORG_20F72E03895A",
+  "construction_regime": "independent-generation",
+  "wave": "wave2_silent_critical_20260704_183621",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

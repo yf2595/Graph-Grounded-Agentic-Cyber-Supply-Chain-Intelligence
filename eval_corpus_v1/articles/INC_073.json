@@ -1,0 +1,29 @@
+{
+  "article_id": "INC_073",
+  "incident_id": "INC_073",
+  "headline": "Cyber Breach at Midwest Forge Leaves Production Unscathed",
+  "body": "Midwest Forge & Fastener LLC, a key supplier in the automotive sector, reported a data breach involving its IT systems. The company confirmed that no disruptions occurred to their plant operations or customer deliveries. Despite claims by a ransomware group of having accessed sensitive internal files, the firm's production lines across its Midwest facilities are operating normally. Stakeholders have been assured that immediate actions were taken to secure and restore affected systems.",
+  "supplier_names": [
+    "Midwest Forge & Fastener LLC"
+  ],
+  "supplier_node_ids": [],
+  "is_cyber": true,
+  "in_supply_chain": false,
+  "relevant": false,
+  "case_stratum": "off_graph_cyber",
+  "impact_level": "none",
+  "seed_id": "seed_maxlinear_2020",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Midwest Forge & Fastener LLC",
+    "Midwest Forge"
+  ],
+  "canonical_supplier_names": [
+    "Midwest Forge & Fastener LLC"
+  ],
+  "rewrite_style": "local_business_journal",
+  "name_strategy": "mixed_first_mention_full_then_short",
+  "style_notes": "The article captures the straightforward and informative tone typical of a local business journal.",
+  "rewritten": true
+}

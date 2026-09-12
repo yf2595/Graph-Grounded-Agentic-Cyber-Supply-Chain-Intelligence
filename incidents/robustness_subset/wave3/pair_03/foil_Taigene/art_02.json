@@ -1,0 +1,14 @@
+{
+  "article_id": "wave3__pair_03__foil_Taigene__art_02",
+  "pair": 3,
+  "arm": "foil_Taigene",
+  "slot": 2,
+  "headline": "Production Halt at Taigene Electric Machinery Co., Ltd. Due to Cyberattack",
+  "body": "A recent cyberattack on Taigene Electric Machinery Co., Ltd. has led to a temporary halt in production and order-processing systems. The ransomware attack forced the company to isolate its servers as a precautionary measure. Taigene Electric Machinery Co., Ltd. plays a crucial role in the automotive supply chain, providing key components to manufacturers worldwide. Despite the current disruption, the company is taking steps to restore operations swiftly. The incident response team at Taigene is working diligently to secure the company's infrastructure and resume normal business activities. While the attack has caused operational challenges, Taigene has not reported any significant impact on its downstream partners.",
+  "supplier_name": "Taigene Electric Machinery Co., Ltd.",
+  "supplier_node_id": "ORG_E4069CC45AA6",
+  "construction_regime": "independent-generation",
+  "wave": "wave3_silent_critical_20260705_085153",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

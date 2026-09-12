@@ -1,0 +1,31 @@
+{
+  "article_id": "INC_047",
+  "incident_id": "INC_047",
+  "headline": "THK Rhythm (Thailand) Sidesteps Major Disruptions After Email Breach",
+  "body": "An attempted cyber infiltration targeting THK Rhythm (Thailand) led to minor disruptions in its shipping and order-entry systems. The company, known for its precision components manufacturing, quickly identified a business email compromise. While some logistics were momentarily impacted, no production systems were affected, and operations continue at near-normal levels. Local management assured stakeholders that preventative measures are underway to fortify digital channels and prevent future incidents.",
+  "supplier_names": [
+    "THK Rhythm (Thailand) Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_A0591C35434B"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "moderate_reach",
+  "impact_level": "minor",
+  "seed_id": "seed_hoya_2024",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "THK Rhythm (Thailand)",
+    "company"
+  ],
+  "canonical_supplier_names": [
+    "THK Rhythm (Thailand) Co., Ltd."
+  ],
+  "rewrite_style": "investigative_feature_lede",
+  "name_strategy": "former_name_parenthetical",
+  "style_notes": "The piece adopts an investigative tone with a focus on swift corporate response and operational resilience.",
+  "rewritten": true
+}

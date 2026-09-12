@@ -1,0 +1,34 @@
+{
+  "article_id": "INC_107",
+  "incident_id": "INC_107",
+  "headline": "Magna International Faces Major Disruption After Cybersecurity Breach",
+  "body": "Magna International, a leading supplier in the automotive industry, has halted operations at several of its plants due to a cyber intrusion that disrupted factory network systems. Efforts are underway by the company to fully restore operations progressively. Although there has been no public mention of a ransomware demand, this incident represents a significant operational setback for Magna. The shutdown may have ramifications for supply chains in the auto sector, highlighting an increasing concern over cybersecurity threats within industrial environments.",
+  "supplier_names": [
+    "Magna International Inc."
+  ],
+  "supplier_node_ids": [
+    "ORG_438043E78D82"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "low_reach",
+  "impact_level": "severe",
+  "seed_id": "seed_abb_2023",
+  "group_id": "GRP_003",
+  "is_merge_variant": true,
+  "merge_seed_article_id": "INC_051",
+  "surface_supplier_names": [
+    "Magna",
+    "MGA"
+  ],
+  "canonical_supplier_names": [
+    "Magna International Inc."
+  ],
+  "rewrite_style": "short_ap_brief",
+  "name_strategy": "merge_variant",
+  "style_notes": "Short and concise AP-style brief with rephrased structure; focuses on the severe impact while maintaining essential details.",
+  "rewritten": true,
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced."
+}

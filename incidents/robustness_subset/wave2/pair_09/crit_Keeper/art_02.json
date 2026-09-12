@@ -1,0 +1,14 @@
+{
+  "article_id": "wave2__pair_09__crit_Keeper__art_02",
+  "pair": 9,
+  "arm": "crit_Keeper",
+  "slot": 2,
+  "headline": "Operational Delays at Keeper Co., Ltd. Following Cyber Attack",
+  "body": "Keeper Co., Ltd. is currently grappling with operational delays after a ransomware attack targeted its systems. The incident has led to a halt in several internal projects as the company works to restore its compromised infrastructure. Known for its pivotal role in the automotive manufacturing sector, Keeper Co., Ltd. has been swift in engaging cybersecurity experts to mitigate the impact of the attack. The company, which boasts a significant presence in the industry, is actively working to bring its systems back online and resume normal operations. Despite the challenges, Keeper Co., Ltd. remains committed to maintaining its reputation for reliability and quality in the automotive parts market.",
+  "supplier_name": "Keeper Co., Ltd.",
+  "supplier_node_id": "ORG_771DD0751F53",
+  "construction_regime": "independent-generation",
+  "wave": "wave2_silent_critical_20260704_183621",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

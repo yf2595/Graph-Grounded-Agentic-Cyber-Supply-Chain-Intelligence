@@ -1,0 +1,14 @@
+{
+  "article_id": "wave2__pair_09__foil_NSK__art_05",
+  "pair": 9,
+  "arm": "foil_NSK",
+  "slot": 5,
+  "headline": "Data Theft Confirmed in NSK Steering Systems Co., Ltd. Ransomware Attack",
+  "body": "NSK Steering Systems Co., Ltd. has confirmed that a ransomware attack on its systems resulted in data theft. The company is currently assessing the extent of the breach and working with cybersecurity experts to mitigate the impact. As a major supplier in the automotive components industry, NSK Steering Systems is committed to transparency and security. The confirmation of data theft adds a layer of complexity to the ongoing recovery efforts. The company is focused on strengthening its cybersecurity defenses to prevent future incidents and protect sensitive information. The attack serves as a reminder of the persistent threats faced by companies in the digital age. NSK Steering Systems is taking decisive steps to address the breach and ensure the integrity of its operations moving forward.",
+  "supplier_name": "NSK Steering Systems Co., Ltd.",
+  "supplier_node_id": "ORG_3F240FFD1AAB",
+  "construction_regime": "independent-generation",
+  "wave": "wave2_silent_critical_20260704_183621",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

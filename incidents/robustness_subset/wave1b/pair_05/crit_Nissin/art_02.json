@@ -1,0 +1,14 @@
+{
+  "article_id": "wave1b__pair_05__crit_Nissin__art_02",
+  "pair": 5,
+  "arm": "crit_Nissin",
+  "slot": 2,
+  "headline": "Operational Setback at Nissin Manufacturing Group Due to Cyber Attack",
+  "body": "Nissin Manufacturing Group Co., Ltd. has experienced a significant operational setback following a ransomware attack. The incident has forced the company to operate below its usual production capacity, affecting its ability to fulfill orders efficiently. As a major supplier in the automotive industry, Nissin Manufacturing Group plays a crucial role in the supply chain. The company has engaged cybersecurity experts to assist in system recovery and ensure that operations return to normal as soon as possible. This event highlights the increasing vulnerability of industrial sectors to cyber threats and the importance of implementing comprehensive security strategies. The company is taking all necessary steps to address the breach and minimize its impact on business operations. Stakeholders have been informed, and Nissin Manufacturing Group is committed to maintaining transparency throughout the recovery process.",
+  "supplier_name": "Nissin Manufacturing Group Co., Ltd. (Formerly Nissin Manufacturing Co., Ltd.)",
+  "supplier_node_id": "ORG_67659D83499E",
+  "construction_regime": "independent-generation",
+  "wave": "wave1b_silent_critical_20260704_164732",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

@@ -1,0 +1,30 @@
+{
+  "article_id": "INC_034",
+  "incident_id": "INC_034",
+  "headline": "Ransomware Strikes Shanghai Michelin Tire Co., Ltd. Causing Major Plant Halts",
+  "body": "S.M. Tire, a key player in the automotive tire industry, has confirmed a major ransomware attack that significantly impacted their operations. The intrusion led to serious disruptions at their manufacturing facilities, particularly affecting the IT and industrial control systems. As a result, production at various plants was severely hampered with key systems going offline. While the company is in the process of recovering their operations gradually, concerns over potential data theft loom large as sensitive business documents may have been extracted by the attackers. Efforts are underway by their crisis management teams to restore functionality while safeguarding their networks against further threats.",
+  "supplier_names": [
+    "Shanghai Michelin Tire Co., Ltd. (Formerly Shanghai Michelin Warrior Tire Co., Ltd.)"
+  ],
+  "supplier_node_ids": [
+    "ORG_B13DEA01828A"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "redundant_high_reach",
+  "impact_level": "severe",
+  "seed_id": "seed_tsmc_2018",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "S.M. Tire"
+  ],
+  "canonical_supplier_names": [
+    "Shanghai Michelin Tire Co., Ltd. (Formerly Shanghai Michelin Warrior Tire Co., Ltd.)"
+  ],
+  "rewrite_style": "security_trade_blog",
+  "name_strategy": "short_brand",
+  "style_notes": "The voice used is concise, factual with an urgency befitting a cybersecurity breach report.",
+  "rewritten": true
+}

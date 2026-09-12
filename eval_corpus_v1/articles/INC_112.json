@@ -1,0 +1,33 @@
+{
+  "article_id": "INC_112",
+  "incident_id": "INC_112",
+  "headline": "Cyberattack Cripples Production at AGVSS with Major Operational Impact",
+  "body": "Autoliv Guangzhou Vehicle Safety Systems Co., Ltd. (AGVSS) announced it has suffered a significant disruption due to a ransomware assault on its digital infrastructure and factory systems. Several production lines at the Guangzhou site have been temporarily suspended as a result. The cybersecurity team is making efforts to restore normal operations, amid concerns that crucial business documents might have been compromised. Security measures are being enhanced to ensure a swift recovery of the affected systems.",
+  "supplier_names": [
+    "Autoliv (Guangzhou) Vehicle Safety Systems Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_D5606B1DEB9E"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "critical_part_sole",
+  "impact_level": "severe",
+  "seed_id": "seed_abb_2023",
+  "group_id": "GRP_008",
+  "is_merge_variant": true,
+  "merge_seed_article_id": "INC_018",
+  "surface_supplier_names": [
+    "AGVSS"
+  ],
+  "canonical_supplier_names": [
+    "Autoliv (Guangzhou) Vehicle Safety Systems Co., Ltd."
+  ],
+  "rewrite_style": "short_ap_brief",
+  "name_strategy": "merge_variant",
+  "style_notes": "The rewritten article retains essential details about the cyber incident's impact on AGVSS, rephrased succinctly in an AP-style brief.",
+  "rewritten": true,
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced."
+}

@@ -1,0 +1,33 @@
+{
+  "article_id": "INC_039",
+  "incident_id": "INC_039",
+  "headline": "Toyo Denso Co., Ltd. Halts Production After Malware Attack Hits Factory Networks",
+  "body": "A recent malware attack has forced Toyo Denso Co., Ltd., a key player in the automotive component industry, to temporarily cease operations in multiple factories. The intrusion impacted critical manufacturing systems, compelling the company to initiate thorough system reconstructions. Although no ransom demands have been revealed, the firm is executing phased reactivation plans for its plants. Industry experts note the severe disruption, highlighting vulnerabilities in network security within manufacturing environments.",
+  "supplier_names": [
+    "Toyo Denso Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_8B095D4F2D7D"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "moderate_reach",
+  "impact_level": "severe",
+  "seed_id": "seed_tsmc_2018",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Toyo Denso Co., Ltd."
+  ],
+  "canonical_supplier_names": [
+    "Toyo Denso Co., Ltd."
+  ],
+  "rewrite_style": "japanese_english_wire",
+  "name_strategy": "initialism_or_acronym",
+  "style_notes": "The article balances formality with technical clarity, reflecting Japanese-English business reporting.",
+  "rewritten": true,
+  "group_id": "GRP_016",
+  "is_merge_variant": false,
+  "merge_seed_article_id": "INC_039"
+}

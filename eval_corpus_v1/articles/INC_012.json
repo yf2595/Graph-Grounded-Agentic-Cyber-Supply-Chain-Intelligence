@@ -1,0 +1,34 @@
+{
+  "article_id": "INC_012",
+  "incident_id": "INC_012",
+  "headline": "Ransomware Attack Hits Foshan Fengfu Auto Parts, Minor Shipping Delays Anticipated",
+  "body": "In a recent cybersecurity incident, Foshan Fengfu Auto Parts Co., Ltd. (Foshan Fengfu) experienced a ransomware attack targeting their office and scheduling systems. The company swiftly implemented manual procedures to maintain operations in their core machining areas. Although initially disrupted, the firm expects minimal impact on shipping schedules, with only minor delivery delays projected. Precautionary notifications have been sent to customer plants to keep them informed of the situation.",
+  "supplier_names": [
+    "Foshan Fengfu Auto Parts Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_36C94316CE5A"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "bottleneck_sole",
+  "impact_level": "minor",
+  "seed_id": "seed_hoya_2024",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Foshan Fengfu Auto Parts Co., Ltd.",
+    "Foshan Fengfu"
+  ],
+  "canonical_supplier_names": [
+    "Foshan Fengfu Auto Parts Co., Ltd."
+  ],
+  "rewrite_style": "automotive_trade",
+  "name_strategy": "former_name_parenthetical",
+  "style_notes": "The writing employs an authoritative and concise tone typical of automotive trade publications.",
+  "rewritten": true,
+  "group_id": "GRP_013",
+  "is_merge_variant": false,
+  "merge_seed_article_id": "INC_012"
+}

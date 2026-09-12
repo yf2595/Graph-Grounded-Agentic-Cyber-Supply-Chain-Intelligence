@@ -1,0 +1,30 @@
+{
+  "article_id": "INC_014",
+  "incident_id": "INC_014",
+  "headline": "Breach Unveiled as Cyber Group Targets Nissin Manufacturing Systems",
+  "body": "Internal documents from Nissin Manufacturing Group Co., Ltd. have reportedly been compromised by a ransomware collective. While the intrusion targeted corporate networks, NMG confirmed that operations at their manufacturing sites remain unaffected, ensuring that all customer deliveries proceed uninterrupted. The incident underscores the relentless nature of cyber threats facing the automotive supply chain.",
+  "supplier_names": [
+    "Nissin Manufacturing Group Co., Ltd. (Formerly Nissin Manufacturing Co., Ltd.)"
+  ],
+  "supplier_node_ids": [
+    "ORG_67659D83499E"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "bottleneck_sole",
+  "impact_level": "none",
+  "seed_id": "seed_synthetic_exfil_none",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "NMG"
+  ],
+  "canonical_supplier_names": [
+    "Nissin Manufacturing Group Co., Ltd. (Formerly Nissin Manufacturing Co., Ltd.)"
+  ],
+  "rewrite_style": "security_trade_blog",
+  "name_strategy": "initialism_or_acronym",
+  "style_notes": "Uses concise, urgent language typical of security-focused reports.",
+  "rewritten": true
+}

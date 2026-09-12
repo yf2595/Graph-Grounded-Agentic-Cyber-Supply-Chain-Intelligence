@@ -1,0 +1,14 @@
+{
+  "article_id": "wave3__pair_02__foil_Ichikoh__art_03",
+  "pair": 2,
+  "arm": "foil_Ichikoh",
+  "slot": 3,
+  "headline": "Ichikoh Industries, Ltd. Hit by Ransomware, No Customer Impact Reported",
+  "body": "In a recent cybersecurity incident, Ichikoh Industries, Ltd. experienced a ransomware attack that led to a temporary shutdown of its IT systems and production lines. The company is actively working to resolve the situation and restore operations. Ichikoh Industries, Ltd. is a well-established supplier in the automotive components industry, providing essential lighting and mirror products to major vehicle manufacturers worldwide. The company's commitment to quality and innovation has made it a trusted partner in the automotive supply chain. Despite the operational challenges posed by the attack, Ichikoh Industries has assured stakeholders that there has been no impact on customer data or downstream operations. The company continues to prioritize the restoration of its systems and the implementation of robust security measures to safeguard against future threats.",
+  "supplier_name": "Ichikoh Industries, Ltd.",
+  "supplier_node_id": "ORG_776A68B696CE",
+  "construction_regime": "independent-generation",
+  "wave": "wave3_silent_critical_20260705_085153",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

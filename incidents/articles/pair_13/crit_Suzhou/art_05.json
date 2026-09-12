@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_13__crit_Suzhou__art_05",
+  "pair": 13,
+  "arm": "crit_Suzhou",
+  "slot": 5,
+  "headline": "Suzhou Nichirin Automobile Parts Co., Ltd. Files Report on Ransomware Incident",
+  "body": "In a recent regulatory filing, Suzhou Nichirin Automobile Parts Co., Ltd. disclosed details of a ransomware attack that affected its production control systems. The automotive components supplier reported that it has shifted to manual operations while other units remain unaffected. The filing also mentioned Suzhou Nichirin Automobile Parts Co., Ltd.'s efforts to warn contacts about potential fraudulent messages. The company has engaged incident response teams to address the situation and is working towards restoring its automated systems.",
+  "supplier_name": "Suzhou Nichirin Automobile Parts Co., Ltd.",
+  "supplier_node_id": "ORG_0B755124417E",
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

@@ -1,0 +1,31 @@
+{
+  "article_id": "INC_042",
+  "incident_id": "INC_042",
+  "headline": "Nifco Faces Major Disruption After Ransomware Paralyzes Plant Operations",
+  "body": "Nifco Inc., a leader in automotive parts manufacturing, is grappling with a serious ransomware attack that has immobilized its critical production and logistics systems. The incident forced a complete standstill at several facilities, as technicians work with external cybersecurity experts to regain control of the impacted networks. While Nifco engages with top-notch specialists to remediate the attack, the company has not yet disclosed when it expects operations to resume fully. The disruption underscores the growing vulnerability of industrial sectors to cyber threats.",
+  "supplier_names": [
+    "Nifco Inc."
+  ],
+  "supplier_node_ids": [
+    "ORG_07E9FF713FBA"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "moderate_reach",
+  "impact_level": "severe",
+  "seed_id": "seed_abb_2023",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Nifco Inc.",
+    "Nifco"
+  ],
+  "canonical_supplier_names": [
+    "Nifco Inc."
+  ],
+  "rewrite_style": "automotive_trade",
+  "name_strategy": "city_plant_unit_of_parent",
+  "style_notes": "The article uses an analytical and industry-focused tone typical of trade publications.",
+  "rewritten": true
+}

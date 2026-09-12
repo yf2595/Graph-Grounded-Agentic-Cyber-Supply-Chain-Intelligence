@@ -1,0 +1,30 @@
+{
+  "article_id": "INC_096",
+  "incident_id": "INC_096",
+  "headline": "Strike Halts Operations at Hankook Tire Plant in Tennessee, Threatens Supply Chain",
+  "body": "A labor strike erupted at the Hankook Tire Manufacturing Tennessee, LP plant in Clarksville, leading to a suspension of component shipments. The shutdown has prompted discussions between management and union leaders as they strive to resolve the dispute. Customers have been alerted to anticipate potential shortages as operations remain on hold. The impact is significant, with production at a standstill and no clear timeline for resumption.",
+  "supplier_names": [
+    "Hankook Tire Manufacturing Tennessee, LP"
+  ],
+  "supplier_node_ids": [
+    "ORG_34CB81AA24E6"
+  ],
+  "is_cyber": false,
+  "in_supply_chain": true,
+  "relevant": false,
+  "case_stratum": "in_graph_non_cyber",
+  "impact_level": "severe",
+  "seed_id": "seed_noncyber_strike",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Hankook Tire Manufacturing Tennessee, LP"
+  ],
+  "canonical_supplier_names": [
+    "Hankook Tire Manufacturing Tennessee, LP"
+  ],
+  "rewrite_style": "short_ap_brief",
+  "name_strategy": "former_name_parenthetical",
+  "style_notes": "Utilizes a concise AP-style approach with varied sentence structure.",
+  "rewritten": true
+}

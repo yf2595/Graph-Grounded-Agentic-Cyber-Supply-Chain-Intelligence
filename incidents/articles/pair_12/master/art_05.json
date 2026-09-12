@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_12__master__art_05",
+  "pair": 12,
+  "arm": "master",
+  "slot": 5,
+  "headline": "PLACEHOLDERCO Details Cyber Incident in Regulatory Filing",
+  "body": "In a recent regulatory filing, PLACEHOLDERCO provided details of a cybersecurity incident that temporarily halted operations. The automotive components supplier reported that a malware infection spread during a routine tool installation, affecting thousands of machines. The company has since restored its systems and resumed production. PLACEHOLDERCO estimates a modest single-digit-percentage impact on revenue and has engaged incident response teams to strengthen its cybersecurity posture.",
+  "supplier_name": "PLACEHOLDERCO",
+  "supplier_node_id": null,
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

@@ -1,0 +1,14 @@
+{
+  "article_id": "wave2__pair_09__foil_NSK__art_01",
+  "pair": 9,
+  "arm": "foil_NSK",
+  "slot": 1,
+  "headline": "NSK Steering Systems Co., Ltd. Faces Ransomware Attack",
+  "body": "NSK Steering Systems Co., Ltd., a key player in the automotive components sector, has recently been targeted by a ransomware attack. The attack compromised the company's Windows domain infrastructure, affecting hundreds of devices and causing significant disruption to its operations. NSK Steering Systems Co., Ltd. is known for its contributions to the automotive industry, providing essential components for vehicle steering systems. The company operates globally, serving a wide range of automotive manufacturers. Despite the attack, NSK Steering Systems has assured stakeholders that they are actively working to restore affected systems and minimize operational delays. The incident, which occurred in 2024, highlights the ongoing challenges faced by companies in safeguarding their digital infrastructure against cyber threats. NSK Steering Systems has engaged cybersecurity experts to assist in the recovery process, emphasizing their commitment to maintaining operational integrity.",
+  "supplier_name": "NSK Steering Systems Co., Ltd.",
+  "supplier_node_id": "ORG_3F240FFD1AAB",
+  "construction_regime": "independent-generation",
+  "wave": "wave2_silent_critical_20260704_183621",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

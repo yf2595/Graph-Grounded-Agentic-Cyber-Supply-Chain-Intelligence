@@ -1,0 +1,33 @@
+{
+  "article_id": "INC_108",
+  "incident_id": "INC_108",
+  "headline": "Thai Steel Cable Reports Cyber Breach; Operations Stay Smooth",
+  "body": "Thai Steel Cable PLC has revealed it recently experienced a cyber breach involving ransomware attackers who claim to have accessed confidential company data. Despite the infiltration, the company's production activities and customer deliveries have not been affected. The organization has initiated an investigation to address the cybersecurity issue and is dedicated to safeguarding its manufacturing processes.",
+  "supplier_names": [
+    "Thai Steel Cable Public Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_8A37369349B7"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "moderate_reach",
+  "impact_level": "none",
+  "seed_id": "seed_nexperia_2024",
+  "group_id": "GRP_004",
+  "is_merge_variant": true,
+  "merge_seed_article_id": "INC_050",
+  "surface_supplier_names": [
+    "Thai Steel Cable PLC"
+  ],
+  "canonical_supplier_names": [
+    "Thai Steel Cable Public Co., Ltd."
+  ],
+  "rewrite_style": "reuters_wire",
+  "name_strategy": "merge_variant",
+  "style_notes": "This restructured article maintains a neutral and concise tone typical of Reuters, emphasizing the unaffected nature of Thai Steel Cable's operations despite the cyber incident.",
+  "rewritten": true,
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced."
+}

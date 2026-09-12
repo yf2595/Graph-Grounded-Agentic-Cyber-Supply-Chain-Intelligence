@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_10__master__art_02",
+  "pair": 10,
+  "arm": "master",
+  "slot": 2,
+  "headline": "PLACEHOLDERCO Engages Experts After Data Breach",
+  "body": "Following a ransomware attack that resulted in the theft of proprietary information, PLACEHOLDERCO is working with external cybersecurity experts to investigate the breach. The automotive components supplier confirmed unauthorized access to its systems but assured that its production operations were not disrupted. The company is focused on understanding the full scope of the incident and implementing measures to prevent future occurrences.",
+  "supplier_name": "PLACEHOLDERCO",
+  "supplier_node_id": null,
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

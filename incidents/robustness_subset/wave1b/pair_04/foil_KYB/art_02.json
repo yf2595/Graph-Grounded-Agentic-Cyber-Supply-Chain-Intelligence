@@ -1,0 +1,14 @@
+{
+  "article_id": "wave1b__pair_04__foil_KYB__art_02",
+  "pair": 4,
+  "arm": "foil_KYB",
+  "slot": 2,
+  "headline": "KYB Mexico S.A. de C.V. Under Cybersecurity Investigation Post-Attack",
+  "body": "Following a recent ransomware attack, KYB Mexico S.A. de C.V. is under intense scrutiny as cybersecurity experts work to unravel the complexities of the breach. The attack, which led to a significant data exfiltration, has prompted the company to engage with external specialists to ensure a thorough investigation. KYB Mexico S.A. de C.V. plays a vital role in the automotive supply chain, known for its robust manufacturing capabilities. The company has assured stakeholders that it is taking all necessary measures to safeguard its operations and prevent any recurrence of such incidents. Regulatory bodies have been informed, and the company is committed to transparency throughout the investigation process. No specific customer impact has been disclosed at this stage.",
+  "supplier_name": "KYB Mexico S.A. de C.V.",
+  "supplier_node_id": "ORG_002DDFF6EEBA",
+  "construction_regime": "independent-generation",
+  "wave": "wave1b_silent_critical_20260704_164732",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

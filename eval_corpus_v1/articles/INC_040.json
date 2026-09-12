@@ -1,0 +1,34 @@
+{
+  "article_id": "INC_040",
+  "incident_id": "INC_040",
+  "headline": "Fukoku Factory Shutdown Due to Malware Incident Disrupts Production Operations",
+  "body": "A severe malware infection has led to the temporary closure of several production lines at Fukoku Co., Ltd. (fukoku). Following a comprehensive network breach, critical systems have been taken offline for detailed inspection and recovery efforts. The firm has initiated protocols to rebuild impacted infrastructure and anticipates a phased return to full operations. While specifics on ransom demands remain undisclosed, the precautionary shutdown underscores the significant impact on its manufacturing capabilities.",
+  "supplier_names": [
+    "Fukoku Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_2B77380C22D9"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "moderate_reach",
+  "impact_level": "severe",
+  "seed_id": "seed_hoya_2024",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Fukoku Co., Ltd.",
+    "fukoku"
+  ],
+  "canonical_supplier_names": [
+    "Fukoku Co., Ltd."
+  ],
+  "rewrite_style": "supply_chain_risk_note",
+  "name_strategy": "former_name_parenthetical",
+  "style_notes": "A fact-driven tone highlighting operational disruption and recovery measures.",
+  "rewritten": true,
+  "group_id": "GRP_022",
+  "is_merge_variant": false,
+  "merge_seed_article_id": "INC_040"
+}

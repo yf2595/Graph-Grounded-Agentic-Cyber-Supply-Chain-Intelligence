@@ -1,0 +1,30 @@
+{
+  "article_id": "INC_020",
+  "incident_id": "INC_020",
+  "headline": "Production at Dongfeng Honda Engine Impacted by Severe Ransomware Incident",
+  "body": "A severe ransomware attack hit Dongfeng Honda Engine Co., Ltd., disrupting their plant operations. Key manufacturing systems, including execution and logistics software, have been encrypted, halting production at the site. While cybersecurity experts are working on recovery efforts, no clear timeline for resuming full operations has been issued. The company, a vital player in automotive engine supply, has engaged third-party specialists for system restoration.",
+  "supplier_names": [
+    "Dongfeng Honda Engine Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_38D0A99A8E50"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "critical_part_sole",
+  "impact_level": "severe",
+  "seed_id": "seed_lacroix_2023",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Dongfeng Honda Engine"
+  ],
+  "canonical_supplier_names": [
+    "Dongfeng Honda Engine Co., Ltd."
+  ],
+  "rewrite_style": "supply_chain_risk_note",
+  "name_strategy": "short_brand",
+  "style_notes": "The article uses a direct and factual tone with urgent and impactful language.",
+  "rewritten": true
+}

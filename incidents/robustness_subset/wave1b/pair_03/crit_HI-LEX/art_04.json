@@ -1,0 +1,14 @@
+{
+  "article_id": "wave1b__pair_03__crit_HI-LEX__art_04",
+  "pair": 3,
+  "arm": "crit_HI-LEX",
+  "slot": 4,
+  "headline": "HI-LEX Corporation Hit by Ransomware, Attackers Demand Ransom",
+  "body": "In a recent cyber attack, HI-LEX Corporation, a major supplier in the automotive components industry, has been hit by ransomware. The attackers have demanded a multi-million-dollar ransom, claiming to have extracted sensitive internal data. HI-LEX Corporation is a significant entity in the automotive supply chain, providing essential components that ensure the smooth operation of vehicle manufacturing processes. The company's reputation as a reliable supplier is well-established within the industry. The company is currently assessing the full extent of the data breach and is working with cybersecurity specialists to address the situation. While the ransom demand poses a challenge, HI-LEX Corporation is prioritizing the security of its data and the continuity of its operations.",
+  "supplier_name": "HI-LEX Corporation",
+  "supplier_node_id": "ORG_2E141FFC8B0E",
+  "construction_regime": "independent-generation",
+  "wave": "wave1b_silent_critical_20260704_164732",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

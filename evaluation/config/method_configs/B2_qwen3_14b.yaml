@@ -1,0 +1,6 @@
+# Local B2 — Qwen3-14B (method_id B2_QWEN3_14B)
+model: qwen3-14b
+temperature: 0.0
+reasoning_effort: medium
+base_url: http://127.0.0.1:8000/v1
+api_key: EMPTY

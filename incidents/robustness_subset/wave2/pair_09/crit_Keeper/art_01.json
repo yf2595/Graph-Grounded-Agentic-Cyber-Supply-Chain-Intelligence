@@ -1,0 +1,14 @@
+{
+  "article_id": "wave2__pair_09__crit_Keeper__art_01",
+  "pair": 9,
+  "arm": "crit_Keeper",
+  "slot": 1,
+  "headline": "Keeper Co., Ltd. Faces Ransomware Attack Disrupting Operations",
+  "body": "Keeper Co., Ltd., a key player in the automotive parts manufacturing sector, has recently fallen victim to a ransomware attack. This cyber incident has severely impacted the company's operations, leading to significant disruptions and delays in ongoing projects. Keeper Co., Ltd. is renowned for its extensive contributions to the automotive industry, providing essential components to various manufacturers. With a robust presence in the market, the company operates several facilities across different regions, employing a large workforce dedicated to maintaining high standards of production and innovation. The recent attack has compromised their Windows domain infrastructure, affecting hundreds of devices and posing challenges to the restoration of normal operations.",
+  "supplier_name": "Keeper Co., Ltd.",
+  "supplier_node_id": "ORG_771DD0751F53",
+  "construction_regime": "independent-generation",
+  "wave": "wave2_silent_critical_20260704_183621",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

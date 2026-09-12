@@ -1,0 +1,30 @@
+{
+  "article_id": "INC_086",
+  "incident_id": "INC_086",
+  "headline": "Shutdown at Conti Plant Halts Auto Parts, Sparking Supply Concerns",
+  "body": "Workers at a Conti facility have initiated a strike, leading to an immediate suspension of component shipments. Talks between management and union reps are in progress, aimed at resolving the impasse. The sudden halt has prompted the company to alert clients about potential interruptions in their supply chains. The plant's closure marks a significant operational disruption with no quick fix apparent.",
+  "supplier_names": [
+    "Continental AG"
+  ],
+  "supplier_node_ids": [
+    "ORG_3760986ABAF4"
+  ],
+  "is_cyber": false,
+  "in_supply_chain": true,
+  "relevant": false,
+  "case_stratum": "in_graph_non_cyber",
+  "impact_level": "severe",
+  "seed_id": "seed_noncyber_strike",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Conti"
+  ],
+  "canonical_supplier_names": [
+    "Continental AG"
+  ],
+  "rewrite_style": "short_ap_brief",
+  "name_strategy": "ticker_or_market_shorthand",
+  "style_notes": "The piece uses a succinct and direct reporting style typical of AP briefs.",
+  "rewritten": true
+}

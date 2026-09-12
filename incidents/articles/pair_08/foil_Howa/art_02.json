@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_08__foil_Howa__art_02",
+  "pair": 8,
+  "arm": "foil_Howa",
+  "slot": 2,
+  "headline": "Howa (Thailand) Co., Ltd. Investigates Data Breach",
+  "body": "In a recent development, Howa (Thailand) Co., Ltd. is actively investigating a cybersecurity breach that led to the theft of internal data. The automotive components supplier has hired incident response experts to determine the full scope of the data compromised. While the attackers have threatened to publish the stolen information, Howa (Thailand) Co., Ltd. reassures that its production operations are continuing without disruption.",
+  "supplier_name": "Howa (Thailand) Co., Ltd.",
+  "supplier_node_id": "ORG_D0C8627F2FCC",
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

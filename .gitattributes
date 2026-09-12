@@ -1,0 +1,7 @@
+* text=auto
+*.csv text
+*.json text
+*.jsonl text
+*.yaml text
+*.yml text
+*.md text

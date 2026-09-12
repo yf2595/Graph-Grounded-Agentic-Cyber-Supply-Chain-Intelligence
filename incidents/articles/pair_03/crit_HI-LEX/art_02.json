@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_03__crit_HI-LEX__art_02",
+  "pair": 3,
+  "arm": "crit_HI-LEX",
+  "slot": 2,
+  "headline": "HI-LEX Corporation Engages Experts Following Cyber Incident",
+  "body": "In the wake of a recent cyberattack, HI-LEX Corporation has taken decisive steps to address the situation. The automotive components supplier confirmed that it is working with incident response teams to manage the aftermath of the attack. The company had to isolate its servers and temporarily suspend production and order-processing activities. A ransom demand was made by the attackers, but HI-LEX Corporation is focusing on restoring its systems and ensuring business continuity.",
+  "supplier_name": "HI-LEX Corporation",
+  "supplier_node_id": "ORG_2E141FFC8B0E",
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

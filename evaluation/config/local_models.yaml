@@ -1,0 +1,119 @@
+# Local vLLM backends for Table 3. No hosted LLM fallback.
+# Paper hardware: one NVIDIA RTX 6000 Ada 48 GB GPU, vLLM 0.25.1.
+
+default_endpoint: http://127.0.0.1:8000/v1
+api_key: EMPTY
+
+hardware_target:
+  gpu: NVIDIA RTX 6000 Ada
+  vram_gb: 48
+
+generation:
+  temperature: 0.0
+  max_output_tokens: 2048
+
+models:
+  qwen14b:
+    display_name: Qwen3-14B
+    family: qwen
+    hf_repo: Qwen/Qwen3-14B
+    dtype: bfloat16
+    quantization: null
+    max_model_len: 16384
+    temperature: 0.0
+    max_output_tokens: 1024
+    served_model_name: qwen14b
+    disable_thinking: true
+    max_tool_rounds: 4
+    tool_result_chars: 2000
+    article_body_chars: 6000
+    vllm_extra_args:
+      - --trust-remote-code
+      - --enable-auto-tool-choice
+      - --tool-call-parser
+      - hermes
+      - --default-chat-template-kwargs
+      - '{"enable_thinking": false}'
+
+  qwen7b:
+    display_name: Qwen3-8B
+    family: qwen
+    hf_repo: Qwen/Qwen3-8B
+    dtype: bfloat16
+    quantization: null
+    max_model_len: 16384
+    temperature: 0.0
+    max_output_tokens: 2048
+    served_model_name: qwen7b
+    disable_thinking: true
+    max_tool_rounds: 4
+    tool_result_chars: 2000
+    article_body_chars: 6000
+    vllm_extra_args:
+      - --trust-remote-code
+      - --enable-auto-tool-choice
+      - --tool-call-parser
+      - hermes
+      - --default-chat-template-kwargs
+      - '{"enable_thinking": false}'
+
+  qwen3b:
+    display_name: Qwen3-4B
+    family: qwen
+    hf_repo: Qwen/Qwen3-4B
+    dtype: bfloat16
+    quantization: null
+    max_model_len: 16384
+    temperature: 0.0
+    max_output_tokens: 2048
+    served_model_name: qwen3b
+    disable_thinking: true
+    max_tool_rounds: 4
+    tool_result_chars: 2000
+    article_body_chars: 6000
+    vllm_extra_args:
+      - --trust-remote-code
+      - --enable-auto-tool-choice
+      - --tool-call-parser
+      - hermes
+      - --default-chat-template-kwargs
+      - '{"enable_thinking": false}'
+
+  gptoss:
+    display_name: GPT-OSS-20B
+    family: gpt_oss
+    hf_repo: openai/gpt-oss-20b
+    dtype: auto
+    quantization: null
+    max_model_len: 32768
+    temperature: 0.0
+    max_output_tokens: 8192
+    served_model_name: gptoss
+    disable_thinking: false
+    reasoning_via_chat_template: true
+    reasoning_effort: low
+    max_tool_rounds: 4
+    tool_result_chars: 2000
+    article_body_chars: 6000
+    vllm_extra_args:
+      - --trust-remote-code
+      - --enable-auto-tool-choice
+      - --tool-call-parser
+      - openai
+
+experiments:
+  - run_id: waiti_final_qwen14b
+    model_alias: qwen14b
+    methods: [B1, B2, B3, OURS]
+  - run_id: waiti_final_qwen7b
+    model_alias: qwen7b
+    methods: [B1, B2, OURS]
+  - run_id: waiti_final_qwen3b
+    model_alias: qwen3b
+    methods: [B1, B2, OURS]
+  - run_id: waiti_final_gptoss
+    model_alias: gptoss
+    methods: [B1, B2, B3, OURS]
+
+legacy_aliases:
+  qwen3_14b: qwen14b

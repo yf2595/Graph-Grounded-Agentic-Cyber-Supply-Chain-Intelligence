@@ -1,0 +1,14 @@
+{
+  "article_id": "wave1b__pair_05__crit_Nissin__art_05",
+  "pair": 5,
+  "arm": "crit_Nissin",
+  "slot": 5,
+  "headline": "Nissin Manufacturing Group Engages Cybersecurity Experts Post-Attack",
+  "body": "Following a recent ransomware attack, Nissin Manufacturing Group Co., Ltd. has enlisted the help of cybersecurity experts to aid in the recovery of its systems. The attack has led to a partial operational shutdown, with production levels yet to return to normal. As a significant player in the automotive supply chain, Nissin Manufacturing Group's swift response to the incident is crucial in minimizing downtime and maintaining supply commitments. The company has assured stakeholders that it is taking all necessary steps to secure its infrastructure and prevent future breaches. The incident highlights the ongoing threat of cyber attacks in the industrial sector and underscores the importance of robust cybersecurity measures. Nissin Manufacturing Group is committed to transparency and will continue to provide updates as the situation evolves.",
+  "supplier_name": "Nissin Manufacturing Group Co., Ltd. (Formerly Nissin Manufacturing Co., Ltd.)",
+  "supplier_node_id": "ORG_67659D83499E",
+  "construction_regime": "independent-generation",
+  "wave": "wave1b_silent_critical_20260704_164732",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_05__sharp_Stanley__art_03",
+  "pair": 5,
+  "arm": "sharp_Stanley",
+  "slot": 3,
+  "headline": "Stanley Electric U.S. Co., Inc.: A Resilient Automotive Components Supplier",
+  "body": "Stanley Electric U.S. Co., Inc., a key player in the automotive components industry, is currently navigating the aftermath of a ransomware attack. Known for its robust production capabilities, the company has faced challenges due to a partial shutdown and data theft. Despite these setbacks, Stanley Electric U.S. Co., Inc. is determined to restore its operations with the help of incident responders, demonstrating its commitment to resilience and recovery.",
+  "supplier_name": "Stanley Electric U.S. Co., Inc.",
+  "supplier_node_id": "ORG_F4A45B0B61EA",
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

@@ -1,0 +1,34 @@
+{
+  "article_id": "INC_124",
+  "incident_id": "INC_124",
+  "headline": "Bosch Confirms No Operations Impact from Cybersecurity Breach",
+  "body": "Robert Bosch LLC reported a cybersecurity breach within its IT systems, which was claimed by a cybercrime group. Bosch, known for its contributions to automotive and industrial tech sectors, assured that their factory operations remain unaffected by the incident. Supply chains and customer deliveries continue as scheduled, despite unauthorized access to corporate information.",
+  "supplier_names": [
+    "Bosch (Robert Bosch LLC)"
+  ],
+  "supplier_node_ids": [
+    "ORG_F2607F989296"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "critical_part_sole",
+  "impact_level": "none",
+  "seed_id": "seed_foxsemicon_2024",
+  "group_id": "GRP_020",
+  "is_merge_variant": true,
+  "merge_seed_article_id": "INC_026",
+  "surface_supplier_names": [
+    "Robert Bosch LLC",
+    "Bosch"
+  ],
+  "canonical_supplier_names": [
+    "Bosch (Robert Bosch LLC)"
+  ],
+  "rewrite_style": "short_ap_brief",
+  "name_strategy": "merge_variant",
+  "style_notes": "Concise AP-style brief with emphasis on impact level and key details. Maintains original event's integrity.",
+  "rewritten": true,
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced."
+}

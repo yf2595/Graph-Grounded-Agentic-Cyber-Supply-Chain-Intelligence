@@ -1,0 +1,4 @@
+model: gpt-5.4
+temperature: 0.0
+reasoning_effort: low
+top_k: 8

@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_05__foil_Neaton__art_02",
+  "pair": 5,
+  "arm": "foil_Neaton",
+  "slot": 2,
+  "headline": "Stolen Financial Records Leaked After Neaton Auto Products Manufacturing Inc. Cyber Attack",
+  "body": "In a troubling development following the recent ransomware attack on Neaton Auto Products Manufacturing Inc., the attackers have leaked the company's stolen financial records. The automotive components supplier had previously disclosed that the cyber incident led to a partial operational shutdown and affected order fulfillment. Neaton Auto Products Manufacturing Inc. is collaborating with cybersecurity experts to mitigate the impact and restore systems to normalcy.",
+  "supplier_name": "Neaton Auto Products Manufacturing Inc.",
+  "supplier_node_id": "ORG_0EF9A2B90422",
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

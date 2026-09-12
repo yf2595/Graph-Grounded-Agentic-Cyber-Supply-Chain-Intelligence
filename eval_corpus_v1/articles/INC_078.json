@@ -1,0 +1,28 @@
+{
+  "article_id": "INC_078",
+  "incident_id": "INC_078",
+  "headline": "Busan Thermal Parts Resolves Email Breach, Minimal Operational Impact Noted",
+  "body": "Busan Thermal Parts Co., Ltd. recently managed to contain a business email compromise that momentarily affected order processing and shipment updates. Despite this cybersecurity breach, the South Korea-based automotive supplier confirmed their manufacturing systems were unaffected, leading only to minor delays in logistics operations. The firm assured customers that normal activity would resume promptly.",
+  "supplier_names": [
+    "Busan Thermal Parts Co., Ltd."
+  ],
+  "supplier_node_ids": [],
+  "is_cyber": true,
+  "in_supply_chain": false,
+  "relevant": false,
+  "case_stratum": "off_graph_cyber",
+  "impact_level": "minor",
+  "seed_id": "seed_toyota_supplier_jtei_2022",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Busan Thermal Parts Co., Ltd."
+  ],
+  "canonical_supplier_names": [
+    "Busan Thermal Parts Co., Ltd."
+  ],
+  "rewrite_style": "reuters_wire",
+  "name_strategy": "full_legal",
+  "style_notes": "The writing employs a succinct, factual tone typical of news wire services.",
+  "rewritten": true
+}

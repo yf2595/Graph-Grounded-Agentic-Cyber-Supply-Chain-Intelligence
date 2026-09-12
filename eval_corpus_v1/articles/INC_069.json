@@ -1,0 +1,38 @@
+{
+  "article_id": "INC_069",
+  "incident_id": "INC_069",
+  "headline": "Shipping Delays as JK Tyre & Industries Ltd. Faces Email Breach, Affects Partners",
+  "body": "JK Tyre & Industries Ltd., renowned in the automotive industry, encountered a business email compromise disrupting some of their order and shipment communications. The company emphasized that no plant systems were encrypted, keeping production lines operational. Minimal logistics delays are anticipated. Fellow suppliers Denso International America, Inc. and Keeper Co., Ltd. also reported similar though limited disruptions in their administrative IT processes.",
+  "supplier_names": [
+    "JK Tyre & Industries Ltd.",
+    "Denso International America, Inc.",
+    "Keeper Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_05951CEBC2BB",
+    "ORG_BBCAC459CB85",
+    "ORG_771DD0751F53"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "multi_supplier",
+  "impact_level": "minor",
+  "seed_id": "seed_toyota_supplier_jtei_2022",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "JK Tyre & Industries Ltd.",
+    "Denso International America, Inc.",
+    "Keeper Co., Ltd."
+  ],
+  "canonical_supplier_names": [
+    "JK Tyre & Industries Ltd.",
+    "Denso International America, Inc.",
+    "Keeper Co., Ltd."
+  ],
+  "rewrite_style": "japanese_english_wire",
+  "name_strategy": "full_legal",
+  "style_notes": "The voice is precise and factual, typical of Japanese English wire services.",
+  "rewritten": true
+}

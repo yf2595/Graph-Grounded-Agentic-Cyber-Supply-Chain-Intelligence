@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_08__foil_Howa__art_01",
+  "pair": 8,
+  "arm": "foil_Howa",
+  "slot": 1,
+  "headline": "Howa (Thailand) Co., Ltd. Hit by Ransomware Attack",
+  "body": "Howa (Thailand) Co., Ltd., a prominent automotive components supplier, has confirmed it was targeted by a ransomware group. The attackers reportedly stole internal data and have threatened to release it unless a ransom is paid. Fortunately, Howa (Thailand) Co., Ltd.'s production operations remain unaffected. The company has engaged incident responders to manage the situation and is currently assessing the extent of the data theft.",
+  "supplier_name": "Howa (Thailand) Co., Ltd.",
+  "supplier_node_id": "ORG_D0C8627F2FCC",
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

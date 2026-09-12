@@ -1,0 +1,14 @@
+{
+  "article_id": "wave1b__pair_03__foil_Taigene__art_05",
+  "pair": 3,
+  "arm": "foil_Taigene",
+  "slot": 5,
+  "headline": "Data Exfiltration Confirmed in Taigene Electric Machinery Co., Ltd. Ransomware Attack",
+  "body": "Taigene Electric Machinery Co., Ltd. has confirmed that a recent ransomware attack resulted in data exfiltration from its systems. The attack has disrupted operations, forcing the company to isolate affected systems and engage cybersecurity experts to manage the situation. As a significant supplier in the automotive components industry, Taigene Electric Machinery Co., Ltd. is working diligently to restore its systems and ensure the security of its data. The company has not disclosed the specifics of the stolen data, but it is taking measures to enhance its cybersecurity framework. This incident highlights the persistent threat of cyberattacks on manufacturing entities and underscores the need for proactive cybersecurity strategies to protect sensitive information and maintain operational integrity.",
+  "supplier_name": "Taigene Electric Machinery Co., Ltd.",
+  "supplier_node_id": "ORG_E4069CC45AA6",
+  "construction_regime": "independent-generation",
+  "wave": "wave1b_silent_critical_20260704_164732",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

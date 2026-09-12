@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_14__crit_H-ONE__art_05",
+  "pair": 14,
+  "arm": "crit_H-ONE",
+  "slot": 5,
+  "headline": "H-ONE Parts (Thailand) Co., Ltd. Details Cyberattack Impact in Regulatory Filing",
+  "body": "H-ONE Parts (Thailand) Co., Ltd. has filed a regulatory document outlining the impact of a recent cyberattack on its operations. The automotive components supplier reported that the attack led to the encryption of part of its infrastructure, resulting in the temporary closure of several factories across different countries. The filing notes that incident responders were engaged, and a phased investigation and restart are in progress. H-ONE Parts (Thailand) Co., Ltd. is committed to enhancing its cybersecurity measures to prevent future incidents.",
+  "supplier_name": "H-ONE Parts (Thailand) Co., Ltd.",
+  "supplier_node_id": "ORG_A15B23A6BE55",
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

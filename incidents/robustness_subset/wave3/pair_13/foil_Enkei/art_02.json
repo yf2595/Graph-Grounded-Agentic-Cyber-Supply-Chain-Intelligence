@@ -1,0 +1,14 @@
+{
+  "article_id": "wave3__pair_13__foil_Enkei__art_02",
+  "pair": 13,
+  "arm": "foil_Enkei",
+  "slot": 2,
+  "headline": "Enkei Corporation Faces Operational Challenges After Cyber Attack",
+  "body": "The recent ransomware attack on Enkei Corporation has compelled the company to halt its automated production systems, switching to manual operations to maintain continuity. This significant disruption underscores the vulnerability of industrial control systems to cyber threats. Enkei Corporation has been proactive in addressing the incident. The company has initiated a comprehensive response plan, involving cybersecurity professionals to restore and secure its systems. Enkei's swift action aims to prevent any further impact on its operations. While the attack has caused operational setbacks, Enkei Corporation has assured its stakeholders that no customer data has been compromised, and there are no immediate downstream effects reported. The company continues to monitor the situation closely.",
+  "supplier_name": "Enkei Corporation",
+  "supplier_node_id": "ORG_2D34A53963E5",
+  "construction_regime": "independent-generation",
+  "wave": "wave3_silent_critical_20260705_085153",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

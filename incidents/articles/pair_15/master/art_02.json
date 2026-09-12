@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_15__master__art_02",
+  "pair": 15,
+  "arm": "master",
+  "slot": 2,
+  "headline": "Stolen Financial Records from PLACEHOLDERCO Leaked Online",
+  "body": "In a follow-up to the recent ransomware attack, PLACEHOLDERCO has reported that the attackers have leaked stolen financial records online. The breach, which led to a partial operational shutdown, also affected the company's ability to fulfill orders. PLACEHOLDERCO continues to collaborate with cybersecurity experts to recover its systems and mitigate further damage.",
+  "supplier_name": "PLACEHOLDERCO",
+  "supplier_node_id": null,
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

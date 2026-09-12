@@ -1,0 +1,14 @@
+{
+  "article_id": "wave3__pair_14__crit_H-ONE__art_02",
+  "pair": 14,
+  "arm": "crit_H-ONE",
+  "slot": 2,
+  "headline": "H-ONE Parts (Thailand) Co., Ltd. Engages Response Team Following Cyberattack",
+  "body": "In response to the recent ransomware attack, H-ONE Parts (Thailand) Co., Ltd. has engaged a specialized incident response team to manage the situation and restore operations. The company is actively working to bring its systems back online and ensure the security of its data. H-ONE Parts (Thailand) Co., Ltd. plays a significant role in the automotive manufacturing industry, supplying parts that are integral to vehicle production. The company's swift response to the cyberattack is aimed at minimizing downtime and mitigating further risks. The incident has prompted a review of cybersecurity protocols to prevent future breaches. Experts in the field are closely monitoring the situation, noting that the company's proactive measures are crucial in safeguarding its operations and maintaining trust with its partners.",
+  "supplier_name": "H-ONE Parts (Thailand) Co., Ltd.",
+  "supplier_node_id": "ORG_A15B23A6BE55",
+  "construction_regime": "independent-generation",
+  "wave": "wave3_silent_critical_20260705_085153",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

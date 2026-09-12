@@ -1,0 +1,14 @@
+{
+  "article_id": "wave2__pair_06__foil_Xiamen__art_01",
+  "pair": 6,
+  "arm": "foil_Xiamen",
+  "slot": 1,
+  "headline": "Xiamen Zhengxin Rubber Industry Co., Ltd. Faces Ransomware Attack",
+  "body": "Xiamen Zhengxin Rubber Industry Co., Ltd., a prominent supplier in the automotive sector, has recently been hit by a ransomware attack that led to the encryption of part of its local infrastructure. The incident forced the company to temporarily shut down several of its factories, halting production at multiple sites. Xiamen Zhengxin Rubber Industry Co., Ltd. is a key player in the automotive supply chain, providing essential components to various manufacturers. Despite the disruption, the company has not reported any downstream effects or customer impact. It is currently working with cybersecurity experts to restore its operations and ensure the security of its systems.",
+  "supplier_name": "Xiamen Zhengxin Rubber Industry Co., Ltd.",
+  "supplier_node_id": "ORG_07A5E6557A1C",
+  "construction_regime": "independent-generation",
+  "wave": "wave2_silent_critical_20260704_183621",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

@@ -1,0 +1,34 @@
+{
+  "article_id": "INC_126",
+  "incident_id": "INC_126",
+  "headline": "Malware Attack Forces Fukoku to Cease Production Temporarily",
+  "body": "Fukoku Co., Ltd. has halted numerous production lines due to a severe malware breach affecting its network. This intrusion led to critical systems being deactivated as the company conducts thorough inspections and initiates recovery actions. Fukoku is implementing procedures to restore impacted systems, with plans for an incremental return to operational status. Although details regarding potential ransom requests have not been revealed, this shutdown highlights a major disruption in their manufacturing processes.",
+  "supplier_names": [
+    "Fukoku Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_2B77380C22D9"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "moderate_reach",
+  "impact_level": "severe",
+  "seed_id": "seed_hoya_2024",
+  "group_id": "GRP_022",
+  "is_merge_variant": true,
+  "merge_seed_article_id": "INC_040",
+  "surface_supplier_names": [
+    "Fukoku",
+    "Fukoku Co., Ltd."
+  ],
+  "canonical_supplier_names": [
+    "Fukoku Co., Ltd."
+  ],
+  "rewrite_style": "security_trade_blog",
+  "name_strategy": "merge_variant",
+  "style_notes": "This entry adopts a straightforward, security-focused blog style often found in trade publications reporting on cyber incidents within manufacturing sectors.",
+  "rewritten": true,
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced."
+}

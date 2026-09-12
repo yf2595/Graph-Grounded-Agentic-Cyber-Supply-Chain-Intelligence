@@ -1,0 +1,31 @@
+{
+  "article_id": "INC_045",
+  "incident_id": "INC_045",
+  "headline": "Cybersecurity Breach Halts Operations at NGK Ceramics Suzhou Facilities",
+  "body": "A significant cybersecurity incident has led to a suspension of operations at facilities run by NGK Ceramics Suzhou. The outbreak, attributed to a form of malware infiltrating factory networks, necessitated shutting down several key production systems. Recovery efforts are underway as the company undertakes the task of rebuilding compromised hosts, and staggered reactivations are anticipated. Details regarding any ransom demands have not been disclosed.",
+  "supplier_names": [
+    "NGK Ceramics Suzhou Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_0D8DAC210917"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "moderate_reach",
+  "impact_level": "severe",
+  "seed_id": "seed_abb_2023",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "NGK Ceramics Suzhou",
+    "NGK Ceramics Suzhou"
+  ],
+  "canonical_supplier_names": [
+    "NGK Ceramics Suzhou Co., Ltd."
+  ],
+  "rewrite_style": "corporate_press_paraphrase",
+  "name_strategy": "mixed_first_mention_full_then_short",
+  "style_notes": "The rewrite uses a straightforward corporate tone emphasizing the operational impact.",
+  "rewritten": true
+}

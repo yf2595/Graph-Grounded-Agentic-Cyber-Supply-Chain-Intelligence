@@ -1,0 +1,31 @@
+{
+  "article_id": "INC_010",
+  "incident_id": "INC_010",
+  "headline": "Astemo Faces Severe Production Halt Due to Cyberattack on Factory Network",
+  "body": "Hitachi Astemo, Ltd., now known as Astemo, Ltd., reported a significant disruption in its operations following a malware attack targeting their factory networks. This incident forced a temporary cessation of several critical manufacturing processes across their facilities, affecting tools used in production lines. The company is diligently working on rebuilding compromised systems and anticipates a phased restart of operations. Although the malware's impact is clear, no public confirmation of a ransom demand has been issued.",
+  "supplier_names": [
+    "Astemo, Ltd. (Formerly Hitachi Astemo, Ltd. )"
+  ],
+  "supplier_node_ids": [
+    "ORG_A1A7984ADE5F"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "bottleneck_sole",
+  "impact_level": "severe",
+  "seed_id": "seed_abb_2023",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Hitachi Astemo, Ltd.",
+    "Astemo, Ltd."
+  ],
+  "canonical_supplier_names": [
+    "Astemo, Ltd. (Formerly Hitachi Astemo, Ltd. )"
+  ],
+  "rewrite_style": "supply_chain_risk_note",
+  "name_strategy": "mixed_first_mention_full_then_short",
+  "style_notes": "Utilizes formal and technical language typical of cybersecurity reports.",
+  "rewritten": true
+}

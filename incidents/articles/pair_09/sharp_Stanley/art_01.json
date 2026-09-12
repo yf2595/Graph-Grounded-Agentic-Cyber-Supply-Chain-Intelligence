@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_09__sharp_Stanley__art_01",
+  "pair": 9,
+  "arm": "sharp_Stanley",
+  "slot": 1,
+  "headline": "Stanley Electric U.S. Co., Inc. Hit by Ransomware Attack, Operations Halted",
+  "body": "Stanley Electric U.S. Co., Inc., a leading automotive components supplier, has fallen victim to a ransomware attack that has brought its operations to a standstill. The cyber incident compromised the company's domain infrastructure and affected hundreds of devices. As a result, ongoing projects have been delayed. Additionally, attackers managed to steal internal data, further complicating the situation. Stanley Electric U.S. Co., Inc. has engaged incident response teams to restore its systems and mitigate the impact of the attack.",
+  "supplier_name": "Stanley Electric U.S. Co., Inc.",
+  "supplier_node_id": "ORG_F4A45B0B61EA",
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

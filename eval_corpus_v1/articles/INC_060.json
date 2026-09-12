@@ -1,0 +1,31 @@
+{
+  "article_id": "INC_060",
+  "incident_id": "INC_060",
+  "headline": "HI-LEX America Faces Cyber Threat: Ransomware Gang Allegedly Steals Data",
+  "body": "HI-LEX America Inc. has acknowledged a cybersecurity breach involving its internal systems after a ransomware group claimed to have accessed sensitive files. Despite the incident, operations remain unaffected, with the company confirming that all production activities continue as planned and deliveries to customers are on track. The automotive supplier's IT team is currently investigating the scope of the data compromise in collaboration with external cybersecurity experts. While details on the nature of the stolen documents remain sparse, HI-LEX assures stakeholders that no disruptions will impact their manufacturing commitments.",
+  "supplier_names": [
+    "HI-LEX America Inc."
+  ],
+  "supplier_node_ids": [
+    "ORG_6D5DC01FCBE0"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "low_reach",
+  "impact_level": "none",
+  "seed_id": "seed_continental_2022",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "HI-LEX America Inc.",
+    "HI-LEX"
+  ],
+  "canonical_supplier_names": [
+    "HI-LEX America Inc."
+  ],
+  "rewrite_style": "supply_chain_risk_note",
+  "name_strategy": "initialism_or_acronym",
+  "style_notes": "The article employs a factual and concise tone suitable for industry risk assessments.",
+  "rewritten": true
+}

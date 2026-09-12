@@ -1,0 +1,9 @@
+source_id,target_id,edge_type,target_name
+ORG_NORTHFORGE,PRODUCT_BRAKE_MOD,supplies_product,Brake control module
+ORG_RIDGEWAY,PRODUCT_DOOR_TRIM,supplies_product,Door trim panel
+ORG_DUALCAST,PRODUCT_DOOR_TRIM,supplies_product,Door trim panel
+PRODUCT_BRAKE_MOD,CATEGORY_BRAKE,product_in_category,ABS / ESC
+PRODUCT_DOOR_TRIM,CATEGORY_TRIM,product_in_category,Interior Trim
+PRODUCT_BRAKE_MOD,VARIANT_SEDAN,product_used_in_variant,Aether Sedan 2024
+PRODUCT_BRAKE_MOD,VARIANT_WAGON,product_used_in_variant,Aether Wagon 2024
+PRODUCT_DOOR_TRIM,VARIANT_SEDAN,product_used_in_variant,Aether Sedan 2024

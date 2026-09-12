@@ -1,0 +1,33 @@
+{
+  "article_id": "INC_053",
+  "incident_id": "INC_053",
+  "headline": "AMI Suffers Major Plant Outage After Ransomware Hits Key IT Systems",
+  "body": "An attack on AMI's Indiana facility has led to significant production halts due to a ransomware incident affecting critical IT and control systems. In a recent announcement, AMI disclosed that the breach might have compromised sensitive business files. The company is working with cybersecurity experts as it gradually brings systems back online, aiming to minimize further operational impact.",
+  "supplier_names": [
+    "American Mitsuba Indiana - AMI"
+  ],
+  "supplier_node_ids": [
+    "ORG_49EF57D73514"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "low_reach",
+  "impact_level": "severe",
+  "seed_id": "seed_toyota_supplier_jtei_2022",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "AMI"
+  ],
+  "canonical_supplier_names": [
+    "American Mitsuba Indiana - AMI"
+  ],
+  "rewrite_style": "local_business_journal",
+  "name_strategy": "initialism_or_acronym",
+  "style_notes": "The tone maintains an investigative local business focus.",
+  "rewritten": true,
+  "group_id": "GRP_009",
+  "is_merge_variant": false,
+  "merge_seed_article_id": "INC_053"
+}

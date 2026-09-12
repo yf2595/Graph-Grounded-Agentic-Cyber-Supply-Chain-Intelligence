@@ -1,0 +1,14 @@
+{
+  "article_id": "wave2__pair_06__foil_Xiamen__art_02",
+  "pair": 6,
+  "arm": "foil_Xiamen",
+  "slot": 2,
+  "headline": "Production Halt at Xiamen Zhengxin Rubber Industry Co., Ltd. Due to Cyberattack",
+  "body": "Following a ransomware attack, Xiamen Zhengxin Rubber Industry Co., Ltd. has been forced to halt production at several of its facilities. The attack encrypted parts of the company's infrastructure, leading to a temporary shutdown of operations. As a major supplier in the automotive manufacturing sector, Xiamen Zhengxin is crucial to the supply chain, though it has confirmed that no customer or downstream disruptions have occurred. The company has engaged cybersecurity experts to address the breach and is actively working to restore normal operations.",
+  "supplier_name": "Xiamen Zhengxin Rubber Industry Co., Ltd.",
+  "supplier_node_id": "ORG_07A5E6557A1C",
+  "construction_regime": "independent-generation",
+  "wave": "wave2_silent_critical_20260704_183621",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

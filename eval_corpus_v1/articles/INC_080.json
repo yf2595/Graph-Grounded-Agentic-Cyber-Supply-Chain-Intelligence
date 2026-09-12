@@ -1,0 +1,29 @@
+{
+  "article_id": "INC_080",
+  "incident_id": "INC_080",
+  "headline": "Production Stalls as Ransomware Cripples Torino Sensor Labs' Systems",
+  "body": "Torino Sensor Labs (TSL), a key supplier in the automotive sector, recently faced a severe ransomware attack that has crippled its production capabilities. The malicious software encrypted vital systems managing manufacturing execution and logistics, leading to operational paralysis at multiple sites. Industry specialists have been called in to resolve the crisis, but there is still no clear timeline for resuming normal activities. Until systems are restored, affected plants remain at a standstill, underscoring the risks inherent in digital dependencies.",
+  "supplier_names": [
+    "Torino Sensor Labs S.p.A."
+  ],
+  "supplier_node_ids": [],
+  "is_cyber": true,
+  "in_supply_chain": false,
+  "relevant": false,
+  "case_stratum": "off_graph_cyber",
+  "impact_level": "severe",
+  "seed_id": "seed_hoya_2024",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Torino Sensor Labs",
+    "TSL"
+  ],
+  "canonical_supplier_names": [
+    "Torino Sensor Labs S.p.A."
+  ],
+  "rewrite_style": "supply_chain_risk_note",
+  "name_strategy": "former_name_parenthetical",
+  "style_notes": "Direct and factual with a focus on impact severity.",
+  "rewritten": true
+}

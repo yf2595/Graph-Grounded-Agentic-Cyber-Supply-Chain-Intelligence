@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_02__foil_Ichikoh__art_01",
+  "pair": 2,
+  "arm": "foil_Ichikoh",
+  "slot": 1,
+  "headline": "Cyberattack Forces Ichikoh Industries, Ltd. to Halt Production",
+  "body": "Ichikoh Industries, Ltd., a prominent automotive components supplier, has announced a significant cybersecurity incident that has forced the company to shut down its IT systems. The attack has led to a halt in production across several of its plants, with the company stating that operations will be suspended for several weeks. Ichikoh Industries, Ltd. is currently working with incident responders to address the situation and restore its systems.",
+  "supplier_name": "Ichikoh Industries, Ltd.",
+  "supplier_node_id": "ORG_776A68B696CE",
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

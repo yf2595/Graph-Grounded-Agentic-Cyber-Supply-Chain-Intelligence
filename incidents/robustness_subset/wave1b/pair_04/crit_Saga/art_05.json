@@ -1,0 +1,14 @@
+{
+  "article_id": "wave1b__pair_04__crit_Saga__art_05",
+  "pair": 4,
+  "arm": "crit_Saga",
+  "slot": 5,
+  "headline": "Saga Tekkohsho Co., Ltd. Responds to Cybersecurity Threat",
+  "body": "In response to a recent ransomware attack, Saga Tekkohsho Co., Ltd. has initiated an investigation with the help of external experts. The company has informed authorities and is working to understand the scope of the data theft. As the situation develops, Saga Tekkohsho Co., Ltd. remains committed to safeguarding its operations and data integrity.",
+  "supplier_name": "Saga Tekkohsho Co., Ltd.",
+  "supplier_node_id": "ORG_F70CA1B3A14A",
+  "construction_regime": "independent-generation",
+  "wave": "wave1b_silent_critical_20260704_164732",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

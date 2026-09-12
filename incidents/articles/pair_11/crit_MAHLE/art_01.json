@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_11__crit_MAHLE__art_01",
+  "pair": 11,
+  "arm": "crit_MAHLE",
+  "slot": 1,
+  "headline": "MAHLE Behr Thermal Systems (Thailand) Co., Ltd. (Formerly Keihin Thermal Technology (Thailand) Co., Ltd.) Hit by Ransomware Attack",
+  "body": "MAHLE Behr Thermal Systems (Thailand) Co., Ltd. (Formerly Keihin Thermal Technology (Thailand) Co., Ltd.), a prominent automotive components supplier, has disclosed a ransomware attack that compromised its network for several weeks. During this period, a large volume of internal data was exfiltrated by the attackers. Despite this breach, MAHLE Behr Thermal Systems (Thailand) Co., Ltd. (Formerly Keihin Thermal Technology (Thailand) Co., Ltd.) reported that its business operations have continued without interruption. The company has engaged cybersecurity incident responders and has involved the relevant authorities to address the situation.",
+  "supplier_name": "MAHLE Behr Thermal Systems (Thailand) Co., Ltd. (Formerly Keihin Thermal Technology (Thailand) Co., Ltd.)",
+  "supplier_node_id": "ORG_08CFD4B879EF",
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

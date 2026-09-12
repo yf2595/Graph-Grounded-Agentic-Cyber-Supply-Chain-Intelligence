@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_07__crit_Takagi__art_03",
+  "pair": 7,
+  "arm": "crit_Takagi",
+  "slot": 3,
+  "headline": "Takagi Seiko Corporation: A Resilient Automotive Supplier",
+  "body": "Takagi Seiko Corporation, known for its role as a key automotive components supplier, has recently faced a significant cybersecurity challenge. Despite a ransomware attack that compromised internal data, the company maintained uninterrupted operations. Takagi Seiko Corporation has taken swift action by notifying affected parties and engaging with cybersecurity experts to address the breach. This incident underscores the company's resilience and commitment to safeguarding its operations and stakeholders.",
+  "supplier_name": "Takagi Seiko Corporation",
+  "supplier_node_id": "ORG_17E0030DD2FA",
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

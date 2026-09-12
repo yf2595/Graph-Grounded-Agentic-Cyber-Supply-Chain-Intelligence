@@ -1,0 +1,14 @@
+{
+  "article_id": "wave1b__pair_04__crit_Saga__art_02",
+  "pair": 4,
+  "arm": "crit_Saga",
+  "slot": 2,
+  "headline": "Saga Tekkohsho Co., Ltd. Ransomware Breach Under Investigation",
+  "body": "Following a significant ransomware attack, Saga Tekkohsho Co., Ltd. is conducting a thorough investigation to assess the full extent of the data breach. The company has engaged external cybersecurity experts to assist in the investigation. Authorities have been informed as part of the company's response to the incident. No downstream impact has been reported at this time.",
+  "supplier_name": "Saga Tekkohsho Co., Ltd.",
+  "supplier_node_id": "ORG_F70CA1B3A14A",
+  "construction_regime": "independent-generation",
+  "wave": "wave1b_silent_critical_20260704_164732",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

@@ -1,0 +1,14 @@
+{
+  "article_id": "wave3__pair_07__crit_Takagi__art_05",
+  "pair": 7,
+  "arm": "crit_Takagi",
+  "slot": 5,
+  "headline": "Takagi Seiko Engages Experts Following Cybersecurity Breach",
+  "body": "Following a ransomware attack, Takagi Seiko Corporation has enlisted the help of cybersecurity experts to address the breach. The company has notified affected individuals and is working diligently to secure its systems. Takagi Seiko Corporation is a well-regarded supplier in the automotive industry, known for its commitment to quality and reliability. The recent incident highlights the ongoing cybersecurity challenges faced by suppliers. While operations continue uninterrupted, the company remains focused on strengthening its cybersecurity posture to prevent future incidents.",
+  "supplier_name": "Takagi Seiko Corporation",
+  "supplier_node_id": "ORG_17E0030DD2FA",
+  "construction_regime": "independent-generation",
+  "wave": "wave3_silent_critical_20260705_085153",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

@@ -1,0 +1,14 @@
+{
+  "article_id": "wave3__pair_07__foil_Nidec__art_05",
+  "pair": 7,
+  "arm": "foil_Nidec",
+  "slot": 5,
+  "headline": "Nidec Mobility Corporation reports cyber incident",
+  "body": "Nidec Mobility Corporation reported a cyber incident and said response work is underway. The company, a key participant in its industry sector, has initiated a review of affected systems. Details regarding the scope and nature of the incident remain limited at this time. Nidec Mobility Corporation said it is working with external advisors to assess the situation and restore normal operations. Further updates are expected as the investigation progresses.",
+  "supplier_name": "Nidec Mobility Corporation",
+  "supplier_node_id": "ORG_406F1625FD76",
+  "construction_regime": "independent-generation",
+  "wave": "wave3_silent_critical_20260705_085153",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

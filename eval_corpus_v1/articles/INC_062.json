@@ -1,0 +1,37 @@
+{
+  "article_id": "INC_062",
+  "incident_id": "INC_062",
+  "headline": "Denso and Lumax Industries Grapple with Ransomware, Halting Plant Operations",
+  "body": "In a significant cybersecurity breach, Denso has stopped production at key facilities following a ransomware attack that targeted its manufacturing control systems. This incident has brought their operations to a standstill as experts work tirelessly to resolve the issue. The impact of the attack has also extended to Lumax, which reported disruptions in its supply chain processes associated with the incident. Both companies are collaborating with cybersecurity firms to regain full functionality, though no timeline has been disclosed.",
+  "supplier_names": [
+    "Denso Corporation",
+    "Lumax Industries Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_2DD511546595",
+    "ORG_C8DC371D3D4B"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "multi_supplier",
+  "impact_level": "severe",
+  "seed_id": "seed_toyota_supplier_jtei_2022",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Denso",
+    "Lumax"
+  ],
+  "canonical_supplier_names": [
+    "Denso Corporation",
+    "Lumax Industries Ltd."
+  ],
+  "rewrite_style": "automotive_trade",
+  "name_strategy": "short_brand",
+  "style_notes": "The voice is authoritative and concise, typical of automotive trade press.",
+  "rewritten": true,
+  "group_id": "GRP_017",
+  "is_merge_variant": false,
+  "merge_seed_article_id": "INC_062"
+}

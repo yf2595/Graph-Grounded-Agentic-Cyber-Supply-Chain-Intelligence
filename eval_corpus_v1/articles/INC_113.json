@@ -1,0 +1,34 @@
+{
+  "article_id": "INC_113",
+  "incident_id": "INC_113",
+  "headline": "Ransomware Cripples Key Systems at AMI's Indiana Facility, Halting Operations",
+  "body": "A disruptive ransomware attack has severely impacted operations at the American Mitsuba Indiana plant. This cyber incident struck crucial IT and control systems, leading to halted production lines. AMI revealed that the attack may have jeopardized sensitive business data. To address this crisis, the company has enlisted cybersecurity professionals and is working diligently to restore system functionality, aiming to curtail any additional operational disruptions.",
+  "supplier_names": [
+    "American Mitsuba Indiana - AMI"
+  ],
+  "supplier_node_ids": [
+    "ORG_49EF57D73514"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "low_reach",
+  "impact_level": "severe",
+  "seed_id": "seed_toyota_supplier_jtei_2022",
+  "group_id": "GRP_009",
+  "is_merge_variant": true,
+  "merge_seed_article_id": "INC_053",
+  "surface_supplier_names": [
+    "AMI",
+    "American Mitsuba Indiana"
+  ],
+  "canonical_supplier_names": [
+    "American Mitsuba Indiana - AMI"
+  ],
+  "rewrite_style": "security_trade_blog",
+  "name_strategy": "merge_variant",
+  "style_notes": "This rewrite adopts a security trade blog tone, emphasizing the technical aspects of the ransomware attack while maintaining focus on AMI's efforts to mitigate further damage.",
+  "rewritten": true,
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced."
+}

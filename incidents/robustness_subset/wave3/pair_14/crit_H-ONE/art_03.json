@@ -1,0 +1,14 @@
+{
+  "article_id": "wave3__pair_14__crit_H-ONE__art_03",
+  "pair": 14,
+  "arm": "crit_H-ONE",
+  "slot": 3,
+  "headline": "Automotive Supplier H-ONE Parts (Thailand) Co., Ltd. Faces Ransomware Attack",
+  "body": "H-ONE Parts (Thailand) Co., Ltd., a prominent supplier in the automotive industry, has recently experienced a ransomware attack that led to operational disruptions. This incident is a stark reminder of the growing cyber threats facing the manufacturing sector. The company is a key player in the automotive supply chain, providing essential components to various manufacturers. The disruption caused by the cyberattack highlights the critical nature of cybersecurity in protecting industrial operations. While the full extent of the attack is still under investigation, the immediate focus is on resuming production and securing the company's IT infrastructure. Industry analysts suggest that this incident could lead to increased investments in cybersecurity measures across the sector.",
+  "supplier_name": "H-ONE Parts (Thailand) Co., Ltd.",
+  "supplier_node_id": "ORG_A15B23A6BE55",
+  "construction_regime": "independent-generation",
+  "wave": "wave3_silent_critical_20260705_085153",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

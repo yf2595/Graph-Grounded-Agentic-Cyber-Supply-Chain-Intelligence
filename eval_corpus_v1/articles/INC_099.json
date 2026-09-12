@@ -1,0 +1,30 @@
+{
+  "article_id": "INC_099",
+  "incident_id": "INC_099",
+  "headline": "CEAT Ltd. Initiates Restructuring Due to Financial Strains",
+  "body": "CEAT Ltd., known in the industry for their tire manufacturing, has recently filed for court-supervised restructuring attributed to persistent cash-flow challenges and escalating input costs. As part of the restructuring plan, the company plans to maintain particular production lines active under agreements reached with creditors. Despite these financial adjustments, no cybersecurity breach has been reported. The impact is expected to be contained, with minimal disruptions to operations primarily affecting administrative processes and causing slight shipping delays.",
+  "supplier_names": [
+    "CEAT Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_50D761028B07"
+  ],
+  "is_cyber": false,
+  "in_supply_chain": true,
+  "relevant": false,
+  "case_stratum": "in_graph_non_cyber",
+  "impact_level": "minor",
+  "seed_id": "seed_noncyber_bankruptcy",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "CEAT Ltd."
+  ],
+  "canonical_supplier_names": [
+    "CEAT Ltd."
+  ],
+  "rewrite_style": "japanese_english_wire",
+  "name_strategy": "full_legal",
+  "style_notes": "The article uses a factual and concise reporting style typical of Japanese English wire news.",
+  "rewritten": true
+}

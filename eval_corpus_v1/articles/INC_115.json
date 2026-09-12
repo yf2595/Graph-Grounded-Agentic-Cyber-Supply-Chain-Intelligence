@@ -1,0 +1,41 @@
+{
+  "article_id": "INC_115",
+  "incident_id": "INC_115",
+  "headline": "Cybersecurity Incident at Xiamen Rubber with No Impact on Production",
+  "body": "Xiamen Zhengxin Rubber Industry Co., Ltd. recently experienced a cyber intrusion that compromised internal documents. The company reassured stakeholders that operations remain unaffected, and production continues as usual, with no delays in deliveries. Elsewhere, both Thai Steel Cable Public Co., Ltd.'s principal manufacturing site and Mitsuba Corporation's network have faced similar security challenges. Despite these incidents, the companies confirmed their production schedules are maintained without disruption.",
+  "supplier_names": [
+    "Xiamen Zhengxin Rubber Industry Co., Ltd.",
+    "Thai Steel Cable Public Co., Ltd.",
+    "Mitsuba Corporation"
+  ],
+  "supplier_node_ids": [
+    "ORG_07A5E6557A1C",
+    "ORG_8A37369349B7",
+    "ORG_96A34F5DBF78"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "multi_supplier",
+  "impact_level": "none",
+  "seed_id": "seed_maxlinear_2020",
+  "group_id": "GRP_011",
+  "is_merge_variant": true,
+  "merge_seed_article_id": "INC_070",
+  "surface_supplier_names": [
+    "Xiamen Zhengxin Rubber Industry",
+    "Thai Steel Cable",
+    "Mitsuba"
+  ],
+  "canonical_supplier_names": [
+    "Xiamen Zhengxin Rubber Industry Co., Ltd.",
+    "Thai Steel Cable Public Co., Ltd.",
+    "Mitsuba Corporation"
+  ],
+  "rewrite_style": "reuters_wire",
+  "name_strategy": "merge_variant",
+  "style_notes": "Utilizes a wire service style typical of Reuters, which offers concise reporting of facts with clarity while avoiding intricate analysis or opinion.",
+  "rewritten": true,
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced."
+}

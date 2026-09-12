@@ -1,0 +1,33 @@
+{
+  "article_id": "INC_117",
+  "incident_id": "INC_117",
+  "headline": "Foshan Fengfu Auto Parts Faces Ransomware Attack, Minor Impact on Deliveries",
+  "body": "Foshan Fengfu Auto Parts recently encountered a cybersecurity breach involving ransomware, affecting their office and scheduling software. The firm promptly shifted to manual operations, ensuring that their main manufacturing processes continued without significant interruption. While the attack did cause some initial hiccups, the company anticipates only slight delays in shipment times and has proactively alerted its clients about potential delivery adjustments.",
+  "supplier_names": [
+    "Foshan Fengfu Auto Parts Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_36C94316CE5A"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "bottleneck_sole",
+  "impact_level": "minor",
+  "seed_id": "seed_hoya_2024",
+  "group_id": "GRP_013",
+  "is_merge_variant": true,
+  "merge_seed_article_id": "INC_012",
+  "surface_supplier_names": [
+    "Foshan Fengfu Auto Parts"
+  ],
+  "canonical_supplier_names": [
+    "Foshan Fengfu Auto Parts Co., Ltd."
+  ],
+  "rewrite_style": "local_business_journal",
+  "name_strategy": "merge_variant",
+  "style_notes": "Focuses on local business angle, emphasizing prompt response and customer communication.",
+  "rewritten": true,
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced."
+}

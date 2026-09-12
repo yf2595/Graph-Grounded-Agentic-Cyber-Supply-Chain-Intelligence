@@ -1,0 +1,14 @@
+{
+  "article_id": "wave2__pair_09__foil_NSK__art_02",
+  "pair": 9,
+  "arm": "foil_NSK",
+  "slot": 2,
+  "headline": "NSK Steering Systems Co., Ltd. Initiates Recovery Post-Ransomware Attack",
+  "body": "Following a recent ransomware attack, NSK Steering Systems Co., Ltd. is actively working to restore its compromised systems. The attack disrupted the company's operations, but swift action has been taken to engage incident responders and cybersecurity experts. NSK Steering Systems Co., Ltd., a prominent supplier in the automotive sector, is renowned for its high-quality steering components. With a strong presence in the global market, the company is committed to overcoming this setback and ensuring the continuity of its services. The recovery process is underway, with efforts focused on minimizing the impact on ongoing projects and maintaining customer trust. The company has not disclosed any downstream effects, indicating that the focus remains on internal recovery and system security enhancements. NSK Steering Systems is determined to emerge stronger from this incident, reinforcing its cybersecurity measures to prevent future occurrences.",
+  "supplier_name": "NSK Steering Systems Co., Ltd.",
+  "supplier_node_id": "ORG_3F240FFD1AAB",
+  "construction_regime": "independent-generation",
+  "wave": "wave2_silent_critical_20260704_183621",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

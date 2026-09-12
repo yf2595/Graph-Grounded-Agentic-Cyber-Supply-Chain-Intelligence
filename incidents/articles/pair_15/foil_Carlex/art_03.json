@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_15__foil_Carlex__art_03",
+  "pair": 15,
+  "arm": "foil_Carlex",
+  "slot": 3,
+  "headline": "Carlex Glass America, LLC: An Automotive Supplier Under Cyber Siege",
+  "body": "Carlex Glass America, LLC, a key player in the automotive components industry, is currently grappling with the aftermath of a ransomware attack. Known for its robust supply chain, the company has been forced to operate below normal capacity due to the cyber incident. The theft of internal data, including financial records, has added to the challenges faced by Carlex Glass America, LLC as it seeks to restore its systems with the help of incident responders.",
+  "supplier_name": "Carlex Glass America, LLC",
+  "supplier_node_id": "ORG_26EC32CA4687",
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

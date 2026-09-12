@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_05__master__art_03",
+  "pair": 5,
+  "arm": "master",
+  "slot": 3,
+  "headline": "PLACEHOLDERCO: A Resilient Automotive Components Supplier",
+  "body": "PLACEHOLDERCO, a key player in the automotive components industry, is currently navigating the aftermath of a ransomware attack. Known for its robust production capabilities, the company has faced challenges due to a partial shutdown and data theft. Despite these setbacks, PLACEHOLDERCO is determined to restore its operations with the help of incident responders, demonstrating its commitment to resilience and recovery.",
+  "supplier_name": "PLACEHOLDERCO",
+  "supplier_node_id": null,
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

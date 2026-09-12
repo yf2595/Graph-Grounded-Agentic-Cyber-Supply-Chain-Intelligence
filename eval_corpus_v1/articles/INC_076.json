@@ -1,0 +1,28 @@
+{
+  "article_id": "INC_076",
+  "incident_id": "INC_076",
+  "headline": "Ransomware Allegation Hits Osaka Wiring, Operations Unaffected",
+  "body": "Osaka Wiring Co. disclosed a cyber incident this week after a ransomware group claimed responsibility for stealing sensitive internal files from the company's IT systems. Despite the alleged breach, spokespersons stated that all production lines continue to operate as usual, with no disruptions impacting deliveries to customers. This Japanese wiring manufacturer, known for its specialized components, assures that cybersecurity measures are being enhanced. While details on the nature of documents purportedly stolen were not shared, the firm emphasized that their response strategy focuses on minimizing any potential data compromise.",
+  "supplier_names": [
+    "Osaka Secondary Wiring Co."
+  ],
+  "supplier_node_ids": [],
+  "is_cyber": true,
+  "in_supply_chain": false,
+  "relevant": false,
+  "case_stratum": "off_graph_cyber",
+  "impact_level": "none",
+  "seed_id": "seed_wabtec_2022",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Osaka Wiring Co."
+  ],
+  "canonical_supplier_names": [
+    "Osaka Secondary Wiring Co."
+  ],
+  "rewrite_style": "short_ap_brief",
+  "name_strategy": "short_brand",
+  "style_notes": "Concise and factual tone with varied sentence structure.",
+  "rewritten": true
+}

@@ -1,0 +1,37 @@
+{
+  "article_id": "INC_065",
+  "incident_id": "INC_065",
+  "headline": "Ransomware Cripples Nissin Mfg Systems, Impacting Component Production",
+  "body": "An alarming ransomware incident has brought operations at Nissin Mfg Group to a halt. The attack encrypted critical process systems, forcing shutdowns in one or more manufacturing facilities. Cybersecurity experts from outside the company are actively working to restore function, though no timeline for resumption is available. Compounding the issue, F.C.C., another supplier in the auto sector, reported related operational interferences. This incident underlines vulnerabilities in supply chain networks.",
+  "supplier_names": [
+    "Nissin Manufacturing Group Co., Ltd. (Formerly Nissin Manufacturing Co., Ltd.)",
+    "F.C.C. Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_67659D83499E",
+    "ORG_9993F1E48400"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "multi_supplier",
+  "impact_level": "severe",
+  "seed_id": "seed_hoya_2024",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Nissin Mfg Group",
+    "F.C.C."
+  ],
+  "canonical_supplier_names": [
+    "Nissin Manufacturing Group Co., Ltd. (Formerly Nissin Manufacturing Co., Ltd.)",
+    "F.C.C. Co., Ltd."
+  ],
+  "rewrite_style": "corporate_press_paraphrase",
+  "name_strategy": "ticker_or_market_shorthand",
+  "style_notes": "Formal tone with industry-focused language.",
+  "rewritten": true,
+  "group_id": "GRP_005",
+  "is_merge_variant": false,
+  "merge_seed_article_id": "INC_065"
+}

@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_07__master__art_01",
+  "pair": 7,
+  "arm": "master",
+  "slot": 1,
+  "headline": "PLACEHOLDERCO Hit by Ransomware Attack, Data Compromised",
+  "body": "PLACEHOLDERCO, a prominent automotive components supplier, has disclosed a ransomware attack that resulted in the theft of personal and sensitive internal data. The breach, which occurred months ago, was only recently discovered. Despite the intrusion, PLACEHOLDERCO's operations continued without interruption. The company has notified affected individuals and has engaged incident responders to address the situation. Further details are expected as the investigation progresses.",
+  "supplier_name": "PLACEHOLDERCO",
+  "supplier_node_id": null,
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

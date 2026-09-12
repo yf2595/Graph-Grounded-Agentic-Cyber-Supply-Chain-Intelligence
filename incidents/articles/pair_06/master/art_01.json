@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_06__master__art_01",
+  "pair": 6,
+  "arm": "master",
+  "slot": 1,
+  "headline": "PLACEHOLDERCO Halts Operations Following Cyberattack",
+  "body": "PLACEHOLDERCO, a leading automotive components supplier, has temporarily shut down several factories due to a cyberattack that encrypted parts of its infrastructure. The incident has led to a halt in production across multiple international sites. The company is currently working with incident responders to assess the situation and restore operations.",
+  "supplier_name": "PLACEHOLDERCO",
+  "supplier_node_id": null,
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

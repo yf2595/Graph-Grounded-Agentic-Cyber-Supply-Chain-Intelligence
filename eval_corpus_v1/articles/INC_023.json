@@ -1,0 +1,33 @@
+{
+  "article_id": "INC_023",
+  "incident_id": "INC_023",
+  "headline": "Ransomware Hits Honda Thailand's Ayutthaya Unit, Minor Production Delays Expected",
+  "body": "A recent ransomware attack struck the IT systems at HAT's Ayutthaya site, impacting office and scheduling functions. Despite the cybersecurity breach, key machining processes are running using manual protocols to mitigate disruptions. The company anticipates only minor shipping delays, with customer operations preemptively informed to minimize potential supply chain ripples.",
+  "supplier_names": [
+    "Honda Automobile (Thailand), Ayutthaya Plant"
+  ],
+  "supplier_node_ids": [
+    "ORG_D3DDAB128E48"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "critical_part_sole",
+  "impact_level": "minor",
+  "seed_id": "seed_toyota_supplier_jtei_2022",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "HAT's Ayutthaya site"
+  ],
+  "canonical_supplier_names": [
+    "Honda Automobile (Thailand), Ayutthaya Plant"
+  ],
+  "rewrite_style": "local_business_journal",
+  "name_strategy": "ticker_or_market_shorthand",
+  "style_notes": "The voice maintains an informative and business-focused tone typical of local business journals.",
+  "rewritten": true,
+  "group_id": "GRP_014",
+  "is_merge_variant": false,
+  "merge_seed_article_id": "INC_023"
+}

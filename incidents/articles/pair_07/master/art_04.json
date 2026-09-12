@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_07__master__art_04",
+  "pair": 7,
+  "arm": "master",
+  "slot": 4,
+  "headline": "Analysts Weigh In on PLACEHOLDERCO's Cybersecurity Breach",
+  "body": "Industry analysts are closely monitoring PLACEHOLDERCO following its disclosure of a ransomware attack. The automotive components supplier reported that sensitive internal data was stolen, though its operations were not affected. Analysts note that PLACEHOLDERCO's prompt notification of affected individuals and engagement with incident responders demonstrate a proactive approach to crisis management. The company's ability to maintain operational continuity is seen as a positive sign amid the breach.",
+  "supplier_name": "PLACEHOLDERCO",
+  "supplier_node_id": null,
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

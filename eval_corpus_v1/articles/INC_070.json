@@ -1,0 +1,41 @@
+{
+  "article_id": "INC_070",
+  "incident_id": "INC_070",
+  "headline": "Xiamen Rubber Facility Faces Data Breach, Operations Unaffected",
+  "body": "In a recent cybersecurity breach, internal documents have reportedly been compromised at the Xiamen Zhengxin Rubber Industry plant. Despite this, the facility assured their operations remain smooth, with production lines fully operational and client deliveries on course as planned. Meanwhile, similar incidents were noted at Thai Steel Cable's main factory and within Mitsuba Corp's network system. Both companies confirm no interruption to their manufacturing schedules.",
+  "supplier_names": [
+    "Xiamen Zhengxin Rubber Industry Co., Ltd.",
+    "Thai Steel Cable Public Co., Ltd.",
+    "Mitsuba Corporation"
+  ],
+  "supplier_node_ids": [
+    "ORG_07A5E6557A1C",
+    "ORG_8A37369349B7",
+    "ORG_96A34F5DBF78"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "multi_supplier",
+  "impact_level": "none",
+  "seed_id": "seed_maxlinear_2020",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Xiamen Zhengxin Rubber Industry",
+    "Thai Steel Cable",
+    "Mitsuba Corp"
+  ],
+  "canonical_supplier_names": [
+    "Xiamen Zhengxin Rubber Industry Co., Ltd.",
+    "Thai Steel Cable Public Co., Ltd.",
+    "Mitsuba Corporation"
+  ],
+  "rewrite_style": "supply_chain_risk_note",
+  "name_strategy": "city_plant_unit_of_parent",
+  "style_notes": "The voice remains formal and concise, focusing on stability amidst the breaches.",
+  "rewritten": true,
+  "group_id": "GRP_011",
+  "is_merge_variant": false,
+  "merge_seed_article_id": "INC_070"
+}

@@ -1,0 +1,29 @@
+{
+  "article_id": "INC_071",
+  "incident_id": "INC_071",
+  "headline": "Nordic Precision Faces Major Production Halt After Cybersecurity Breach",
+  "body": "A cyber intrusion has forced Nordic Precision Castings (N.P. Castings) to cease operations at its production facilities. The ransomware attack severely impacted the company's manufacturing execution and logistics networks, causing an abrupt shutdown of several assembly lines. In response, Nordic Precision has called in external cybersecurity experts to address the breach, but there is currently no clarity on when normal operations will resume. This disruption marks a significant setback for the automotive parts supplier, widely regarded for its precision components.",
+  "supplier_names": [
+    "Nordic Precision Castings AB"
+  ],
+  "supplier_node_ids": [],
+  "is_cyber": true,
+  "in_supply_chain": false,
+  "relevant": false,
+  "case_stratum": "off_graph_cyber",
+  "impact_level": "severe",
+  "seed_id": "seed_hoya_2024",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Nordic Precision Castings",
+    "N.P. Castings"
+  ],
+  "canonical_supplier_names": [
+    "Nordic Precision Castings AB"
+  ],
+  "rewrite_style": "reuters_wire",
+  "name_strategy": "former_name_parenthetical",
+  "style_notes": "The tone is practical and factual, adhering to Reuters' straightforward style.",
+  "rewritten": true
+}

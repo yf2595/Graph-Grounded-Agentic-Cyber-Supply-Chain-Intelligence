@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_15__crit_Tanaka__art_02",
+  "pair": 15,
+  "arm": "crit_Tanaka",
+  "slot": 2,
+  "headline": "Stolen Financial Records from Tanaka Seimitsu Kogyo Co., Ltd. Leaked Online",
+  "body": "In a follow-up to the recent ransomware attack, Tanaka Seimitsu Kogyo Co., Ltd. has reported that the attackers have leaked stolen financial records online. The breach, which led to a partial operational shutdown, also affected the company's ability to fulfill orders. Tanaka Seimitsu Kogyo Co., Ltd. continues to collaborate with cybersecurity experts to recover its systems and mitigate further damage.",
+  "supplier_name": "Tanaka Seimitsu Kogyo Co., Ltd.",
+  "supplier_node_id": "ORG_1DCC15BF8E0E",
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}

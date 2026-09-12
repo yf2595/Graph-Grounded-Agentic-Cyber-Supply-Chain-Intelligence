@@ -1,0 +1,33 @@
+{
+  "article_id": "INC_028",
+  "incident_id": "INC_028",
+  "headline": "Cyber Incident Hits Lumax Industries, Temporarily Halts Key Production Lines",
+  "body": "In a significant cyber incident, Lumax Industries faced a major disruption after malware infected factory networks, leading to the temporary suspension of multiple production lines. The company is actively working to restore affected systems and anticipates a phased resumption of operations. While there has been no public mention of ransom demands, the impact on production capabilities is substantial as teams focus on rebuilding infrastructure at critical sites.",
+  "supplier_names": [
+    "Lumax Industries Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_C8DC371D3D4B"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "redundant_high_reach",
+  "impact_level": "severe",
+  "seed_id": "seed_nichirin_2022",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "Lumax Industries"
+  ],
+  "canonical_supplier_names": [
+    "Lumax Industries Ltd."
+  ],
+  "rewrite_style": "newsletter_digest",
+  "name_strategy": "city_plant_unit_of_parent",
+  "style_notes": "Concise and urgent tone, common in breaking news updates.",
+  "rewritten": true,
+  "group_id": "GRP_012",
+  "is_merge_variant": false,
+  "merge_seed_article_id": "INC_028"
+}

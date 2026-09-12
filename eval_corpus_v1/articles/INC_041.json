@@ -1,0 +1,30 @@
+{
+  "article_id": "INC_041",
+  "incident_id": "INC_041",
+  "headline": "Malware Incident Halts Production at G-TEKT's Thailand Facilities",
+  "body": "A malware incident has led to the shutdown of production lines at G-TEKT's Thailand operations, according to company officials. The breach impacted factory networks, forcing a halt in several critical manufacturing processes. The company has begun system restoration efforts and plans a phased reopening of affected areas. As of now, there are no reports of ransom demands linked to the attack.",
+  "supplier_names": [
+    "G-TEKT (Thailand) Co.,Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_CA6130250C28"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "moderate_reach",
+  "impact_level": "severe",
+  "seed_id": "seed_microchip_2024",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "G-TEKT"
+  ],
+  "canonical_supplier_names": [
+    "G-TEKT (Thailand) Co.,Ltd."
+  ],
+  "rewrite_style": "reuters_wire",
+  "name_strategy": "short_brand",
+  "style_notes": "The article uses concise and straightforward language typical of news agency reports.",
+  "rewritten": true
+}

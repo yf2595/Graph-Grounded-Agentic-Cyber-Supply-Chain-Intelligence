@@ -1,0 +1,33 @@
+{
+  "article_id": "INC_120",
+  "incident_id": "INC_120",
+  "headline": "Malware Breach Forces Toyo Denso to Suspend Factory Operations",
+  "body": "Toyo Denso Co., a prominent manufacturer in the automotive parts sector, has halted production across several factories following a malware infiltration. This cyber assault disrupted essential manufacturing channels, leading the company to carry out extensive system overhauls. While there is no indication of any ransom requests, the firm is presently working on a staggered restart of its production facilities. Cybersecurity analysts are emphasizing the severe operational impact and pointing out significant security weaknesses that need addressing in manufacturing systems.",
+  "supplier_names": [
+    "Toyo Denso Co., Ltd."
+  ],
+  "supplier_node_ids": [
+    "ORG_8B095D4F2D7D"
+  ],
+  "is_cyber": true,
+  "in_supply_chain": true,
+  "relevant": true,
+  "case_stratum": "moderate_reach",
+  "impact_level": "severe",
+  "seed_id": "seed_tsmc_2018",
+  "group_id": "GRP_016",
+  "is_merge_variant": true,
+  "merge_seed_article_id": "INC_039",
+  "surface_supplier_names": [
+    "Toyo Denso Co."
+  ],
+  "canonical_supplier_names": [
+    "Toyo Denso Co., Ltd."
+  ],
+  "rewrite_style": "reuters_wire",
+  "name_strategy": "merge_variant",
+  "style_notes": "Compact and fact-focused, typical of wire service stories. Emphasizes operational impact and cybersecurity aspects while using varied terminology to describe the cyber attack.",
+  "rewritten": true,
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced."
+}

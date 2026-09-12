@@ -1,0 +1,28 @@
+{
+  "article_id": "INC_079",
+  "incident_id": "INC_079",
+  "headline": "Lyon Gear Hit by Cyber Raid; Says Operations Unaffected",
+  "body": "LGS, a key player in the European automotive supply chain, reported a cyber intrusion where internal files were allegedly exfiltrated. The company acknowledged the breach, affecting IT systems but assured stakeholders that manufacturing at their French plant continues without interruption. Deliveries to clients remain unaffected as well. No further details on the nature of the attack have been disclosed.",
+  "supplier_names": [
+    "Lyon Gear Solutions SAS"
+  ],
+  "supplier_node_ids": [],
+  "is_cyber": true,
+  "in_supply_chain": false,
+  "relevant": false,
+  "case_stratum": "off_graph_cyber",
+  "impact_level": "none",
+  "seed_id": "seed_synthetic_phish_minor",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real (or fictional as noted) but the incident described is fictional and is not a report of anything that company experienced.",
+  "surface_supplier_names": [
+    "LGS"
+  ],
+  "canonical_supplier_names": [
+    "Lyon Gear Solutions SAS"
+  ],
+  "rewrite_style": "japanese_english_wire",
+  "name_strategy": "ticker_or_market_shorthand",
+  "style_notes": "Adopts a concise and factual tone typical of Japanese English press releases.",
+  "rewritten": true
+}

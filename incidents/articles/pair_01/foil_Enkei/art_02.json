@@ -1,0 +1,14 @@
+{
+  "article_id": "pair_01__foil_Enkei__art_02",
+  "pair": 1,
+  "arm": "foil_Enkei",
+  "slot": 2,
+  "headline": "Enkei Corporation Engages Experts to Combat Cyber Attack",
+  "body": "In the wake of a recent ransomware attack, automotive components supplier Enkei Corporation is taking decisive action to mitigate the impact. The company has engaged external incident response experts to assist in restoring its IT systems, which were disrupted by the attack. While the company has not disclosed any ransom demands, efforts are underway to resume normal operations. Enkei Corporation remains focused on resolving the situation swiftly and securely.",
+  "supplier_name": "Enkei Corporation",
+  "supplier_node_id": "ORG_2D34A53963E5",
+  "construction_regime": "identical-text",
+  "wave": "wave4_symmetric_20260705_103038",
+  "synthetic": true,
+  "disclaimer": "SYNTHETIC ARTICLE: this text was machine-generated for research evaluation; the named company is real but the incident described is fictional and is not a report of anything that company experienced."
+}
